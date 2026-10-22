@@ -1,0 +1,82 @@
+{
+  "fecha": "Jueves 22 de octubre de 2026",
+  "actualizado": "12:50 h",
+  "clima": {
+    "max": 28,
+    "min": 15,
+    "texto": "Cielo nublado con alta probabilidad de lluvia en la capital y en la mayor parte del estado.",
+    "lluvia": "86%",
+    "viento": "5 a 10 km/h",
+    "fuente": "SMN · Conagua"
+  },
+  "municipios": [
+    {
+      "nombre": "San Juan del Río",
+      "max": 25,
+      "min": 13,
+      "lluvia": "95%"
+    },
+    {
+      "nombre": "Corregidora",
+      "max": 27,
+      "min": 14,
+      "lluvia": "95%"
+    },
+    {
+      "nombre": "El Marqués",
+      "max": 27,
+      "min": 14,
+      "lluvia": "90%"
+    },
+    {
+      "nombre": "Tequisquiapan",
+      "max": 27,
+      "min": 14,
+      "lluvia": "95%"
+    },
+    {
+      "nombre": "Amealco",
+      "max": 22,
+      "min": 12,
+      "lluvia": "95%"
+    },
+    {
+      "nombre": "Jalpan de Serra",
+      "max": 31,
+      "min": 20,
+      "lluvia": "95%"
+    }
+  ],
+  "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57",
+      "color": "#0b2a66",
+      "estado": "Opera normal (Capufe, 7:38 h)",
+      "nivel": "ok"
+    }
+  ],
+  "avisos": [
+    {
+      "titulo": "Feria de empleo",
+      "texto": "Más de 300 vacantes para grupos vulnerables en el CRIQ, de 9:00 a 14:00 h.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Desfile de Día de Muertos",
+      "texto": "Registro gratuito abierto hasta el domingo 25 de octubre.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Lluvias",
+      "texto": "Probabilidad de lluvia de hasta 95% en varios municipios; maneja con precaución.",
+      "nivel": "warn"
+    }
+  ],
+  "agenda": [
+    {
+      "hora": "09:00",
+      "texto": "Feria Nacional de Empleo para Grupos Vulnerables, auditorio del CRIQ"
+    }
+  ]
+}

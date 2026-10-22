@@ -1,0 +1,18 @@
+{
+  "titulo": "Clima en Querétaro: máxima de 28 grados y alta probabilidad de lluvia",
+  "seccion": "queretaro",
+  "fecha": "2026-10-22T12:42",
+  "resumen": "El Servicio Meteorológico Nacional prevé para la capital una máxima de 28 °C, mínima de 15 °C, cielo nublado y 86% de probabilidad de lluvia. En San Juan del Río, Corregidora y Amealco la probabilidad llega a 95%. El viento soplará de 5 a 10 km/h, con rachas de hasta 15 km/h.",
+  "cuerpo": "",
+  "imagen_tema": "acueducto",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Telediario",
+      "enlace": "https://www.telediario.mx/comunidad/clima-del-22-de-octubre-de-2026-en-municipios-de-queretaro"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
