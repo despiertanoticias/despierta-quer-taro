@@ -1,66 +1,29 @@
 {
-  "fecha": "Jueves 22 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Viernes 23 de octubre de 2026",
+  "actualizado": "07:00 h",
   "clima": {
-    "max": 28,
-    "min": 15,
-    "texto": "Cielo nublado con alta probabilidad de lluvia en la capital y en la mayor parte del estado.",
-    "lluvia": "86%",
-    "viento": "5 a 10 km/h",
-    "fuente": "SMN · Conagua"
+    "max": 26,
+    "min": 10,
+    "texto": "Nubes y claros; el SMN prevé chubascos ligeros a moderados (5 a 25 mm) por el frente frío 3.",
+    "lluvia": "Chubascos 5-25 mm",
+    "viento": "Rachas de 30 a 50 km/h",
+    "fuente": "SMN · Conagua / Meteored"
   },
-  "municipios": [
-    {
-      "nombre": "San Juan del Río",
-      "max": 25,
-      "min": 13,
-      "lluvia": "95%"
-    },
-    {
-      "nombre": "Corregidora",
-      "max": 27,
-      "min": 14,
-      "lluvia": "95%"
-    },
-    {
-      "nombre": "El Marqués",
-      "max": 27,
-      "min": 14,
-      "lluvia": "90%"
-    },
-    {
-      "nombre": "Tequisquiapan",
-      "max": 27,
-      "min": 14,
-      "lluvia": "95%"
-    },
-    {
-      "nombre": "Amealco",
-      "max": 22,
-      "min": 12,
-      "lluvia": "95%"
-    },
-    {
-      "nombre": "Jalpan de Serra",
-      "max": 31,
-      "min": 20,
-      "lluvia": "95%"
-    }
-  ],
+  "municipios": [],
   "vialidades": [
     {
-      "nombre": "Autopista México-Querétaro",
+      "nombre": "México-Querétaro km 46 (a CDMX)",
       "icono": "57",
       "color": "#0b2a66",
-      "estado": "Opera normal tras percance en el km 55 (Capufe, 7:38 h)",
-      "nivel": "ok"
+      "estado": "Reducción de carriles por choque por alcance (Capufe, mañana)",
+      "nivel": "warn"
     },
     {
-      "nombre": "México-Querétaro km 194-207",
-      "icono": "57",
+      "nombre": "Querétaro-Irapuato km 30 (a Querétaro)",
+      "icono": "45",
       "color": "#0b2a66",
-      "estado": "Reducción de carriles hacia Querétaro por mantenimiento (Capufe, 9:30 h)",
-      "nivel": "warn"
+      "estado": "Accidente ya atendido; persiste carga vehicular (Capufe)",
+      "nivel": "ok"
     }
   ],
   "avisos": [
@@ -80,15 +43,15 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Lluvias",
-      "texto": "Probabilidad de lluvia de hasta 95% en varios municipios; maneja con precaución.",
+      "titulo": "Chubascos y viento",
+      "texto": "El SMN prevé chubascos de 5 a 25 mm y rachas de 30 a 50 km/h en Querétaro por el frente frío 3.",
       "nivel": "warn"
     }
   ],
   "agenda": [
     {
-      "hora": "09:00",
-      "texto": "Feria Nacional de Empleo para Grupos Vulnerables, auditorio del CRIQ"
+      "hora": "10:00",
+      "texto": "Abre el Mercadito de calaveritas y alfeñiques en el CEART (hasta las 19:00 h)"
     }
   ]
 }
