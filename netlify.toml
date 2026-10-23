@@ -23,3 +23,18 @@
   to = "https://despiertaqueretaro.com/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/privacy/"
+  to = "/privacy"
+  status = 301
+
+[[redirects]]
+  from = "/privacidad"
+  to = "/privacy"
+  status = 301
+
+[[redirects]]
+  from = "/privacy"
+  to = "/privacy.html"
+  status = 200

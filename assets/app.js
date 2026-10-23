@@ -104,8 +104,8 @@ function pie(){
   return '<footer class="pie"><div class="wrap"><div><span class="marca"><img src="assets/logo.webp" width="900" height="259" alt="Despierta Querétaro"></span>'+
   '<p style="margin:14px 0 0;max-width:46ch">Una publicación de la editorial de <a href="https://despiertadominicana.com/" target="_blank" rel="noopener" style="text-decoration:underline">Despierta Dominicana</a>. Las notas resumen información de otros medios y enlazan a sus fuentes originales.</p></div>'+
   '<div><h5>Secciones</h5><ul>'+ORDEN_NAV.slice(0,6).map(function(c){return '<li><a href="'+urlSec(c)+'">'+CATS[c]+'</a></li>'}).join("")+'</ul></div>'+
-  '<div><h5>Empresa</h5><ul><li><a href="creditos.html">Créditos de imágenes</a></li><li><a href="index.html#suscribete">Suscripción</a></li><li>Acerca de</li><li>Contacto</li><li>Política de privacidad</li></ul></div>'+
-  '<div class="copy">© 2026 Despierta Querétaro. Fotografías de Wikimedia Commons con licencias libres; ver <a href="creditos.html" style="text-decoration:underline">créditos</a>.</div></div></footer>';
+  '<div><h5>Empresa</h5><ul><li><a href="creditos.html">Créditos de imágenes</a></li><li><a href="index.html#suscribete">Suscripción</a></li><li>Acerca de</li><li>Contacto</li><li><a href="/privacy">Aviso de privacidad</a></li></ul></div>'+
+  '<div class="copy">© 2026 Despierta Querétaro. Fotografías de Wikimedia Commons con licencias libres; ver <a href="creditos.html" style="text-decoration:underline">créditos</a>. Sitio operado por Atlas Media Network, LLC · <a href="/privacy" style="text-decoration:underline">Aviso de privacidad</a></div></div></footer>';
 }
 
 /* ---------- páginas ---------- */
@@ -179,6 +179,7 @@ else if(pagina==="portada")r={actual:"portada",html:portada()};
 else if(pagina==="seccion")r=seccion();
 else if(pagina==="nota")r=nota();
 else if(pagina==="creditos")r={actual:"",html:creditos()};
+else if(pagina==="privacidad"){var src=document.getElementById("politica-src");r={actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido">'+(src?src.innerHTML:"")+rail()+'</main></div>'};if(src)src.remove();}
 else r={actual:"",html:'<div class="wrap"><main class="cuerpo" id="contenido"><div><div class="cabeza"><h1>Página no encontrada</h1></div><p class="vacio">La dirección no existe. Vuelve a la <a href="index.html" style="text-decoration:underline">portada</a>.</p></div>'+rail()+'</main></div>'};
 raiz.innerHTML=cabecera(r.actual)+r.html+pie();
 
