@@ -2,13 +2,25 @@
   publish = "."
   command = "node scripts/build.mjs"
 
+# Datos, scripts y estilos: el navegador siempre revisa si hay versión nueva
 [[headers]]
-  for = "/assets/datos.js"
+  for = "/assets/*.js"
   [headers.values]
-    Cache-Control = "public, max-age=60"
+    Cache-Control = "public, max-age=0, must-revalidate"
 
 [[headers]]
-  for = "/assets/*"
+  for = "/assets/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Imágenes del logo e íconos: pueden guardarse 1 hora
+[[headers]]
+  for = "/assets/*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/assets/*.webp"
   [headers.values]
     Cache-Control = "public, max-age=3600"
 
