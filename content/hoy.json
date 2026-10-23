@@ -1,6 +1,6 @@
 {
   "fecha": "Jueves 22 de octubre de 2026",
-  "actualizado": "12:50 h",
+  "actualizado": "18:45 h",
   "clima": {
     "max": 28,
     "min": 15,
@@ -52,19 +52,31 @@
       "nombre": "Autopista México-Querétaro",
       "icono": "57",
       "color": "#0b2a66",
-      "estado": "Opera normal (Capufe, 7:38 h)",
+      "estado": "Opera normal tras percance en el km 55 (Capufe, 7:38 h)",
       "nivel": "ok"
+    },
+    {
+      "nombre": "México-Querétaro km 194-207",
+      "icono": "57",
+      "color": "#0b2a66",
+      "estado": "Reducción de carriles hacia Querétaro por mantenimiento (Capufe, 9:30 h)",
+      "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "Feria de empleo",
-      "texto": "Más de 300 vacantes para grupos vulnerables en el CRIQ, de 9:00 a 14:00 h.",
+      "titulo": "Mercadito de calaveritas",
+      "texto": "Del 23 al 25 de octubre, de 10:00 a 19:00 h, en el Patio de Novicias del CEART. Entrada libre.",
       "nivel": "ok"
     },
     {
       "titulo": "Desfile de Día de Muertos",
       "texto": "Registro gratuito abierto hasta el domingo 25 de octubre.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Carrera Nocturna",
+      "texto": "Entrega de folios gratuitos el lunes 26 de octubre, 10:00 y 16:00 h, en el Centro Cívico y delegaciones.",
       "nivel": "ok"
     },
     {
