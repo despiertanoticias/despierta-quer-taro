@@ -1,13 +1,13 @@
 {
   "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "19:00 h",
   "clima": {
     "max": 26,
-    "min": 10,
-    "texto": "Nubes y claros; el SMN prevé chubascos ligeros a moderados (5 a 25 mm) por el frente frío 3.",
-    "lluvia": "Chubascos 5-25 mm",
-    "viento": "Rachas de 30 a 50 km/h",
-    "fuente": "SMN · Conagua / Meteored"
+    "min": 11,
+    "texto": "Tarde seca, sin lluvia prevista, con viento del noreste; la temperatura bajará a unos 14 °C hacia la medianoche.",
+    "lluvia": "0%",
+    "viento": "NE, 18 a 44 km/h por la tarde",
+    "fuente": "Meteored"
   },
   "municipios": [],
   "vialidades": [
@@ -15,7 +15,21 @@
       "nombre": "México-Querétaro km 46 (a CDMX)",
       "icono": "57",
       "color": "#0b2a66",
-      "estado": "Reducción de carriles por choque por alcance (Capufe, mañana)",
+      "estado": "Opera normal tras retirar el auto del choque de la mañana (06:53 h)",
+      "nivel": "ok"
+    },
+    {
+      "nombre": "México-Querétaro km 96 (a CDMX)",
+      "icono": "57",
+      "color": "#0b2a66",
+      "estado": "Cierre parcial por choque de tráileres con derrame de aceite (reporte de las 07:11 h)",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "México-Querétaro, La Quebrada (a CDMX)",
+      "icono": "57",
+      "color": "#0b2a66",
+      "estado": "Carga vehicular por accidente mortal de motociclista en Cuautitlán Izcalli (mañana)",
       "nivel": "warn"
     },
     {
@@ -43,8 +57,8 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Chubascos y viento",
-      "texto": "El SMN prevé chubascos de 5 a 25 mm y rachas de 30 a 50 km/h en Querétaro por el frente frío 3.",
+      "titulo": "Viento del noreste",
+      "texto": "Rachas de hasta unos 46 km/h durante la tarde; para el sábado se esperan 24 °C de máxima y 13 °C de mínima, sin lluvia (Meteored).",
       "nivel": "warn"
     }
   ],
