@@ -1,30 +1,30 @@
 {
-  "fecha": "Sábado 24 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Domingo 25 de octubre de 2026",
+  "actualizado": "07:20 h",
   "clima": {
-    "max": 24,
+    "max": 18,
     "min": 14,
-    "texto": "Nublado, con intervalos de chubascos de 5 a 25 mm, posibles descargas eléctricas, por el frente frío 3.",
+    "texto": "Nublado, con lluvia ligera y chubascos dispersos de 5 a 25 mm por el frente frío 3; sensación térmica de 15 °C.",
     "lluvia": "Chubascos (5 a 25 mm)",
-    "viento": "Rachas de 30 a 50 km/h",
-    "fuente": "Panorama / SMN-Conagua"
+    "viento": "Moderado, alrededor de 14 km/h (4 m/s)",
+    "fuente": "Panorama / SMN-Conagua (vía Uno TV)"
   },
   "municipios": [],
   "vialidades": [],
   "avisos": [
     {
       "titulo": "Paro nacional de transportistas",
-      "texto": "La CANACAR convocó a una movilización nacional el lunes 26 de octubre por la inseguridad en carreteras; transportistas de Querétaro se sumarán.",
+      "texto": "La CANACAR convocó a una movilización nacional mañana lunes 26 de octubre por la inseguridad en carreteras; transportistas de Querétaro se sumarán.",
       "nivel": "warn"
     },
     {
-      "titulo": "Mercadito de calaveritas",
-      "texto": "Del 23 al 25 de octubre, de 10:00 a 19:00 h, en el Patio de Novicias del CEART. Entrada libre.",
-      "nivel": "ok"
+      "titulo": "Lluvias por frente frío y Vance",
+      "texto": "El SMN prevé chubascos de 5 a 25 mm en Querétaro este domingo; precaución en vialidades.",
+      "nivel": "warn"
     },
     {
       "titulo": "Desfile de Día de Muertos",
-      "texto": "Registro gratuito abierto hasta el domingo 25 de octubre.",
+      "texto": "Último día de registro gratuito: domingo 25 de octubre.",
       "nivel": "ok"
     },
     {
@@ -33,31 +33,27 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Querétaro vs Cruz Azul",
-      "texto": "Domingo 25 de octubre, 19:00 h, Estadio Corregidora (jornada 14).",
+      "titulo": "Festival de Muertos en San Juan del Río",
+      "texto": "Del 26 de octubre al 2 de noviembre, 54 eventos en el Centro y una hacienda del municipio.",
       "nivel": "ok"
     }
   ],
   "agenda": [
     {
       "hora": "10:00",
-      "texto": "Mercadito y talleres de Día de Muertos en el CEART (hasta las 19:00 h)"
+      "texto": "Último día del mercadito y talleres de Día de Muertos en el Patio de Novicias del CEART (hasta las 19:00 h)"
+    },
+    {
+      "hora": "11:00",
+      "texto": "Toma de protesta de los coordinadores del PAN en el auditorio Josefa Ortiz de Domínguez"
     },
     {
       "hora": "Todo el día",
       "texto": "Fin de semana inaugural del México Street Photo Fest en el CEART y la Cineteca Rosalío Solano"
     },
     {
-      "hora": "17:00",
-      "texto": "Calacas y Colmillos, teatro familiar en La Gaviota Teatro"
-    },
-    {
-      "hora": "18:00",
-      "texto": "Coraline, concierto sinfónico en el Teatro Metropolitano (otra función a las 20:00 h)"
-    },
-    {
       "hora": "19:00",
-      "texto": "LEONORA en el Foro Escénico del Museo de la Ciudad"
+      "texto": "Querétaro vs. Cruz Azul en el Estadio Corregidora (jornada 14, FOX One)"
     }
   ]
 }
