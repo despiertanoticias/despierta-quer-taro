@@ -1,50 +1,64 @@
 {
-  "fecha": "Domingo 25 de octubre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Lunes 26 de octubre de 2026",
+  "actualizado": "07:15 h",
   "clima": {
-    "max": 18,
-    "min": 14,
-    "texto": "Nublado, con lluvia ligera constante durante el día por la interacción de ciclones tropicales y frentes fríos; Protección Civil municipal no reporta afectaciones.",
-    "lluvia": "Chubascos (5 a 25 mm)",
-    "viento": "Moderado, alrededor de 14 km/h (4 m/s)",
-    "fuente": "Panorama / SMN-Conagua; Protección Civil municipal (vía Plaza de Armas)"
+    "max": 22,
+    "min": 13,
+    "texto": "Cielo nublado y ambiente fresco; la tormenta tropical Vance y otros sistemas mantienen el pronóstico de chubascos en el estado.",
+    "lluvia": "Intervalos de chubascos (5 a 25 mm), según el SMN",
+    "viento": "Ligero, alrededor de 11 km/h (3 m/s)",
+    "fuente": "Panorama; SMN-Conagua (vía Uno TV)"
   },
-  "municipios": [],
+  "municipios": [
+    {
+      "nombre": "Tequisquiapan",
+      "max": 21,
+      "min": 14,
+      "lluvia": "Nublado"
+    }
+  ],
   "vialidades": [
     {
-      "nombre": "Carretera estatal 100 (Tolimán–Bernal, km 43)",
-      "icono": "100",
-      "color": "#b45309",
-      "estado": "Bloqueo por tráiler; desvío por camino viejo",
-      "nivel": "bad"
-    },
-    {
-      "nombre": "Autopista México-Querétaro, lateral en La Noria",
+      "nombre": "Autopista México-Querétaro, caseta de Palmillas",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Posibles retrasos por peregrinos",
+      "estado": "Concentración de transportistas desde las 8:00; cierres parciales previstos",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Querétaro-Celaya, plaza de cobro 6 y parador San Javier (km 191)",
+      "icono": "45",
+      "color": "#b45309",
+      "estado": "Concentración de transportistas desde las 8:00",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Carretera 57 a San Luis Potosí, Juriquilla",
+      "icono": "57",
+      "color": "#1d4ed8",
+      "estado": "Punto de protesta de transportistas; circulación lenta posible",
       "nivel": "warn"
     }
   ],
   "avisos": [
     {
       "titulo": "Paro de transportistas",
-      "texto": "La dirigencia de CANACAR mantiene la protesta de mañana lunes 26 de octubre, aunque la mayoría de organizaciones aceptó dialogar con Segob; transportistas de Querétaro anunciaron que se sumarían.",
+      "texto": "La CANACAR y otras organizaciones protestan desde las 8:00 en Palmillas, la Querétaro-Celaya y Juriquilla, con al menos 100 unidades y cierres parciales. Salga con anticipación y consulte a Capufe y la Guardia Nacional.",
       "nivel": "warn"
     },
     {
-      "titulo": "Lluvia ligera",
-      "texto": "Protección Civil municipal prevé 70% de probabilidad de lluvia ligera; maneje con precaución en pavimento mojado.",
+      "titulo": "Chubascos",
+      "texto": "El SMN prevé intervalos de chubascos de 5 a 25 mm en Querétaro; maneje con precaución en pavimento mojado.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Alameda sin puestos",
+      "texto": "El Municipio de Querétaro no permitirá comerciantes en la Alameda Hidalgo durante Día de Muertos; analiza reubicarlos en el Jardín Guerrero y junto a la Fuente de Neptuno.",
+      "nivel": "ok"
     },
     {
       "titulo": "San Judas Tadeo en La Noria",
       "texto": "Mayor afluencia esperada el 27 y 28 de octubre en El Marqués; operativo de PC, Policía Municipal y Guardia Nacional.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Carrera Nocturna",
-      "texto": "Entrega de folios gratuitos el lunes 26 de octubre, 10:00 y 16:00 h, en el Centro Cívico y delegaciones.",
       "nivel": "ok"
     },
     {
@@ -55,8 +69,20 @@
   ],
   "agenda": [
     {
-      "hora": "19:00",
-      "texto": "Querétaro vs. Cruz Azul en el Estadio Corregidora (jornada 14, FOX One)"
+      "hora": "08:00",
+      "texto": "Protesta de transportistas en Palmillas, la Querétaro-Celaya y Juriquilla"
+    },
+    {
+      "hora": "09:00",
+      "texto": "Jornada gratuita de mastografías y ultrasonidos en la delegación Félix Osores Sotomayor"
+    },
+    {
+      "hora": "10:00",
+      "texto": "Entrega de folios gratuitos de la Carrera Nocturna en el Centro Cívico y delegaciones (también a las 16:00)"
+    },
+    {
+      "hora": "Noche",
+      "texto": "Serie Mundial, juego 3: Cerveceros vs. Rays en Tampa (Milwaukee gana 2-0)"
     }
   ]
 }
