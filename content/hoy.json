@@ -1,30 +1,45 @@
 {
   "fecha": "Domingo 25 de octubre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 18,
     "min": 14,
-    "texto": "Nublado, con lluvia ligera y chubascos dispersos de 5 a 25 mm por el frente frío 3; sensación térmica de 15 °C.",
+    "texto": "Nublado, con lluvia ligera constante durante el día por la interacción de ciclones tropicales y frentes fríos; Protección Civil municipal no reporta afectaciones.",
     "lluvia": "Chubascos (5 a 25 mm)",
     "viento": "Moderado, alrededor de 14 km/h (4 m/s)",
-    "fuente": "Panorama / SMN-Conagua (vía Uno TV)"
+    "fuente": "Panorama / SMN-Conagua; Protección Civil municipal (vía Plaza de Armas)"
   },
   "municipios": [],
-  "vialidades": [],
+  "vialidades": [
+    {
+      "nombre": "Carretera estatal 100 (Tolimán–Bernal, km 43)",
+      "icono": "100",
+      "color": "#b45309",
+      "estado": "Bloqueo por tráiler; desvío por camino viejo",
+      "nivel": "bad"
+    },
+    {
+      "nombre": "Autopista México-Querétaro, lateral en La Noria",
+      "icono": "57",
+      "color": "#1d4ed8",
+      "estado": "Posibles retrasos por peregrinos",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
     {
-      "titulo": "Paro nacional de transportistas",
-      "texto": "La CANACAR convocó a una movilización nacional mañana lunes 26 de octubre por la inseguridad en carreteras; transportistas de Querétaro se sumarán.",
+      "titulo": "Paro de transportistas",
+      "texto": "La dirigencia de CANACAR mantiene la protesta de mañana lunes 26 de octubre, aunque la mayoría de organizaciones aceptó dialogar con Segob; transportistas de Querétaro anunciaron que se sumarían.",
       "nivel": "warn"
     },
     {
-      "titulo": "Lluvias por frente frío y Vance",
-      "texto": "El SMN prevé chubascos de 5 a 25 mm en Querétaro este domingo; precaución en vialidades.",
+      "titulo": "Lluvia ligera",
+      "texto": "Protección Civil municipal prevé 70% de probabilidad de lluvia ligera; maneje con precaución en pavimento mojado.",
       "nivel": "warn"
     },
     {
-      "titulo": "Desfile de Día de Muertos",
-      "texto": "Último día de registro gratuito: domingo 25 de octubre.",
+      "titulo": "San Judas Tadeo en La Noria",
+      "texto": "Mayor afluencia esperada el 27 y 28 de octubre en El Marqués; operativo de PC, Policía Municipal y Guardia Nacional.",
       "nivel": "ok"
     },
     {
@@ -39,18 +54,6 @@
     }
   ],
   "agenda": [
-    {
-      "hora": "10:00",
-      "texto": "Último día del mercadito y talleres de Día de Muertos en el Patio de Novicias del CEART (hasta las 19:00 h)"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Toma de protesta de los coordinadores del PAN en el auditorio Josefa Ortiz de Domínguez"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Fin de semana inaugural del México Street Photo Fest en el CEART y la Cineteca Rosalío Solano"
-    },
     {
       "hora": "19:00",
       "texto": "Querétaro vs. Cruz Azul en el Estadio Corregidora (jornada 14, FOX One)"
