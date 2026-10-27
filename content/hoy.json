@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 26 de octubre de 2026",
-  "actualizado": "07:15 h",
+  "actualizado": "18:45 h",
   "clima": {
     "max": 22,
     "min": 13,
@@ -19,31 +19,31 @@
   ],
   "vialidades": [
     {
-      "nombre": "Autopista México-Querétaro, caseta de Palmillas",
+      "nombre": "Autopista México-Querétaro, Palmillas a la capital",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Concentración de transportistas desde las 8:00; cierres parciales previstos",
+      "estado": "Caravana de transportistas a baja velocidad por el carril derecho; caseta de Palmillas abierta",
       "nivel": "warn"
     },
     {
-      "nombre": "Querétaro-Celaya, plaza de cobro 6 y parador San Javier (km 191)",
+      "nombre": "Paseo Central, San Juan del Río (zona La Madrileña)",
+      "icono": "SJR",
+      "color": "#b45309",
+      "estado": "Concentración de tractocamiones y carga vehicular fuerte",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Querétaro-Celaya, parador San Javier (Palo Alto)",
       "icono": "45",
       "color": "#b45309",
-      "estado": "Concentración de transportistas desde las 8:00",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Carretera 57 a San Luis Potosí, Juriquilla",
-      "icono": "57",
-      "color": "#1d4ed8",
-      "estado": "Punto de protesta de transportistas; circulación lenta posible",
+      "estado": "Punto de reunión convocado por la CANACAR",
       "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "Paro de transportistas",
-      "texto": "La CANACAR y otras organizaciones protestan desde las 8:00 en Palmillas, la Querétaro-Celaya y Juriquilla, con al menos 100 unidades y cierres parciales. Salga con anticipación y consulte a Capufe y la Guardia Nacional.",
+      "titulo": "Paro de transportistas sigue",
+      "texto": "La CANACAR anunció movilización por tiempo indefinido. En Querétaro hay caravana lenta entre Palmillas y la capital, sin bloqueos según el Gobierno estatal. Consulte a Capufe y la Guardia Nacional antes de salir.",
       "nivel": "warn"
     },
     {
@@ -54,6 +54,11 @@
     {
       "titulo": "Alameda sin puestos",
       "texto": "El Municipio de Querétaro no permitirá comerciantes en la Alameda Hidalgo durante Día de Muertos; analiza reubicarlos en el Jardín Guerrero y junto a la Fuente de Neptuno.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Megapuente escolar",
+      "texto": "Sin clases en educación básica del viernes 30 de octubre al lunes 2 de noviembre; regreso el martes 3, según el calendario de la SEP.",
       "nivel": "ok"
     },
     {
@@ -69,16 +74,16 @@
   ],
   "agenda": [
     {
-      "hora": "08:00",
-      "texto": "Protesta de transportistas en Palmillas, la Querétaro-Celaya y Juriquilla"
+      "hora": "Todo el día",
+      "texto": "Paro nacional de transportistas: caravana en la autopista México-Querétaro"
     },
     {
-      "hora": "09:00",
-      "texto": "Jornada gratuita de mastografías y ultrasonidos en la delegación Félix Osores Sotomayor"
+      "hora": "Todo el día",
+      "texto": "Altar “Dulces Recuerdos” abierto al público en el Palacio de Gobierno"
     },
     {
-      "hora": "10:00",
-      "texto": "Entrega de folios gratuitos de la Carrera Nocturna en el Centro Cívico y delegaciones (también a las 16:00)"
+      "hora": "Todo el día",
+      "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
     },
     {
       "hora": "Noche",
