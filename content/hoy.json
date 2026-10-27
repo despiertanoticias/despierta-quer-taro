@@ -1,93 +1,72 @@
 {
-  "fecha": "Lunes 26 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Martes 27 de octubre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
-    "max": 22,
-    "min": 13,
-    "texto": "Cielo nublado y ambiente fresco; la tormenta tropical Vance y otros sistemas mantienen el pronóstico de chubascos en el estado.",
-    "lluvia": "Intervalos de chubascos (5 a 25 mm), según el SMN",
-    "viento": "Ligero, alrededor de 11 km/h (3 m/s)",
-    "fuente": "Panorama; SMN-Conagua (vía Uno TV)"
+    "max": 27,
+    "min": 12,
+    "texto": "Mañana fresca con nubes y claros; por la tarde aumenta la nubosidad con posibilidad de lluvia ligera. El SMN ubica a Querétaro en zona de intervalos de chubascos.",
+    "lluvia": "60% de probabilidad, más alta después de las 16:00 (Meteored); SMN: chubascos de 5 a 25 mm",
+    "viento": "Del este, de 14 a 36 km/h",
+    "fuente": "Meteored (tiempo.com); SMN-Conagua (vía Proceso)"
   },
   "municipios": [
-    {
-      "nombre": "Tequisquiapan",
-      "max": 21,
-      "min": 14,
-      "lluvia": "Nublado"
-    }
+    { "nombre": "San Juan del Río", "max": 25, "min": 10, "lluvia": "Lluvia débil (70%)" },
+    { "nombre": "Tequisquiapan", "max": 26, "min": 11, "lluvia": "Lluvia débil (50%)" },
+    { "nombre": "Amealco", "max": 19, "min": 7, "lluvia": "Lluvia débil (80%)" },
+    { "nombre": "Jalpan de Serra", "max": 27, "min": 16, "lluvia": "Nubes y claros" }
   ],
   "vialidades": [
     {
-      "nombre": "Autopista México-Querétaro, Palmillas a la capital",
+      "nombre": "Autopista México-Querétaro",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Caravana de transportistas a baja velocidad por el carril derecho; caseta de Palmillas abierta",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Paseo Central, San Juan del Río (zona La Madrileña)",
-      "icono": "SJR",
-      "color": "#b45309",
-      "estado": "Concentración de tractocamiones y carga vehicular fuerte",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Querétaro-Celaya, parador San Javier (Palo Alto)",
-      "icono": "45",
-      "color": "#b45309",
-      "estado": "Punto de reunión convocado por la CANACAR",
+      "estado": "Bloqueos retirados la noche del lunes; la Canacar mantiene el paro y amaga con nuevas movilizaciones hoy. Consulte a Capufe antes de salir",
       "nivel": "warn"
     }
   ],
   "avisos": [
     {
       "titulo": "Paro de transportistas sigue",
-      "texto": "La CANACAR anunció movilización por tiempo indefinido. En Querétaro hay caravana lenta entre Palmillas y la capital, sin bloqueos según el Gobierno estatal. Consulte a Capufe y la Guardia Nacional antes de salir.",
+      "texto": "La Canacar mantiene el paro por tiempo indefinido y hoy hay mesas con Hacienda. El lunes hubo caravana lenta entre Palmillas y la capital, sin bloqueo de la caseta.",
       "nivel": "warn"
     },
     {
-      "titulo": "Chubascos",
-      "texto": "El SMN prevé intervalos de chubascos de 5 a 25 mm en Querétaro; maneje con precaución en pavimento mojado.",
+      "titulo": "Lluvia por la tarde",
+      "texto": "Se prevén chubascos en el estado, sobre todo después de las 16:00; maneje con precaución en pavimento mojado.",
       "nivel": "warn"
     },
     {
-      "titulo": "Alameda sin puestos",
-      "texto": "El Municipio de Querétaro no permitirá comerciantes en la Alameda Hidalgo durante Día de Muertos; analiza reubicarlos en el Jardín Guerrero y junto a la Fuente de Neptuno.",
+      "titulo": "Descuento en predial",
+      "texto": "El Municipio de Querétaro condona el 100% de multas y recargos del predial y de recargos del traslado de dominio hasta el 31 de octubre. Informes: 442 238 7700.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Panteones de Corregidora",
+      "texto": "Santa Bárbara y Pita abrirán el 30 de octubre de 8:00 a 16:00, el 31 de 8:00 a 18:00 y el 1 y 2 de noviembre de 8:00 a 19:00. Sin alcohol ni vehículos.",
       "nivel": "ok"
     },
     {
       "titulo": "Megapuente escolar",
       "texto": "Sin clases en educación básica del viernes 30 de octubre al lunes 2 de noviembre; regreso el martes 3, según el calendario de la SEP.",
       "nivel": "ok"
-    },
-    {
-      "titulo": "San Judas Tadeo en La Noria",
-      "texto": "Mayor afluencia esperada el 27 y 28 de octubre en El Marqués; operativo de PC, Policía Municipal y Guardia Nacional.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Festival de Muertos en San Juan del Río",
-      "texto": "Del 26 de octubre al 2 de noviembre, 54 eventos en el Centro y una hacienda del municipio.",
-      "nivel": "ok"
     }
   ],
   "agenda": [
     {
       "hora": "Todo el día",
-      "texto": "Paro nacional de transportistas: caravana en la autopista México-Querétaro"
+      "texto": "Fiesta de San Judas Tadeo en La Noria, El Marqués; el operativo de seguridad sigue hasta el 28"
     },
     {
       "hora": "Todo el día",
-      "texto": "Altar “Dulces Recuerdos” abierto al público en el Palacio de Gobierno"
+      "texto": "Altar monumental “Guardianes del Patrimonio” en Plaza de Armas (hasta el 6 de noviembre)"
     },
     {
       "hora": "Todo el día",
       "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
     },
     {
-      "hora": "Noche",
-      "texto": "Serie Mundial, juego 3: Cerveceros vs. Rays en Tampa (Milwaukee gana 2-0)"
+      "hora": "18:00",
+      "texto": "Serie Mundial, juego 4: Cerveceros vs. Rays en Tampa (Milwaukee gana 3-0)"
     }
   ]
 }
