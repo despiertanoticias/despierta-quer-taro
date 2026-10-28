@@ -1,34 +1,54 @@
 {
   "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:59 h",
   "clima": {
-    "max": 27,
+    "max": 26,
     "min": 12,
-    "texto": "Mañana fresca con nubes y claros; por la tarde aumenta la nubosidad con posibilidad de lluvia ligera. El SMN ubica a Querétaro en zona de intervalos de chubascos.",
-    "lluvia": "60% de probabilidad, más alta después de las 16:00 (Meteored); SMN: chubascos de 5 a 25 mm",
-    "viento": "Del este, de 14 a 36 km/h",
-    "fuente": "Meteored (tiempo.com); SMN-Conagua (vía Proceso)"
+    "texto": "Cielo parcialmente nublado con lluvia débil. Para el miércoles 28 se esperan condiciones similares: máxima de 26 °C, mínima de 13 °C y 50% de probabilidad de lluvia.",
+    "lluvia": "70% de probabilidad, lluvia débil (Meteored)",
+    "viento": "Del este, de 14 a 34 km/h",
+    "fuente": "Meteored (meteored.mx)"
   },
   "municipios": [
-    { "nombre": "San Juan del Río", "max": 25, "min": 10, "lluvia": "Lluvia débil (70%)" },
-    { "nombre": "Tequisquiapan", "max": 26, "min": 11, "lluvia": "Lluvia débil (50%)" },
-    { "nombre": "Amealco", "max": 19, "min": 7, "lluvia": "Lluvia débil (80%)" },
-    { "nombre": "Jalpan de Serra", "max": 27, "min": 16, "lluvia": "Nubes y claros" }
+    {
+      "nombre": "San Juan del Río",
+      "max": 25,
+      "min": 10,
+      "lluvia": "Lluvia débil (70%)"
+    },
+    {
+      "nombre": "Tequisquiapan",
+      "max": 26,
+      "min": 11,
+      "lluvia": "Lluvia débil (50%)"
+    },
+    {
+      "nombre": "Amealco",
+      "max": 19,
+      "min": 7,
+      "lluvia": "Lluvia débil (80%)"
+    },
+    {
+      "nombre": "Jalpan de Serra",
+      "max": 27,
+      "min": 16,
+      "lluvia": "Nubes y claros"
+    }
   ],
   "vialidades": [
     {
       "nombre": "Autopista México-Querétaro",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Bloqueos retirados la noche del lunes; la Canacar mantiene el paro y amaga con nuevas movilizaciones hoy. Consulte a Capufe antes de salir",
-      "nivel": "warn"
+      "estado": "La Canacar y otras organizaciones acordaron con Segob retirar los bloqueos de forma definitiva y suspender movilizaciones. Consulte a Capufe antes de salir",
+      "nivel": "ok"
     }
   ],
   "avisos": [
     {
-      "titulo": "Paro de transportistas sigue",
-      "texto": "La Canacar mantiene el paro por tiempo indefinido y hoy hay mesas con Hacienda. El lunes hubo caravana lenta entre Palmillas y la capital, sin bloqueo de la caseta.",
-      "nivel": "warn"
+      "titulo": "Fin del paro de transportistas",
+      "texto": "Canacar, Fematrac, Amotac e Indeco pactaron con Segob y Hacienda retirar los bloqueos y abrir mesas de trabajo sobre seguridad, infraestructura y temas fiscales.",
+      "nivel": "ok"
     },
     {
       "titulo": "Lluvia por la tarde",
@@ -38,6 +58,11 @@
     {
       "titulo": "Descuento en predial",
       "texto": "El Municipio de Querétaro condona el 100% de multas y recargos del predial y de recargos del traslado de dominio hasta el 31 de octubre. Informes: 442 238 7700.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Tablas catastrales 2027",
+      "texto": "Los 18 ayuntamientos tienen hasta el 31 de octubre para enviar sus propuestas de valores catastrales a la Legislatura.",
       "nivel": "ok"
     },
     {
@@ -67,6 +92,10 @@
     {
       "hora": "18:00",
       "texto": "Serie Mundial, juego 4: Cerveceros vs. Rays en Tampa (Milwaukee gana 3-0)"
+    },
+    {
+      "hora": "19:00",
+      "texto": "Sesión extraordinaria del Consejo General del INE para formalizar la presidencia provisional de Blanca Cruz García"
     }
   ]
 }
