@@ -1,38 +1,26 @@
 {
-  "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "18:59 h",
+  "fecha": "Miércoles 28 de octubre de 2026",
+  "actualizado": "07:25 h",
   "clima": {
-    "max": 26,
-    "min": 12,
-    "texto": "Cielo parcialmente nublado con lluvia débil. Para el miércoles 28 se esperan condiciones similares: máxima de 26 °C, mínima de 13 °C y 50% de probabilidad de lluvia.",
-    "lluvia": "70% de probabilidad, lluvia débil (Meteored)",
-    "viento": "Del este, de 14 a 34 km/h",
-    "fuente": "Meteored (meteored.mx)"
+    "max": 27,
+    "min": 11,
+    "texto": "Cielo parcialmente nublado con lluvia débil; el SMN prevé chubascos de 5 a 25 mm en el estado por la circulación de la tormenta tropical Vance y canales de baja presión.",
+    "lluvia": "80% de probabilidad, lluvia débil de 1.8 mm (Meteored)",
+    "viento": "Del este, de 15 a 37 km/h",
+    "fuente": "Meteored (meteored.mx) y SMN"
   },
   "municipios": [
     {
-      "nombre": "San Juan del Río",
-      "max": 25,
-      "min": 10,
-      "lluvia": "Lluvia débil (70%)"
-    },
-    {
-      "nombre": "Tequisquiapan",
-      "max": 26,
-      "min": 11,
-      "lluvia": "Lluvia débil (50%)"
-    },
-    {
       "nombre": "Amealco",
       "max": 19,
-      "min": 7,
-      "lluvia": "Lluvia débil (80%)"
+      "min": 8,
+      "lluvia": "Lluvia débil (90%)"
     },
     {
       "nombre": "Jalpan de Serra",
-      "max": 27,
-      "min": 16,
-      "lluvia": "Nubes y claros"
+      "max": 26,
+      "min": 17,
+      "lluvia": "Parcialmente nublado, sin lluvia prevista"
     }
   ],
   "vialidades": [
@@ -46,23 +34,23 @@
   ],
   "avisos": [
     {
-      "titulo": "Fin del paro de transportistas",
-      "texto": "Canacar, Fematrac, Amotac e Indeco pactaron con Segob y Hacienda retirar los bloqueos y abrir mesas de trabajo sobre seguridad, infraestructura y temas fiscales.",
+      "titulo": "Chubascos en el estado",
+      "texto": "El SMN prevé chubascos de 5 a 25 mm en Querétaro; maneje con precaución en pavimento mojado.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Operativo en panteones",
+      "texto": "Protección Civil estatal estará del 31 de octubre al 3 de noviembre en panteones como El Cimatario y San Pedro Mártir; se esperan 60 mil visitantes. Lleve agua y protéjase del sol.",
       "nivel": "ok"
     },
     {
-      "titulo": "Lluvia por la tarde",
-      "texto": "Se prevén chubascos en el estado, sobre todo después de las 16:00; maneje con precaución en pavimento mojado.",
+      "titulo": "Coxsackie en escuelas",
+      "texto": "Salud estatal pide llevar al médico a niños con síntomas y que regresen a clases con alta; no se cerrarán aulas.",
       "nivel": "warn"
     },
     {
       "titulo": "Descuento en predial",
       "texto": "El Municipio de Querétaro condona el 100% de multas y recargos del predial y de recargos del traslado de dominio hasta el 31 de octubre. Informes: 442 238 7700.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Tablas catastrales 2027",
-      "texto": "Los 18 ayuntamientos tienen hasta el 31 de octubre para enviar sus propuestas de valores catastrales a la Legislatura.",
       "nivel": "ok"
     },
     {
@@ -79,7 +67,7 @@
   "agenda": [
     {
       "hora": "Todo el día",
-      "texto": "Fiesta de San Judas Tadeo en La Noria, El Marqués; el operativo de seguridad sigue hasta el 28"
+      "texto": "Fiesta de San Judas Tadeo en La Noria, El Marqués; último día del operativo de seguridad"
     },
     {
       "hora": "Todo el día",
@@ -90,12 +78,12 @@
       "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
     },
     {
-      "hora": "18:00",
-      "texto": "Serie Mundial, juego 4: Cerveceros vs. Rays en Tampa (Milwaukee gana 3-0)"
+      "hora": "11:00",
+      "texto": "Evento “Pro and Tell” de Apple"
     },
     {
-      "hora": "19:00",
-      "texto": "Sesión extraordinaria del Consejo General del INE para formalizar la presidencia provisional de Blanca Cruz García"
+      "hora": "12:00",
+      "texto": "Decisión de política monetaria de la Reserva Federal de EU"
     }
   ]
 }
