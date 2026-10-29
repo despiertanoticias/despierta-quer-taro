@@ -1,41 +1,40 @@
 {
-  "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "07:25 h",
+  "fecha": "Jueves 29 de octubre de 2026",
+  "actualizado": "07:15 h",
   "clima": {
-    "max": 27,
-    "min": 11,
-    "texto": "Cielo parcialmente nublado con lluvia débil; el SMN prevé chubascos de 5 a 25 mm en el estado por la circulación de la tormenta tropical Vance y canales de baja presión.",
-    "lluvia": "80% de probabilidad, lluvia débil de 1.8 mm (Meteored)",
-    "viento": "Del este, de 15 a 37 km/h",
+    "max": 28,
+    "min": 13,
+    "texto": "Nubes y claros durante el día; lluvia débil posible al final de la tarde. El SMN prevé lluvias aisladas en Querétaro por los remanentes de Vance y canales de baja presión.",
+    "lluvia": "De 0 a 20% en el día; sube a 50-70% entre las 17:00 y las 19:00, cerca de 1 mm (Meteored)",
+    "viento": "Del este, de 14 a 31 km/h",
     "fuente": "Meteored (meteored.mx) y SMN"
   },
   "municipios": [
     {
-      "nombre": "Amealco",
-      "max": 19,
-      "min": 8,
-      "lluvia": "Lluvia débil (90%)"
-    },
-    {
-      "nombre": "Jalpan de Serra",
-      "max": 26,
-      "min": 17,
-      "lluvia": "Parcialmente nublado, sin lluvia prevista"
+      "nombre": "San Juan del Río",
+      "max": 27,
+      "min": 12,
+      "lluvia": "Lluvia débil (40%)"
     }
   ],
   "vialidades": [
     {
-      "nombre": "Autopista México-Querétaro",
+      "nombre": "Carretera 57, Cuesta China",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "La Canacar y otras organizaciones acordaron con Segob retirar los bloqueos de forma definitiva y suspender movilizaciones. Consulte a Capufe antes de salir",
-      "nivel": "ok"
+      "estado": "Tramo en obras entre El Marqués y la capital; ayer un choque de tráiler causó carga vehicular rumbo a Querétaro. Maneje con precaución",
+      "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "Chubascos en el estado",
-      "texto": "El SMN prevé chubascos de 5 a 25 mm en Querétaro; maneje con precaución en pavimento mojado.",
+      "titulo": "Lluvia por la tarde",
+      "texto": "Meteored prevé lluvia débil entre las 17:00 y las 19:00 en la capital; ayer un tráiler derrapó por pavimento mojado en la 57 en San Juan del Río. Reduzca la velocidad.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Marcha estudiantil",
+      "texto": "Estudiantes de Filosofía de la UAQ marcharán a las 10:15 del Campus Centro Histórico al Centro Universitario; prevea desvíos.",
       "nivel": "warn"
     },
     {
@@ -59,16 +58,17 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Megapuente escolar",
-      "texto": "Sin clases en educación básica del viernes 30 de octubre al lunes 2 de noviembre; regreso el martes 3, según el calendario de la SEP.",
+      "titulo": "Sin clases el 2 de noviembre",
+      "texto": "La USEBEQ confirmó que el lunes 2 de noviembre no habrá clases en educación básica; el viernes 30 es de Consejo Técnico Escolar.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Vacunación de invierno",
+      "texto": "El IMSS aplica vacunas contra influenza y covid en sus unidades de lunes a viernes de 8:00 a 20:00, para derechohabientes y público en general.",
       "nivel": "ok"
     }
   ],
   "agenda": [
-    {
-      "hora": "Todo el día",
-      "texto": "Fiesta de San Judas Tadeo en La Noria, El Marqués; último día del operativo de seguridad"
-    },
     {
       "hora": "Todo el día",
       "texto": "Altar monumental “Guardianes del Patrimonio” en Plaza de Armas (hasta el 6 de noviembre)"
@@ -78,12 +78,12 @@
       "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
     },
     {
-      "hora": "11:00",
-      "texto": "Evento “Pro and Tell” de Apple"
+      "hora": "10:00",
+      "texto": "Concentración y marcha de estudiantes de Filosofía de la UAQ hacia el Centro Universitario"
     },
     {
-      "hora": "12:00",
-      "texto": "Decisión de política monetaria de la Reserva Federal de EU"
+      "hora": "Mañana",
+      "texto": "Decisión de tasas del Banco Central Europeo"
     }
   ]
 }
