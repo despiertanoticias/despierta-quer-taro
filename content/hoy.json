@@ -1,40 +1,29 @@
 {
-  "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Viernes 30 de octubre de 2026",
+  "actualizado": "07:00 h",
   "clima": {
     "max": 28,
-    "min": 13,
-    "ahora": 23,
-    "texto": "Nubes y claros, sin lluvia significativa por la noche. Para el viernes 30 se esperan 30 °C de máxima y 13 °C de mínima.",
-    "lluvia": "Baja; de 0 a 20% en las próximas horas, sin acumulación prevista (Meteored)",
-    "viento": "Del este, de 12 a 25 km/h",
-    "fuente": "Meteored (meteored.mx); temperatura actual de las 18:00"
+    "min": 15,
+    "texto": "Cielo parcialmente nublado, con nubes dispersas y periodos de sol; sin lluvia prevista.",
+    "lluvia": "Cerca de 0%",
+    "viento": "Ligero, alrededor de 7 km/h (2 m/s)",
+    "fuente": "Panorama (panoramaweb.com.mx), pronóstico del 29 de octubre"
   },
   "municipios": [
     {
-      "nombre": "San Juan del Río",
-      "max": 27,
-      "min": 12,
-      "lluvia": "Lluvia débil (40%)"
+      "nombre": "Bernal (Ezequiel Montes)",
+      "max": 25,
+      "min": 13,
+      "lluvia": "Sin lluvia prevista"
     }
   ],
-  "vialidades": [
+  "vialidades": [],
+  "avisos": [
     {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#b91c1c",
-      "estado": "Reducción de carriles por mantenimiento del km 194 al 207 rumbo a Querétaro y del km 158 al 148 rumbo a CDMX; por la mañana hubo un choque múltiple en el km 126 (Guardia Nacional / Capufe vía N+)",
+      "titulo": "Marcha del IMSS",
+      "texto": "Hoy a las 15:30, trabajadores del IMSS marcharán de avenida Zaragoza al cruce de Calzada de los Arcos y Bernardo Quintana. Prevea rutas alternas.",
       "nivel": "warn"
     },
-    {
-      "nombre": "Carretera 57 a San Luis Potosí",
-      "icono": "57",
-      "color": "#1d4ed8",
-      "estado": "Volcadura de pipa y choque de tres tráileres en el km 165, Santa María del Río (SLP), con un muerto; circulación reducida a un carril en la mañana",
-      "nivel": "warn"
-    }
-  ],
-  "avisos": [
     {
       "titulo": "Cierre en Calzada de los Arcos",
       "texto": "El 1 de noviembre se cerrará la Calzada de los Arcos de Bernardo Quintana a Ejército Republicano por el paseo recreativo y el desfile de catrinas del Festival de Día de Muertos.",
@@ -46,13 +35,8 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Coxsackie en escuelas",
-      "texto": "Salud estatal pide llevar al médico a niños con síntomas y que regresen a clases con alta; no se cerrarán aulas.",
-      "nivel": "warn"
-    },
-    {
       "titulo": "Descuento en predial",
-      "texto": "El Municipio de Querétaro condona el 100% de multas y recargos del predial y de recargos del traslado de dominio hasta el 31 de octubre. Informes: 442 238 7700.",
+      "texto": "El Municipio de Querétaro condona el 100% de multas y recargos del predial y de recargos del traslado de dominio hasta mañana, 31 de octubre. Informes: 442 238 7700.",
       "nivel": "ok"
     },
     {
@@ -62,7 +46,7 @@
     },
     {
       "titulo": "Sin clases el 2 de noviembre",
-      "texto": "La USEBEQ confirmó que el lunes 2 de noviembre no habrá clases en educación básica; el viernes 30 es de Consejo Técnico Escolar.",
+      "texto": "Hoy viernes 30 no hay clases en educación básica por el Consejo Técnico Escolar, y el lunes 2 de noviembre tampoco, confirmó la USEBEQ.",
       "nivel": "ok"
     },
     {
@@ -73,8 +57,24 @@
   ],
   "agenda": [
     {
+      "hora": "11:30",
+      "texto": "Primera práctica del Gran Premio de México de F1 (la segunda, a las 16:00)"
+    },
+    {
+      "hora": "12:30",
+      "texto": "Homenaje de cuerpo presente a Cuauhtémoc Cárdenas en el Palacio de Bellas Artes, abierto al público"
+    },
+    {
+      "hora": "15:30",
+      "texto": "Marcha de trabajadores del IMSS, de avenida Zaragoza a Calzada de los Arcos"
+    },
+    {
       "hora": "17:00 a 22:00",
       "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
+    },
+    {
+      "hora": "19:00",
+      "texto": "FC Juárez vs. Querétaro, jornada 15 del Apertura 2026, en el Estadio Olímpico Benito Juárez"
     },
     {
       "hora": "Todo el día",
@@ -83,14 +83,6 @@
     {
       "hora": "Todo el día",
       "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
-    },
-    {
-      "hora": "Mañana, 11:30",
-      "texto": "Primera práctica del Gran Premio de México de F1"
-    },
-    {
-      "hora": "Mañana, 16:00",
-      "texto": "Homenaje de cuerpo presente a Cuauhtémoc Cárdenas en el Palacio de Bellas Artes"
     }
   ]
 }
