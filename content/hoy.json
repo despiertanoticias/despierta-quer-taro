@@ -1,13 +1,14 @@
 {
   "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "07:15 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 28,
     "min": 13,
-    "texto": "Nubes y claros durante el día; lluvia débil posible al final de la tarde. El SMN prevé lluvias aisladas en Querétaro por los remanentes de Vance y canales de baja presión.",
-    "lluvia": "De 0 a 20% en el día; sube a 50-70% entre las 17:00 y las 19:00, cerca de 1 mm (Meteored)",
-    "viento": "Del este, de 14 a 31 km/h",
-    "fuente": "Meteored (meteored.mx) y SMN"
+    "ahora": 23,
+    "texto": "Nubes y claros, sin lluvia significativa por la noche. Para el viernes 30 se esperan 30 °C de máxima y 13 °C de mínima.",
+    "lluvia": "Baja; de 0 a 20% en las próximas horas, sin acumulación prevista (Meteored)",
+    "viento": "Del este, de 12 a 25 km/h",
+    "fuente": "Meteored (meteored.mx); temperatura actual de las 18:00"
   },
   "municipios": [
     {
@@ -19,22 +20,24 @@
   ],
   "vialidades": [
     {
-      "nombre": "Carretera 57, Cuesta China",
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b91c1c",
+      "estado": "Reducción de carriles por mantenimiento del km 194 al 207 rumbo a Querétaro y del km 158 al 148 rumbo a CDMX; por la mañana hubo un choque múltiple en el km 126 (Guardia Nacional / Capufe vía N+)",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Carretera 57 a San Luis Potosí",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Tramo en obras entre El Marqués y la capital; ayer un choque de tráiler causó carga vehicular rumbo a Querétaro. Maneje con precaución",
+      "estado": "Volcadura de pipa y choque de tres tráileres en el km 165, Santa María del Río (SLP), con un muerto; circulación reducida a un carril en la mañana",
       "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "Lluvia por la tarde",
-      "texto": "Meteored prevé lluvia débil entre las 17:00 y las 19:00 en la capital; ayer un tráiler derrapó por pavimento mojado en la 57 en San Juan del Río. Reduzca la velocidad.",
-      "nivel": "warn"
-    },
-    {
-      "titulo": "Marcha estudiantil",
-      "texto": "Estudiantes de Filosofía de la UAQ marcharán a las 10:15 del Campus Centro Histórico al Centro Universitario; prevea desvíos.",
+      "titulo": "Cierre en Calzada de los Arcos",
+      "texto": "El 1 de noviembre se cerrará la Calzada de los Arcos de Bernardo Quintana a Ejército Republicano por el paseo recreativo y el desfile de catrinas del Festival de Día de Muertos.",
       "nivel": "warn"
     },
     {
@@ -70,6 +73,10 @@
   ],
   "agenda": [
     {
+      "hora": "17:00 a 22:00",
+      "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
+    },
+    {
       "hora": "Todo el día",
       "texto": "Altar monumental “Guardianes del Patrimonio” en Plaza de Armas (hasta el 6 de noviembre)"
     },
@@ -78,12 +85,12 @@
       "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
     },
     {
-      "hora": "10:00",
-      "texto": "Concentración y marcha de estudiantes de Filosofía de la UAQ hacia el Centro Universitario"
+      "hora": "Mañana, 11:30",
+      "texto": "Primera práctica del Gran Premio de México de F1"
     },
     {
-      "hora": "Mañana",
-      "texto": "Decisión de tasas del Banco Central Europeo"
+      "hora": "Mañana, 16:00",
+      "texto": "Homenaje de cuerpo presente a Cuauhtémoc Cárdenas en el Palacio de Bellas Artes"
     }
   ]
 }
