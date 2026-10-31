@@ -1,13 +1,13 @@
 {
   "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:45 h",
   "clima": {
-    "max": 28,
-    "min": 15,
-    "texto": "Cielo parcialmente nublado, con nubes dispersas y periodos de sol; sin lluvia prevista.",
-    "lluvia": "Cerca de 0%",
-    "viento": "Ligero, alrededor de 7 km/h (2 m/s)",
-    "fuente": "Panorama (panoramaweb.com.mx), pronóstico del 29 de octubre"
+    "max": 29,
+    "min": 12,
+    "texto": "Mañana fría a fresca con bancos de niebla y tarde cálida; posibles lluvias aisladas (0.1 a 5 mm) en el estado.",
+    "lluvia": "Lluvias aisladas, baja probabilidad",
+    "viento": "Variable, de 10 a 20 km/h, con rachas de 30 a 50 km/h",
+    "fuente": "SMN / Conagua vía Rotativo, pronóstico del 30 al 31 de octubre"
   },
   "municipios": [
     {
@@ -17,13 +17,16 @@
       "lluvia": "Sin lluvia prevista"
     }
   ],
-  "vialidades": [],
-  "avisos": [
+  "vialidades": [
     {
-      "titulo": "Marcha del IMSS",
-      "texto": "Hoy a las 15:30, trabajadores del IMSS marcharán de avenida Zaragoza al cruce de Calzada de los Arcos y Bernardo Quintana. Prevea rutas alternas.",
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b91c1c",
+      "estado": "Esta mañana un choque múltiple entre los km 79 y 81, en Tepeji del Río, dejó un muerto y siete heridos; tras más de dos horas la circulación se reanudó con reducción de carriles (Capufe / Azteca Bajío)",
       "nivel": "warn"
-    },
+    }
+  ],
+  "avisos": [
     {
       "titulo": "Cierre en Calzada de los Arcos",
       "texto": "El 1 de noviembre se cerrará la Calzada de los Arcos de Bernardo Quintana a Ejército Republicano por el paseo recreativo y el desfile de catrinas del Festival de Día de Muertos.",
@@ -33,6 +36,11 @@
       "titulo": "Operativo en panteones",
       "texto": "Protección Civil estatal estará del 31 de octubre al 3 de noviembre en panteones como El Cimatario y San Pedro Mártir; se esperan 60 mil visitantes. Lleve agua y protéjase del sol.",
       "nivel": "ok"
+    },
+    {
+      "titulo": "Alerta por Riopan falsificado",
+      "texto": "Cofepris y la Secretaría de Salud estatal piden no comprar Riopan gel de 250 mL de los lotes 12542237 y 12191278 (falsificado y adulterado), sobre todo en tianguis o comercios informales.",
+      "nivel": "warn"
     },
     {
       "titulo": "Descuento en predial",
@@ -53,21 +61,14 @@
       "titulo": "Vacunación de invierno",
       "texto": "El IMSS aplica vacunas contra influenza y covid en sus unidades de lunes a viernes de 8:00 a 20:00, para derechohabientes y público en general.",
       "nivel": "ok"
+    },
+    {
+      "titulo": "Operativo de seguridad 1 y 2 de noviembre",
+      "texto": "La Policía Estatal tendrá recorridos dentro y fuera de los panteones de los 18 municipios. No deje objetos de valor a la vista y, ante una emergencia, llame al 9-1-1.",
+      "nivel": "ok"
     }
   ],
   "agenda": [
-    {
-      "hora": "11:30",
-      "texto": "Primera práctica del Gran Premio de México de F1 (la segunda, a las 16:00)"
-    },
-    {
-      "hora": "12:30",
-      "texto": "Homenaje de cuerpo presente a Cuauhtémoc Cárdenas en el Palacio de Bellas Artes, abierto al público"
-    },
-    {
-      "hora": "15:30",
-      "texto": "Marcha de trabajadores del IMSS, de avenida Zaragoza a Calzada de los Arcos"
-    },
     {
       "hora": "17:00 a 22:00",
       "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
