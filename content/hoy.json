@@ -1,32 +1,35 @@
 {
-  "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Sábado 31 de octubre de 2026",
+  "actualizado": "07:40 h",
   "clima": {
     "max": 29,
-    "min": 12,
-    "texto": "Mañana fría a fresca con bancos de niebla y tarde cálida; posibles lluvias aisladas (0.1 a 5 mm) en el estado.",
+    "min": 16,
+    "texto": "Cielo mayormente despejado; el SMN prevé lluvias aisladas (0.1 a 5 mm) en el estado y la entrada de un nuevo frente frío por el noroeste esta noche.",
     "lluvia": "Lluvias aisladas, baja probabilidad",
-    "viento": "Variable, de 10 a 20 km/h, con rachas de 30 a 50 km/h",
-    "fuente": "SMN / Conagua vía Rotativo, pronóstico del 30 al 31 de octubre"
+    "viento": "Rachas de 30 a 50 km/h en la región",
+    "fuente": "Panorama (temperaturas) y SMN vía Uno TV, pronóstico del 31 de octubre"
   },
   "municipios": [
     {
+      "nombre": "Tequisquiapan",
+      "max": 26,
+      "min": 14,
+      "lluvia": "Sin lluvia prevista"
+    },
+    {
       "nombre": "Bernal (Ezequiel Montes)",
-      "max": 25,
-      "min": 13,
+      "max": 24,
+      "min": 14,
       "lluvia": "Sin lluvia prevista"
     }
   ],
-  "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#b91c1c",
-      "estado": "Esta mañana un choque múltiple entre los km 79 y 81, en Tepeji del Río, dejó un muerto y siete heridos; tras más de dos horas la circulación se reanudó con reducción de carriles (Capufe / Azteca Bajío)",
-      "nivel": "warn"
-    }
-  ],
+  "vialidades": [],
   "avisos": [
+    {
+      "titulo": "Dengue: prevención en panteones",
+      "texto": "Salud estatal confirmó un segundo caso local de dengue en el municipio de Querétaro. Al llevar flores, use arena húmeda en lugar de agua en los floreros.",
+      "nivel": "warn"
+    },
     {
       "titulo": "Cierre en Calzada de los Arcos",
       "texto": "El 1 de noviembre se cerrará la Calzada de los Arcos de Bernardo Quintana a Ejército Republicano por el paseo recreativo y el desfile de catrinas del Festival de Día de Muertos.",
@@ -43,18 +46,8 @@
       "nivel": "warn"
     },
     {
-      "titulo": "Descuento en predial",
-      "texto": "El Municipio de Querétaro condona el 100% de multas y recargos del predial y de recargos del traslado de dominio hasta mañana, 31 de octubre. Informes: 442 238 7700.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Panteones de Corregidora",
       "texto": "Santa Bárbara y Pita abrirán el 30 de octubre de 8:00 a 16:00, el 31 de 8:00 a 18:00 y el 1 y 2 de noviembre de 8:00 a 19:00. Sin alcohol ni vehículos.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Sin clases el 2 de noviembre",
-      "texto": "Hoy viernes 30 no hay clases en educación básica por el Consejo Técnico Escolar, y el lunes 2 de noviembre tampoco, confirmó la USEBEQ.",
       "nivel": "ok"
     },
     {
@@ -66,16 +59,34 @@
       "titulo": "Operativo de seguridad 1 y 2 de noviembre",
       "texto": "La Policía Estatal tendrá recorridos dentro y fuera de los panteones de los 18 municipios. No deje objetos de valor a la vista y, ante una emergencia, llame al 9-1-1.",
       "nivel": "ok"
+    },
+    {
+      "titulo": "Último día del descuento en predial",
+      "texto": "Hoy 31 de octubre vence la condonación del 100% de multas y recargos del predial y de recargos del traslado de dominio en el Municipio de Querétaro. Informes: 442 238 7700.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Sin clases el lunes 2",
+      "texto": "La USEBEQ confirmó que el lunes 2 de noviembre no habrá clases en educación básica.",
+      "nivel": "ok"
     }
   ],
   "agenda": [
     {
-      "hora": "17:00 a 22:00",
-      "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
+      "hora": "13:00",
+      "texto": "La presidenta Claudia Sheinbaum supervisa el tren México-Querétaro, de Polotitlán al túnel del macrolibramiento en Santa Bárbara La Cueva, Corregidora"
     },
     {
-      "hora": "19:00",
-      "texto": "FC Juárez vs. Querétaro, jornada 15 del Apertura 2026, en el Estadio Olímpico Benito Juárez"
+      "hora": "14:00",
+      "texto": "Gran Desfile de Día de Muertos en la CDMX, de la Diana Cazadora al Zócalo"
+    },
+    {
+      "hora": "15:00",
+      "texto": "Clasificación del Gran Premio de México de F1 (tercera práctica a las 11:30)"
+    },
+    {
+      "hora": "17:00 a 22:00",
+      "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
     },
     {
       "hora": "Todo el día",
