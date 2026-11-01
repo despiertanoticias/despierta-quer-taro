@@ -1,38 +1,25 @@
 {
-  "fecha": "Sábado 31 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Domingo 1 de noviembre de 2026",
+  "actualizado": "07:00 h",
   "clima": {
-    "max": 29,
-    "min": 16,
-    "texto": "Cielo despejado en Santiago de Querétaro, con máxima de 29 °C; el SMN prevé la entrada de un nuevo frente frío por el noroeste del país esta noche. Para el domingo se esperan 29 °C de máxima y 15 °C de mínima.",
+    "max": 28,
+    "min": 15,
+    "texto": "Cielo despejado la mayor parte del día en Santiago de Querétaro, con máxima de 28 °C y mínima de 15 °C. El SMN prevé una circulación anticiclónica que reducirá las lluvias en casi todo el país; el frente frío número 4 avanza por el noroeste.",
     "lluvia": "Sin lluvia prevista en la capital",
-    "viento": "Brisa ligera",
-    "fuente": "Panorama (pronóstico del 31 de octubre) y SMN vía Uno TV"
+    "viento": "4 m/s",
+    "fuente": "Panorama (pronóstico del 1 de noviembre) y SMN vía El Cronista"
   },
-  "municipios": [
-    {
-      "nombre": "Tequisquiapan",
-      "max": 26,
-      "min": 14,
-      "lluvia": "Sin lluvia prevista"
-    },
-    {
-      "nombre": "Bernal (Ezequiel Montes)",
-      "max": 24,
-      "min": 14,
-      "lluvia": "Sin lluvia prevista"
-    }
-  ],
+  "municipios": [],
   "vialidades": [],
   "avisos": [
     {
-      "titulo": "Dengue: prevención en panteones",
-      "texto": "Salud estatal confirmó un segundo caso local de dengue en el municipio de Querétaro. Al llevar flores, use arena húmeda en lugar de agua en los floreros.",
+      "titulo": "Cierre en Calzada de los Arcos hoy",
+      "texto": "Este 1 de noviembre la Calzada de los Arcos permanece cerrada de Bernardo Quintana a Ejército Republicano por el paseo recreativo matutino y el desfile \"Camino de las Almas\" de la tarde. Use rutas alternas.",
       "nivel": "warn"
     },
     {
-      "titulo": "Revisión en antros y fiestas",
-      "texto": "El municipio de Querétaro mantendrá operativos aleatorios en bares, antros y salones para impedir el acceso de menores; reporte irregularidades al 070 o al 911.",
+      "titulo": "Dengue: prevención en panteones",
+      "texto": "Salud estatal confirmó un segundo caso local de dengue en el municipio de Querétaro. Al llevar flores, use arena húmeda en lugar de agua en los floreros.",
       "nivel": "warn"
     },
     {
@@ -56,11 +43,6 @@
       "nivel": "warn"
     },
     {
-      "titulo": "Panteones de Corregidora",
-      "texto": "Santa Bárbara y Pita abrirán el 30 de octubre de 8:00 a 16:00, el 31 de 8:00 a 18:00 y el 1 y 2 de noviembre de 8:00 a 19:00. Sin alcohol ni vehículos.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Vacunación de invierno",
       "texto": "El IMSS aplica vacunas contra influenza y covid en sus unidades de lunes a viernes de 8:00 a 20:00, para derechohabientes y público en general.",
       "nivel": "ok"
@@ -74,20 +56,38 @@
       "titulo": "Sin clases el lunes 2",
       "texto": "La USEBEQ confirmó que el lunes 2 de noviembre no habrá clases en educación básica.",
       "nivel": "ok"
+    },
+    {
+      "titulo": "Panteones de Corregidora",
+      "texto": "Santa Bárbara y Pita abren el 1 y 2 de noviembre de 8:00 a 19:00. Sin alcohol ni vehículos.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Obras de JAPAM en San Juan del Río",
+      "texto": "Del 3 de noviembre al 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
+      "nivel": "warn"
     }
   ],
   "agenda": [
+    {
+      "hora": "Mañana",
+      "texto": "Paseo recreativo en la Calzada de los Arcos"
+    },
+    {
+      "hora": "14:00",
+      "texto": "Carrera del Gran Premio de la Ciudad de México de F1; Hamilton sale desde la pole y Antonelli puede ser campeón"
+    },
+    {
+      "hora": "Tarde",
+      "texto": "Desfile \"Camino de las Almas\" con más de 300 artistas: de Arcos y Bernardo Quintana a Plaza Fundadores, con video mapping en los Arcos"
+    },
     {
       "hora": "17:00 a 22:00",
       "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
     },
     {
-      "hora": "19:05",
-      "texto": "Liga MX, jornada 15: Monterrey vs. Tijuana en el Estadio BBVA"
-    },
-    {
-      "hora": "21:10",
-      "texto": "Liga MX, jornada 15: América vs. Toluca en el Estadio Banorte"
+      "hora": "20:00",
+      "texto": "Resultados del concurso de la Cabalgata de los Muertos en el Jardín Independencia de San Juan del Río"
     },
     {
       "hora": "Todo el día",
@@ -99,11 +99,7 @@
     },
     {
       "hora": "Todo el día",
-      "texto": "Festival de Día de Muertos de El Marqués: altar en Plaza San Pedro, tapete en la Casa de Cultura de La Cañada y Casa de la Catrina (hasta el 2 de noviembre)"
-    },
-    {
-      "hora": "Domingo 1",
-      "texto": "Carrera del Gran Premio de la Ciudad de México de F1; Hamilton sale desde la pole"
+      "texto": "Altar de la SSPMQ en honor a 70 policías en la delegación Centro Histórico (hasta el 2 de noviembre)"
     }
   ]
 }

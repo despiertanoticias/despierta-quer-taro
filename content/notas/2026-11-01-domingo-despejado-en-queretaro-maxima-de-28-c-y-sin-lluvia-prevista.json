@@ -1,0 +1,22 @@
+{
+  "titulo": "Domingo despejado en Querétaro: máxima de 28 °C y sin lluvia prevista",
+  "seccion": "queretaro",
+  "fecha": "2026-11-01T06:54",
+  "resumen": "Para este 1 de noviembre se espera cielo despejado la mayor parte del día en Santiago de Querétaro, con máxima de 28 °C y mínima de 15 °C, sin lluvias en el corto plazo. El SMN prevé una circulación anticiclónica que reducirá las lluvias en casi todo el país, mientras el frente frío número 4 avanza por el noroeste y el norte con lluvias fuertes en Baja California y Sonora.",
+  "cuerpo": "",
+  "imagen_tema": "centro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Panorama",
+      "enlace": "https://www.panoramaweb.com.mx/tendencias/2026/10/31/noticia-53484.html"
+    },
+    {
+      "medio": "El Cronista",
+      "enlace": "https://www.cronista.com/mexico/actualidad-mx/smn-pronostica-una-circulacion-anticiclonica-el-fenomeno-meteorologico-frenara-las-lluvias-en-casi-todo-el-pais-desde-este-domingo/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
