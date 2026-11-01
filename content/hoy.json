@@ -1,13 +1,13 @@
 {
   "fecha": "Sábado 31 de octubre de 2026",
-  "actualizado": "07:40 h",
+  "actualizado": "18:45 h",
   "clima": {
     "max": 29,
     "min": 16,
-    "texto": "Cielo mayormente despejado; el SMN prevé lluvias aisladas (0.1 a 5 mm) en el estado y la entrada de un nuevo frente frío por el noroeste esta noche.",
-    "lluvia": "Lluvias aisladas, baja probabilidad",
-    "viento": "Rachas de 30 a 50 km/h en la región",
-    "fuente": "Panorama (temperaturas) y SMN vía Uno TV, pronóstico del 31 de octubre"
+    "texto": "Cielo despejado en Santiago de Querétaro, con máxima de 29 °C; el SMN prevé la entrada de un nuevo frente frío por el noroeste del país esta noche. Para el domingo se esperan 29 °C de máxima y 15 °C de mínima.",
+    "lluvia": "Sin lluvia prevista en la capital",
+    "viento": "Brisa ligera",
+    "fuente": "Panorama (pronóstico del 31 de octubre) y SMN vía Uno TV"
   },
   "municipios": [
     {
@@ -31,9 +31,19 @@
       "nivel": "warn"
     },
     {
+      "titulo": "Revisión en antros y fiestas",
+      "texto": "El municipio de Querétaro mantendrá operativos aleatorios en bares, antros y salones para impedir el acceso de menores; reporte irregularidades al 070 o al 911.",
+      "nivel": "warn"
+    },
+    {
       "titulo": "Cierre en Calzada de los Arcos",
       "texto": "El 1 de noviembre se cerrará la Calzada de los Arcos de Bernardo Quintana a Ejército Republicano por el paseo recreativo y el desfile de catrinas del Festival de Día de Muertos.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Operativo en panteones de San Juan del Río",
+      "texto": "Del 31 de octubre al 2 de noviembre más de 80 policías municipales vigilan los panteones; hay puesto de mando cerca del Panteón 2 y comandancia móvil frente al Panteón 3.",
+      "nivel": "ok"
     },
     {
       "titulo": "Operativo en panteones",
@@ -61,11 +71,6 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Último día del descuento en predial",
-      "texto": "Hoy 31 de octubre vence la condonación del 100% de multas y recargos del predial y de recargos del traslado de dominio en el Municipio de Querétaro. Informes: 442 238 7700.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Sin clases el lunes 2",
       "texto": "La USEBEQ confirmó que el lunes 2 de noviembre no habrá clases en educación básica.",
       "nivel": "ok"
@@ -73,20 +78,16 @@
   ],
   "agenda": [
     {
-      "hora": "13:00",
-      "texto": "La presidenta Claudia Sheinbaum supervisa el tren México-Querétaro, de Polotitlán al túnel del macrolibramiento en Santa Bárbara La Cueva, Corregidora"
-    },
-    {
-      "hora": "14:00",
-      "texto": "Gran Desfile de Día de Muertos en la CDMX, de la Diana Cazadora al Zócalo"
-    },
-    {
-      "hora": "15:00",
-      "texto": "Clasificación del Gran Premio de México de F1 (tercera práctica a las 11:30)"
-    },
-    {
       "hora": "17:00 a 22:00",
       "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
+    },
+    {
+      "hora": "19:05",
+      "texto": "Liga MX, jornada 15: Monterrey vs. Tijuana en el Estadio BBVA"
+    },
+    {
+      "hora": "21:10",
+      "texto": "Liga MX, jornada 15: América vs. Toluca en el Estadio Banorte"
     },
     {
       "hora": "Todo el día",
@@ -95,6 +96,14 @@
     {
       "hora": "Todo el día",
       "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Festival de Día de Muertos de El Marqués: altar en Plaza San Pedro, tapete en la Casa de Cultura de La Cañada y Casa de la Catrina (hasta el 2 de noviembre)"
+    },
+    {
+      "hora": "Domingo 1",
+      "texto": "Carrera del Gran Premio de la Ciudad de México de F1; Hamilton sale desde la pole"
     }
   ]
 }
