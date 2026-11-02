@@ -1,17 +1,55 @@
 {
   "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:55 h",
   "clima": {
-    "max": 28,
-    "min": 15,
-    "texto": "Cielo despejado la mayor parte del día en Santiago de Querétaro, con máxima de 28 °C y mínima de 15 °C. El SMN prevé una circulación anticiclónica que reducirá las lluvias en casi todo el país; el frente frío número 4 avanza por el noroeste.",
+    "max": 27,
+    "min": 13,
+    "texto": "Domingo soleado en Santiago de Querétaro, con mañana fresca, tarde templada y máxima de 27 °C. El SMN solo prevé lluvias aisladas en el estado; las precipitaciones fuertes se concentran en Baja California y Sonora.",
     "lluvia": "Sin lluvia prevista en la capital",
     "viento": "4 m/s",
-    "fuente": "Panorama (pronóstico del 1 de noviembre) y SMN vía El Cronista"
+    "fuente": "Azteca Querétaro y SMN vía Infobae (1 de noviembre); viento: Panorama"
   },
-  "municipios": [],
-  "vialidades": [],
+  "municipios": [
+    {
+      "nombre": "Corregidora",
+      "max": 27,
+      "min": 13,
+      "lluvia": "Sin lluvia prevista"
+    },
+    {
+      "nombre": "El Marqués",
+      "max": 26,
+      "min": 13,
+      "lluvia": "Sin lluvia prevista"
+    },
+    {
+      "nombre": "Huimilpan",
+      "max": 23,
+      "min": 11,
+      "lluvia": "Sin lluvia prevista"
+    },
+    {
+      "nombre": "Jalpan de Serra",
+      "max": 27,
+      "min": 17,
+      "lluvia": "Sin lluvia prevista"
+    }
+  ],
+  "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b91c1c",
+      "estado": "Por la tarde: obras con avance lento a la altura de San Juan del Río y un choque en Valle Dorado rumbo a la CDMX; percance en Lomas de Casa Blanca rumbo a Querétaro (Azteca Querétaro)",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
+    {
+      "titulo": "ITQ regresa a clases",
+      "texto": "Tras el acuerdo que puso fin al paro, los estudiantes del Instituto Tecnológico de Querétaro vuelven a las aulas el martes 3 de noviembre.",
+      "nivel": "ok"
+    },
     {
       "titulo": "Cierre en Calzada de los Arcos hoy",
       "texto": "Este 1 de noviembre la Calzada de los Arcos permanece cerrada de Bernardo Quintana a Ejército Republicano por el paseo recreativo matutino y el desfile \"Camino de las Almas\" de la tarde. Use rutas alternas.",
@@ -20,11 +58,6 @@
     {
       "titulo": "Dengue: prevención en panteones",
       "texto": "Salud estatal confirmó un segundo caso local de dengue en el municipio de Querétaro. Al llevar flores, use arena húmeda en lugar de agua en los floreros.",
-      "nivel": "warn"
-    },
-    {
-      "titulo": "Cierre en Calzada de los Arcos",
-      "texto": "El 1 de noviembre se cerrará la Calzada de los Arcos de Bernardo Quintana a Ejército Republicano por el paseo recreativo y el desfile de catrinas del Festival de Día de Muertos.",
       "nivel": "warn"
     },
     {
@@ -70,12 +103,8 @@
   ],
   "agenda": [
     {
-      "hora": "Mañana",
-      "texto": "Paseo recreativo en la Calzada de los Arcos"
-    },
-    {
-      "hora": "14:00",
-      "texto": "Carrera del Gran Premio de la Ciudad de México de F1; Hamilton sale desde la pole y Antonelli puede ser campeón"
+      "hora": "19:10",
+      "texto": "Cruz Azul vs. León, jornada 15 del Apertura 2026, en el Estadio Banorte"
     },
     {
       "hora": "Tarde",
