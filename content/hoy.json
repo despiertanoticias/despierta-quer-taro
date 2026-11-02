@@ -1,59 +1,26 @@
 {
-  "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Lunes 2 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
-    "max": 27,
-    "min": 13,
-    "texto": "Domingo soleado en Santiago de Querétaro, con mañana fresca, tarde templada y máxima de 27 °C. El SMN solo prevé lluvias aisladas en el estado; las precipitaciones fuertes se concentran en Baja California y Sonora.",
+    "max": 29,
+    "min": 15,
+    "texto": "Lunes de cielo despejado en Santiago de Querétaro, con mañana fresca y tarde cálida de hasta 29 °C. No se esperan precipitaciones.",
     "lluvia": "Sin lluvia prevista en la capital",
-    "viento": "4 m/s",
-    "fuente": "Azteca Querétaro y SMN vía Infobae (1 de noviembre); viento: Panorama"
+    "viento": "2 m/s",
+    "fuente": "Panorama (pronóstico del 1 de noviembre)"
   },
-  "municipios": [
-    {
-      "nombre": "Corregidora",
-      "max": 27,
-      "min": 13,
-      "lluvia": "Sin lluvia prevista"
-    },
-    {
-      "nombre": "El Marqués",
-      "max": 26,
-      "min": 13,
-      "lluvia": "Sin lluvia prevista"
-    },
-    {
-      "nombre": "Huimilpan",
-      "max": 23,
-      "min": 11,
-      "lluvia": "Sin lluvia prevista"
-    },
-    {
-      "nombre": "Jalpan de Serra",
-      "max": 27,
-      "min": 17,
-      "lluvia": "Sin lluvia prevista"
-    }
-  ],
-  "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#b91c1c",
-      "estado": "Por la tarde: obras con avance lento a la altura de San Juan del Río y un choque en Valle Dorado rumbo a la CDMX; percance en Lomas de Casa Blanca rumbo a Querétaro (Azteca Querétaro)",
-      "nivel": "warn"
-    }
-  ],
+  "municipios": [],
+  "vialidades": [],
   "avisos": [
+    {
+      "titulo": "Sin Bus Municipal hoy",
+      "texto": "El Bus Municipal de Querétaro no opera este lunes 2 de noviembre por el Día de Muertos; reanuda el martes 3 con sus rutas y horarios habituales.",
+      "nivel": "warn"
+    },
     {
       "titulo": "ITQ regresa a clases",
       "texto": "Tras el acuerdo que puso fin al paro, los estudiantes del Instituto Tecnológico de Querétaro vuelven a las aulas el martes 3 de noviembre.",
       "nivel": "ok"
-    },
-    {
-      "titulo": "Cierre en Calzada de los Arcos hoy",
-      "texto": "Este 1 de noviembre la Calzada de los Arcos permanece cerrada de Bernardo Quintana a Ejército Republicano por el paseo recreativo matutino y el desfile \"Camino de las Almas\" de la tarde. Use rutas alternas.",
-      "nivel": "warn"
     },
     {
       "titulo": "Dengue: prevención en panteones",
@@ -103,20 +70,12 @@
   ],
   "agenda": [
     {
-      "hora": "19:10",
-      "texto": "Cruz Azul vs. León, jornada 15 del Apertura 2026, en el Estadio Banorte"
-    },
-    {
-      "hora": "Tarde",
-      "texto": "Desfile \"Camino de las Almas\" con más de 300 artistas: de Arcos y Bernardo Quintana a Plaza Fundadores, con video mapping en los Arcos"
-    },
-    {
       "hora": "17:00 a 22:00",
-      "texto": "Actividades del Festival de Día de Muertos en Plaza Fundadores (hasta el 2 de noviembre, gratuito)"
+      "texto": "Último día del Festival de Día de Muertos en Plaza Fundadores (gratuito)"
     },
     {
-      "hora": "20:00",
-      "texto": "Resultados del concurso de la Cabalgata de los Muertos en el Jardín Independencia de San Juan del Río"
+      "hora": "Todo el día",
+      "texto": "Panteones municipales abiertos por Día de Muertos; Santa Bárbara y Pita, en Corregidora, de 8:00 a 19:00"
     },
     {
       "hora": "Todo el día",
@@ -124,11 +83,11 @@
     },
     {
       "hora": "Todo el día",
-      "texto": "20º Festival de Día de Muertos de San Juan del Río (hasta el 2 de noviembre)"
+      "texto": "Último día del 20º Festival de Día de Muertos de San Juan del Río"
     },
     {
       "hora": "Todo el día",
-      "texto": "Altar de la SSPMQ en honor a 70 policías en la delegación Centro Histórico (hasta el 2 de noviembre)"
+      "texto": "Último día del altar de la SSPMQ en honor a 70 policías, en la delegación Centro Histórico"
     }
   ]
 }
