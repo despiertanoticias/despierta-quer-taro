@@ -1,17 +1,22 @@
 {
-  "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Martes 3 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
-    "max": 29,
-    "min": 15,
-    "texto": "Lunes de cielo despejado en Santiago de Querétaro, con mañana fresca y tarde cálida de hasta 29 °C. No se esperan precipitaciones.",
+    "max": 30,
+    "min": 11,
+    "texto": "Martes de cielo despejado en Santiago de Querétaro, con mañana fría de 11 °C y tarde cálida de hasta 30 °C. No se esperan precipitaciones.",
     "lluvia": "Sin lluvia prevista en la capital",
     "viento": "2 m/s",
-    "fuente": "Panorama (pronóstico del 1 de noviembre)"
+    "fuente": "Panorama (pronóstico del 2 de noviembre)"
   },
   "municipios": [],
   "vialidades": [],
   "avisos": [
+    {
+      "titulo": "Celulares restringidos en escuelas",
+      "texto": "Desde hoy rige el acuerdo de la SEP que restringe celulares, tabletas y relojes inteligentes durante toda la jornada en preescolar, primaria y secundaria, salvo actividades didácticas y casos médicos o de accesibilidad.",
+      "nivel": "warn"
+    },
     {
       "titulo": "Trotapista del Parque Querétaro 2000 cerrada",
       "texto": "El INDEREQ rehabilita la trotapista del bordo del Parque Querétaro 2000; las actividades en esa zona están suspendidas temporalmente y la obra terminaría antes de fin de año.",
@@ -19,32 +24,12 @@
     },
     {
       "titulo": "Vuelos a EE.UU.: nuevo formato por ébola",
-      "texto": "Desde las 23:59 h (tiempo del Este) del martes 3 de noviembre, Volaris pedirá a quienes vuelen a Estados Unidos desde el AICM o el AIFA un formato de los CDC que declare no haber estado en la R. D. del Congo en los últimos 21 días.",
-      "nivel": "warn"
-    },
-    {
-      "titulo": "Sin Bus Municipal hoy",
-      "texto": "El Bus Municipal de Querétaro no opera este lunes 2 de noviembre por el Día de Muertos; reanuda el martes 3 con sus rutas y horarios habituales.",
+      "texto": "Desde las 23:59 h (tiempo del Este) de hoy, martes 3 de noviembre, Volaris pedirá a quienes vuelen a Estados Unidos desde el AICM o el AIFA un formato de los CDC que declare no haber estado en la R. D. del Congo en los últimos 21 días.",
       "nivel": "warn"
     },
     {
       "titulo": "ITQ regresa a clases",
-      "texto": "Tras el acuerdo que puso fin al paro, los estudiantes del Instituto Tecnológico de Querétaro vuelven a las aulas el martes 3 de noviembre.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Dengue: prevención en panteones",
-      "texto": "Salud estatal confirmó un segundo caso local de dengue en el municipio de Querétaro. Al llevar flores, use arena húmeda en lugar de agua en los floreros.",
-      "nivel": "warn"
-    },
-    {
-      "titulo": "Operativo en panteones de San Juan del Río",
-      "texto": "Del 31 de octubre al 2 de noviembre más de 80 policías municipales vigilan los panteones; hay puesto de mando cerca del Panteón 2 y comandancia móvil frente al Panteón 3.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Operativo en panteones",
-      "texto": "Protección Civil estatal estará del 31 de octubre al 3 de noviembre en panteones como El Cimatario y San Pedro Mártir; se esperan 60 mil visitantes. Lleve agua y protéjase del sol.",
+      "texto": "Tras el acuerdo que puso fin al paro, los estudiantes del Instituto Tecnológico de Querétaro vuelven hoy, martes 3 de noviembre, a las aulas.",
       "nivel": "ok"
     },
     {
@@ -58,46 +43,15 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Operativo de seguridad 1 y 2 de noviembre",
-      "texto": "La Policía Estatal tendrá recorridos dentro y fuera de los panteones de los 18 municipios. No deje objetos de valor a la vista y, ante una emergencia, llame al 9-1-1.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Sin clases el lunes 2",
-      "texto": "La USEBEQ confirmó que el lunes 2 de noviembre no habrá clases en educación básica.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Panteones de Corregidora",
-      "texto": "Santa Bárbara y Pita abren el 1 y 2 de noviembre de 8:00 a 19:00. Sin alcohol ni vehículos.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Obras de JAPAM en San Juan del Río",
-      "texto": "Del 3 de noviembre al 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
+      "texto": "Desde hoy y hasta el 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
       "nivel": "warn"
     }
   ],
   "agenda": [
     {
-      "hora": "17:00 a 22:00",
-      "texto": "Último día del Festival de Día de Muertos en Plaza Fundadores (gratuito)"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Panteones municipales abiertos por Día de Muertos; Santa Bárbara y Pita, en Corregidora, de 8:00 a 19:00"
-    },
-    {
       "hora": "Todo el día",
       "texto": "Altar monumental “Guardianes del Patrimonio” en Plaza de Armas (hasta el 6 de noviembre)"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Último día del 20º Festival de Día de Muertos de San Juan del Río"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Último día del altar de la SSPMQ en honor a 70 policías, en la delegación Centro Histórico"
     }
   ]
 }
