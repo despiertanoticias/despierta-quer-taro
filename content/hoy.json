@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 29,
     "min": 15,
@@ -12,6 +12,16 @@
   "municipios": [],
   "vialidades": [],
   "avisos": [
+    {
+      "titulo": "Trotapista del Parque Querétaro 2000 cerrada",
+      "texto": "El INDEREQ rehabilita la trotapista del bordo del Parque Querétaro 2000; las actividades en esa zona están suspendidas temporalmente y la obra terminaría antes de fin de año.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Vuelos a EE.UU.: nuevo formato por ébola",
+      "texto": "Desde las 23:59 h (tiempo del Este) del martes 3 de noviembre, Volaris pedirá a quienes vuelen a Estados Unidos desde el AICM o el AIFA un formato de los CDC que declare no haber estado en la R. D. del Congo en los últimos 21 días.",
+      "nivel": "warn"
+    },
     {
       "titulo": "Sin Bus Municipal hoy",
       "texto": "El Bus Municipal de Querétaro no opera este lunes 2 de noviembre por el Día de Muertos; reanuda el martes 3 con sus rutas y horarios habituales.",
@@ -44,7 +54,7 @@
     },
     {
       "titulo": "Vacunación de invierno",
-      "texto": "El IMSS aplica vacunas contra influenza y covid en sus unidades de lunes a viernes de 8:00 a 20:00, para derechohabientes y público en general.",
+      "texto": "El IMSS aplica vacunas contra influenza y covid en sus unidades de lunes a viernes de 8:00 a 20:00, para derechohabientes y público en general. La meta estatal es de 669 mil 980 dosis contra la influenza; van 68 mil 591.",
       "nivel": "ok"
     },
     {
