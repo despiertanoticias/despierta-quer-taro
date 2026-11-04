@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 30,
     "min": 11,
@@ -31,6 +31,11 @@
       "titulo": "ITQ regresa a clases",
       "texto": "Tras el acuerdo que puso fin al paro, los estudiantes del Instituto Tecnológico de Querétaro vuelven hoy, martes 3 de noviembre, a las aulas.",
       "nivel": "ok"
+    },
+    {
+      "titulo": "Alerta por KitoCream falsificada",
+      "texto": "Cofepris y la Secretaría de Salud estatal piden no usar la crema KitoCream (pirfenidona 10 %) color café oscuro, en envase blanco sin caja y sin lote ni caducidad, vendida en internet.",
+      "nivel": "warn"
     },
     {
       "titulo": "Alerta por Riopan falsificado",
