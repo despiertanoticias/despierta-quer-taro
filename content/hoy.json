@@ -1,20 +1,20 @@
 {
-  "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Miércoles 4 de noviembre de 2026",
+  "actualizado": "07:15 h",
   "clima": {
     "max": 30,
-    "min": 11,
-    "texto": "Martes de cielo despejado en Santiago de Querétaro, con mañana fría de 11 °C y tarde cálida de hasta 30 °C. No se esperan precipitaciones.",
-    "lluvia": "Sin lluvia prevista en la capital",
-    "viento": "2 m/s",
-    "fuente": "Panorama (pronóstico del 2 de noviembre)"
+    "min": 12,
+    "texto": "Miércoles soleado y de cielo despejado en Santiago de Querétaro, con máxima de 30 °C por la tarde. Se recomienda protección solar entre las 12:00 y las 16:00.",
+    "lluvia": "Sin probabilidad de lluvia",
+    "viento": "3 m/s",
+    "fuente": "Panorama (pronóstico del 3 de noviembre)"
   },
   "municipios": [],
   "vialidades": [],
   "avisos": [
     {
       "titulo": "Celulares restringidos en escuelas",
-      "texto": "Desde hoy rige el acuerdo de la SEP que restringe celulares, tabletas y relojes inteligentes durante toda la jornada en preescolar, primaria y secundaria, salvo actividades didácticas y casos médicos o de accesibilidad.",
+      "texto": "Desde el 3 de noviembre rige el acuerdo de la SEP que restringe celulares, tabletas y relojes inteligentes durante toda la jornada en preescolar, primaria y secundaria, salvo actividades didácticas y casos médicos o de accesibilidad.",
       "nivel": "warn"
     },
     {
@@ -24,13 +24,8 @@
     },
     {
       "titulo": "Vuelos a EE.UU.: nuevo formato por ébola",
-      "texto": "Desde las 23:59 h (tiempo del Este) de hoy, martes 3 de noviembre, Volaris pedirá a quienes vuelen a Estados Unidos desde el AICM o el AIFA un formato de los CDC que declare no haber estado en la R. D. del Congo en los últimos 21 días.",
+      "texto": "Desde la noche del 3 de noviembre, Volaris pide a quienes vuelen a Estados Unidos desde el AICM o el AIFA un formato de los CDC que declare no haber estado en la R. D. del Congo en los últimos 21 días.",
       "nivel": "warn"
-    },
-    {
-      "titulo": "ITQ regresa a clases",
-      "texto": "Tras el acuerdo que puso fin al paro, los estudiantes del Instituto Tecnológico de Querétaro vuelven hoy, martes 3 de noviembre, a las aulas.",
-      "nivel": "ok"
     },
     {
       "titulo": "Alerta por KitoCream falsificada",
@@ -49,7 +44,7 @@
     },
     {
       "titulo": "Obras de JAPAM en San Juan del Río",
-      "texto": "Desde hoy y hasta el 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
+      "texto": "Hasta el 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
       "nivel": "warn"
     }
   ],
