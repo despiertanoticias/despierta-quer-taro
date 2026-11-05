@@ -1,13 +1,13 @@
 {
-  "fecha": "Miércoles 4 de noviembre de 2026",
-  "actualizado": "07:15 h",
+  "fecha": "Jueves 5 de noviembre de 2026",
+  "actualizado": "07:30 h",
   "clima": {
-    "max": 30,
-    "min": 12,
-    "texto": "Miércoles soleado y de cielo despejado en Santiago de Querétaro, con máxima de 30 °C por la tarde. Se recomienda protección solar entre las 12:00 y las 16:00.",
-    "lluvia": "Sin probabilidad de lluvia",
-    "viento": "3 m/s",
-    "fuente": "Panorama (pronóstico del 3 de noviembre)"
+    "max": 28,
+    "min": 14,
+    "texto": "Jueves de cielo despejado en Santiago de Querétaro, con máxima de 28 °C en las horas de mayor sol y mínima de 14 °C. No se esperan lluvias; humedad cercana al 46 %.",
+    "lluvia": "Sin lluvia prevista",
+    "viento": "2 m/s",
+    "fuente": "Panorama (pronóstico del 4 de noviembre)"
   },
   "municipios": [],
   "vialidades": [],
@@ -48,10 +48,5 @@
       "nivel": "warn"
     }
   ],
-  "agenda": [
-    {
-      "hora": "Todo el día",
-      "texto": "Altar monumental “Guardianes del Patrimonio” en Plaza de Armas (hasta el 6 de noviembre)"
-    }
-  ]
+  "agenda": []
 }
