@@ -1,17 +1,42 @@
 {
   "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "07:30 h",
+  "actualizado": "18:45 h",
   "clima": {
-    "max": 28,
-    "min": 14,
-    "texto": "Jueves de cielo despejado en Santiago de Querétaro, con máxima de 28 °C en las horas de mayor sol y mínima de 14 °C. No se esperan lluvias; humedad cercana al 46 %.",
-    "lluvia": "Sin lluvia prevista",
-    "viento": "2 m/s",
-    "fuente": "Panorama (pronóstico del 4 de noviembre)"
+    "max": 30,
+    "min": 13,
+    "texto": "Cielo de medio nublado a nublado en Santiago de Querétaro, con mañana de fría a fresca y tarde de cálida a calurosa. El SMN prevé lluvias aisladas con descargas eléctricas y bancos de niebla matutinos en la Sierra.",
+    "lluvia": "Lluvias aisladas (0.1 a 5 mm)",
+    "viento": "Variable, rachas de hasta 40 km/h",
+    "fuente": "SMN / Conagua vía Rotativo (5 al 6 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [],
+  "vialidades": [
+    {
+      "nombre": "Libramiento Noreste",
+      "icono": "LN",
+      "color": "#b45309",
+      "estado": "Cierre parcial en el km 23, sentido CDMX, por choque por alcance entre tractocamiones (reporte de las 08:54 h, N+)",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b91c1c",
+      "estado": "Mantenimiento en el km 147, sentido CDMX, con carga vehicular (11:51 h, N+)",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
+    {
+      "titulo": "Credencial del INE: plazo al 25 de enero",
+      "texto": "El INE en Querétaro atiende la Campaña Anual Intensa en sus 17 módulos; después del 25 de enero de 2027 se suspenden las actualizaciones al padrón. Unas 90 mil 774 credenciales vencen este año.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Colecta Invernal Corregidora",
+      "texto": "El DIF de Corregidora recibe cobijas y ropa de abrigo hasta el 4 de diciembre en sus oficinas de El Pueblito, los CAM El Pueblito y Candiles y los centros culturales de Tejeda y Pirámides.",
+      "nivel": "ok"
+    },
     {
       "titulo": "Celulares restringidos en escuelas",
       "texto": "Desde el 3 de noviembre rige el acuerdo de la SEP que restringe celulares, tabletas y relojes inteligentes durante toda la jornada en preescolar, primaria y secundaria, salvo actividades didácticas y casos médicos o de accesibilidad.",
