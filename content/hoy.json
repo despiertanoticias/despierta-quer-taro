@@ -1,32 +1,22 @@
 {
-  "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Viernes 6 de noviembre de 2026",
+  "actualizado": "07:25 h",
   "clima": {
-    "max": 30,
+    "max": 28,
     "min": 13,
-    "texto": "Cielo de medio nublado a nublado en Santiago de Querétaro, con mañana de fría a fresca y tarde de cálida a calurosa. El SMN prevé lluvias aisladas con descargas eléctricas y bancos de niebla matutinos en la Sierra.",
-    "lluvia": "Lluvias aisladas (0.1 a 5 mm)",
-    "viento": "Variable, rachas de hasta 40 km/h",
-    "fuente": "SMN / Conagua vía Rotativo (5 al 6 de noviembre)"
+    "texto": "Nubes y claros en Santiago de Querétaro, con predominio de sol durante el día y mañana fresca.",
+    "lluvia": "0 %",
+    "viento": "Del este, de 19 a 43 km/h",
+    "fuente": "Meteored (6 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [
-    {
-      "nombre": "Libramiento Noreste",
-      "icono": "LN",
-      "color": "#b45309",
-      "estado": "Cierre parcial en el km 23, sentido CDMX, por choque por alcance entre tractocamiones (reporte de las 08:54 h, N+)",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#b91c1c",
-      "estado": "Mantenimiento en el km 147, sentido CDMX, con carga vehicular (11:51 h, N+)",
-      "nivel": "warn"
-    }
-  ],
+  "vialidades": [],
   "avisos": [
+    {
+      "titulo": "Predial: 80 % de descuento en multas y recargos",
+      "texto": "El Municipio de Querétaro descuenta 80 % en multas, recargos y gastos de ejecución del predial con rezago, y 80 % en recargos de Traslado de Dominio, hasta el 30 de noviembre. Pago en Centro Cívico, delegaciones, Recaudamóvil o en línea; informes al 442 238 7700.",
+      "nivel": "ok"
+    },
     {
       "titulo": "Credencial del INE: plazo al 25 de enero",
       "texto": "El INE en Querétaro atiende la Campaña Anual Intensa en sus 17 módulos; después del 25 de enero de 2027 se suspenden las actualizaciones al padrón. Unas 90 mil 774 credenciales vencen este año.",
@@ -73,5 +63,14 @@
       "nivel": "warn"
     }
   ],
-  "agenda": []
+  "agenda": [
+    {
+      "hora": "Noche",
+      "texto": "Noche de Museos de otoño: 32 museos, galerías y espacios de Querétaro y Corregidora con más de 80 actividades y horario extendido"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "“Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico (6 al 8 de noviembre)"
+    }
+  ]
 }
