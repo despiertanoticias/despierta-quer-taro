@@ -1,29 +1,34 @@
 {
-  "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Sábado 7 de noviembre de 2026",
+  "actualizado": "07:20 h",
   "clima": {
     "max": 28,
     "min": 13,
-    "texto": "Nubes y claros en Santiago de Querétaro, con predominio de sol durante el día y mañana fresca.",
+    "texto": "Nubes y claros en Santiago de Querétaro, sin lluvia prevista y con mañana fresca.",
     "lluvia": "0 %",
-    "viento": "Del este, de 19 a 43 km/h",
-    "fuente": "Meteored (6 de noviembre)"
+    "viento": "Del este, de 18 a 40 km/h",
+    "fuente": "Meteored (7 de noviembre)"
   },
   "municipios": [],
   "vialidades": [
     {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
+      "nombre": "Qrobús",
+      "icono": "QB",
       "color": "#b45309",
-      "estado": "Accidentes con cierres parciales cerca del km 171 (hacia San Juan del Río) y del km 190 (hacia Querétaro) durante la mañana; a las 11:04 se restableció la circulación en el km 192 (Guardia Nacional / Capufe vía N+).",
+      "estado": "Por la Carrera Nocturna, 29 rutas modificarán temporalmente su recorrido desde las 19:00 h, al iniciar los cierres en el primer cuadro del Centro Histórico (Agencia de Movilidad del Estado vía Azteca Querétaro).",
       "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "Carrera Nocturna: cierres el sábado 7",
-      "texto": "Sábado 7 de noviembre, de 19:00 a 00:00 h, cerrado el polígono entre Ezequiel Montes, Constituyentes, Ejército Republicano, Calzada de los Arcos, Bernardo Quintana y Universidad. La Calzada de los Arcos cierra de 13:00 a 01:00 h. Estacionamiento gratuito en el Centro Educativo Cultural Manuel Gómez Morín.",
+      "titulo": "Carrera Nocturna: cierres hoy",
+      "texto": "Hoy sábado, de 19:00 a 00:00 h, cerrado el polígono entre Ezequiel Montes, Constituyentes, Ejército Republicano, Calzada de los Arcos, Bernardo Quintana y Universidad. La Calzada de los Arcos cierra de 13:00 a 01:00 h. Estacionamiento gratuito en el Centro Educativo Cultural Manuel Gómez Morín.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Jornada veterinaria gratuita en El Marqués",
+      "texto": "Domingo 8 de noviembre, de 9:00 a 14:00 h, en el arcotecho de Hacienda La Cruz: vacunas séxtuple, triple felina y antirrábica, desparasitación y esterilización para perros y gatos.",
+      "nivel": "ok"
     },
     {
       "titulo": "Predial: 80 % de descuento en multas y recargos",
@@ -79,11 +84,15 @@
   "agenda": [
     {
       "hora": "Noche",
-      "texto": "Noche de Museos de otoño: 32 museos, galerías y espacios de Querétaro y Corregidora con más de 80 actividades y horario extendido"
+      "texto": "Carrera Nocturna de Querétaro; cierres viales en el Centro Histórico desde las 19:00 h"
     },
     {
       "hora": "Todo el día",
-      "texto": "“Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico (6 al 8 de noviembre)"
+      "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "“Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico (hasta el 8 de noviembre)"
     }
   ]
 }
