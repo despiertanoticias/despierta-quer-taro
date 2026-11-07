@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "07:25 h",
+  "actualizado": "18:45 h",
   "clima": {
     "max": 28,
     "min": 13,
@@ -10,8 +10,21 @@
     "fuente": "Meteored (6 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [],
+  "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b45309",
+      "estado": "Accidentes con cierres parciales cerca del km 171 (hacia San Juan del Río) y del km 190 (hacia Querétaro) durante la mañana; a las 11:04 se restableció la circulación en el km 192 (Guardia Nacional / Capufe vía N+).",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
+    {
+      "titulo": "Carrera Nocturna: cierres el sábado 7",
+      "texto": "Sábado 7 de noviembre, de 19:00 a 00:00 h, cerrado el polígono entre Ezequiel Montes, Constituyentes, Ejército Republicano, Calzada de los Arcos, Bernardo Quintana y Universidad. La Calzada de los Arcos cierra de 13:00 a 01:00 h. Estacionamiento gratuito en el Centro Educativo Cultural Manuel Gómez Morín.",
+      "nivel": "warn"
+    },
     {
       "titulo": "Predial: 80 % de descuento en multas y recargos",
       "texto": "El Municipio de Querétaro descuenta 80 % en multas, recargos y gastos de ejecución del predial con rezago, y 80 % en recargos de Traslado de Dominio, hasta el 30 de noviembre. Pago en Centro Cívico, delegaciones, Recaudamóvil o en línea; informes al 442 238 7700.",
