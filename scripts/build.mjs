@@ -2,6 +2,7 @@
 // en assets/datos.js, que lee el sitio. Netlify lo ejecuta en cada publicación.
 import fs from "node:fs";
 import path from "node:path";
+import { agregarVivo } from "./vivo.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -45,3 +46,6 @@ const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
 console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas publicadas.`);
+
+// Datos para assets/en-vivo.js (notas publicadas desde /admin sin volver a publicar).
+agregarVivo(RAIZ);
