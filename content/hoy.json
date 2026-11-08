@@ -1,6 +1,6 @@
 {
   "fecha": "Sábado 7 de noviembre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 28,
     "min": 13,
@@ -17,12 +17,29 @@
       "color": "#b45309",
       "estado": "Por la Carrera Nocturna, 29 rutas modificarán temporalmente su recorrido desde las 19:00 h, al iniciar los cierres en el primer cuadro del Centro Histórico (Agencia de Movilidad del Estado vía Azteca Querétaro).",
       "nivel": "warn"
+    },
+    {
+      "nombre": "Transporte gratuito Carrera Nocturna",
+      "icono": "BUS",
+      "color": "#15803d",
+      "estado": "Hoy de 19:00 a 00:00 h, ruta gratuita entre el Centro Gómez Morín y Ejército Republicano, con salidas cada 10 minutos aprox. Estacionamientos Barrio de Santiago, Gómez Morín y Plaza de las Américas abren hasta medianoche (Noticias de Querétaro).",
+      "nivel": "ok"
     }
   ],
   "avisos": [
     {
       "titulo": "Carrera Nocturna: cierres hoy",
       "texto": "Hoy sábado, de 19:00 a 00:00 h, cerrado el polígono entre Ezequiel Montes, Constituyentes, Ejército Republicano, Calzada de los Arcos, Bernardo Quintana y Universidad. La Calzada de los Arcos cierra de 13:00 a 01:00 h. Estacionamiento gratuito en el Centro Educativo Cultural Manuel Gómez Morín.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Gusano barrenador: 9 casos en 2026",
+      "texto": "La SESEQ confirmó un nuevo caso de miasis en San Juan del Río; van nueve en el estado y una defunción. Mantén las heridas limpias y cubiertas, no te automediques y acude a tu unidad de salud si notas dolor intenso, secreción, mal olor o larvas.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Luces navideñas: precaución",
+      "texto": "Protección Civil estatal pide instalar luces y cables lejos de las líneas eléctricas, luego de que dos personas se electrocutaran en Acequia Blanca al colocar adornos.",
       "nivel": "warn"
     },
     {
@@ -85,6 +102,10 @@
     {
       "hora": "Noche",
       "texto": "Carrera Nocturna de Querétaro; cierres viales en el Centro Histórico desde las 19:00 h"
+    },
+    {
+      "hora": "Domingo 18:00",
+      "texto": "Gallos Blancos recibe al Puebla en el Estadio Corregidora (Jornada 16 del Apertura 2026)"
     },
     {
       "hora": "Todo el día",
