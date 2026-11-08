@@ -1,35 +1,20 @@
 {
-  "fecha": "Sábado 7 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Domingo 8 de noviembre de 2026",
+  "actualizado": "07:00 h",
   "clima": {
-    "max": 28,
+    "max": 29,
     "min": 13,
-    "texto": "Nubes y claros en Santiago de Querétaro, sin lluvia prevista y con mañana fresca.",
-    "lluvia": "0 %",
-    "viento": "Del este, de 18 a 40 km/h",
-    "fuente": "Meteored (7 de noviembre)"
+    "texto": "Nubes y claros en Santiago de Querétaro, con tarde cálida y mañana fresca; sin lluvia prevista por la tarde y noche.",
+    "lluvia": "0 % (tarde y noche)",
+    "viento": "Del este, de 18 a 39 km/h",
+    "fuente": "Meteored (8 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [
-    {
-      "nombre": "Qrobús",
-      "icono": "QB",
-      "color": "#b45309",
-      "estado": "Por la Carrera Nocturna, 29 rutas modificarán temporalmente su recorrido desde las 19:00 h, al iniciar los cierres en el primer cuadro del Centro Histórico (Agencia de Movilidad del Estado vía Azteca Querétaro).",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Transporte gratuito Carrera Nocturna",
-      "icono": "BUS",
-      "color": "#15803d",
-      "estado": "Hoy de 19:00 a 00:00 h, ruta gratuita entre el Centro Gómez Morín y Ejército Republicano, con salidas cada 10 minutos aprox. Estacionamientos Barrio de Santiago, Gómez Morín y Plaza de las Américas abren hasta medianoche (Noticias de Querétaro).",
-      "nivel": "ok"
-    }
-  ],
+  "vialidades": [],
   "avisos": [
     {
-      "titulo": "Carrera Nocturna: cierres hoy",
-      "texto": "Hoy sábado, de 19:00 a 00:00 h, cerrado el polígono entre Ezequiel Montes, Constituyentes, Ejército Republicano, Calzada de los Arcos, Bernardo Quintana y Universidad. La Calzada de los Arcos cierra de 13:00 a 01:00 h. Estacionamiento gratuito en el Centro Educativo Cultural Manuel Gómez Morín.",
+      "titulo": "INE: paro en módulos el lunes 9",
+      "texto": "Trabajadores de los Módulos de Atención Ciudadana del INE anunciaron un paro para el lunes 9 de noviembre en unos 750 módulos de 20 estados, que suspendería trámites de credencial. Si tienes cita, confirma antes de acudir.",
       "nivel": "warn"
     },
     {
@@ -100,20 +85,20 @@
   ],
   "agenda": [
     {
-      "hora": "Noche",
-      "texto": "Carrera Nocturna de Querétaro; cierres viales en el Centro Histórico desde las 19:00 h"
+      "hora": "18:00",
+      "texto": "Gallos Blancos recibe al Puebla en el Estadio Corregidora (Jornada 16 del Apertura 2026)"
     },
     {
-      "hora": "Domingo 18:00",
-      "texto": "Gallos Blancos recibe al Puebla en el Estadio Corregidora (Jornada 16 del Apertura 2026)"
+      "hora": "9:00 a 14:00",
+      "texto": "Jornada veterinaria gratuita en el arcotecho de Hacienda La Cruz, El Marqués: vacunas, desparasitación y esterilización"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Último día de “Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico"
     },
     {
       "hora": "Todo el día",
       "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "“Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico (hasta el 8 de noviembre)"
     }
   ]
 }

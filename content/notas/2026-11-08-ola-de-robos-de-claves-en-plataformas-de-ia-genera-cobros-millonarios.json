@@ -1,0 +1,18 @@
+{
+  "titulo": "Ola de robos de claves en plataformas de IA deja cobros de más de 100 mil dólares a sus víctimas",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-08T06:25",
+  "resumen": "La firma de seguridad Wiz documentó ataques a al menos 14 plataformas de desarrollo de inteligencia artificial, entre ellas Fireworks AI y Northflank, en los que se robaron claves de acceso a modelos para hacer consultas a costa de las víctimas. En dos casos hubo 800 mil y 1.7 millones de llamadas en pocas horas, con un consumo estimado de más de 100 mil dólares. Recomiendan revocar las claves con el proveedor que las emitió y generar nuevas.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://infobae.com/tecno/2026/11/07/una-ola-de-ciberataques-afecta-a-plataformas-de-inteligencia-artificial-hackers-roban-claves-de-acceso-y-generan-gastos-a-las-victimas"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
