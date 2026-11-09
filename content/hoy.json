@@ -1,6 +1,6 @@
 {
   "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "19:15 h",
   "clima": {
     "max": 29,
     "min": 13,
@@ -14,8 +14,18 @@
   "avisos": [
     {
       "titulo": "INE: paro en módulos el lunes 9",
-      "texto": "Trabajadores de los Módulos de Atención Ciudadana del INE anunciaron un paro para el lunes 9 de noviembre en unos 750 módulos de 20 estados, que suspendería trámites de credencial. Si tienes cita, confirma antes de acudir.",
+      "texto": "Trabajadores de los Módulos de Atención Ciudadana del INE convocaron a un paro para el lunes 9 de noviembre en unos 750 módulos de 20 estados. El INE ofreció un aumento de 6 % desde enero de 2027 y otras mejoras, pero no se ha confirmado si el paro se cancela. Si tienes cita, confirma antes de acudir.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Buen Fin: del 13 al 17 de noviembre",
+      "texto": "Profeco recomienda comparar precios antes de comprar con su herramienta Quién es Quién en los Precios, en elbuenfin.profeco.gob.mx.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Feria de Empleo en San Juan del Río",
+      "texto": "El 19 de noviembre, unas 35 empresas ofrecerán más de mil vacantes operativas y para profesionistas en la última Feria de Empleo del año.",
+      "nivel": "ok"
     },
     {
       "titulo": "Gusano barrenador: 9 casos en 2026",
@@ -26,11 +36,6 @@
       "titulo": "Luces navideñas: precaución",
       "texto": "Protección Civil estatal pide instalar luces y cables lejos de las líneas eléctricas, luego de que dos personas se electrocutaran en Acequia Blanca al colocar adornos.",
       "nivel": "warn"
-    },
-    {
-      "titulo": "Jornada veterinaria gratuita en El Marqués",
-      "texto": "Domingo 8 de noviembre, de 9:00 a 14:00 h, en el arcotecho de Hacienda La Cruz: vacunas séxtuple, triple felina y antirrábica, desparasitación y esterilización para perros y gatos.",
-      "nivel": "ok"
     },
     {
       "titulo": "Predial: 80 % de descuento en multas y recargos",
@@ -89,16 +94,16 @@
       "texto": "Gallos Blancos recibe al Puebla en el Estadio Corregidora (Jornada 16 del Apertura 2026)"
     },
     {
-      "hora": "9:00 a 14:00",
-      "texto": "Jornada veterinaria gratuita en el arcotecho de Hacienda La Cruz, El Marqués: vacunas, desparasitación y esterilización"
-    },
-    {
       "hora": "Todo el día",
       "texto": "Último día de “Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico"
     },
     {
       "hora": "Todo el día",
       "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
+    },
+    {
+      "hora": "10:00 a 19:45",
+      "texto": "Exposiciones «Julio Castillo: hombre y obra» y «Ecos de la Bodega 2.0» en la Galería Libertad (hasta el 6 de diciembre)"
     }
   ]
 }
