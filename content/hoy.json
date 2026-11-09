@@ -1,25 +1,30 @@
 {
-  "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "19:15 h",
+  "fecha": "Lunes 9 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
-    "max": 29,
+    "max": 28,
     "min": 13,
-    "texto": "Nubes y claros en Santiago de Querétaro, con tarde cálida y mañana fresca; sin lluvia prevista por la tarde y noche.",
-    "lluvia": "0 % (tarde y noche)",
-    "viento": "Del este, de 18 a 39 km/h",
-    "fuente": "Meteored (8 de noviembre)"
+    "texto": "Cielo parcialmente nublado en Santiago de Querétaro, con mañana fresca y posibles chubascos con tormenta por la tarde.",
+    "lluvia": "80 %",
+    "viento": "Del suroeste, de 11 a 29 km/h",
+    "fuente": "Meteored (9 de noviembre)"
   },
   "municipios": [],
   "vialidades": [],
   "avisos": [
     {
-      "titulo": "INE: paro en módulos el lunes 9",
-      "texto": "Trabajadores de los Módulos de Atención Ciudadana del INE convocaron a un paro para el lunes 9 de noviembre en unos 750 módulos de 20 estados. El INE ofreció un aumento de 6 % desde enero de 2027 y otras mejoras, pero no se ha confirmado si el paro se cancela. Si tienes cita, confirma antes de acudir.",
+      "titulo": "INE: paro nacional en módulos",
+      "texto": "Trabajadores de los módulos del INE rechazaron el aumento de 6 % y mantienen el paro de este lunes 9. En Querétaro, el INE no tiene reporte de convocatoria local ni cierres confirmados en sus 17 módulos; si tienes cita, confirma antes de acudir.",
       "nivel": "warn"
     },
     {
+      "titulo": "Registro para la carrera de JAPAM",
+      "texto": "Hoy, de 10:00 a 13:00 en la Unidad Deportiva La Maquío, inicia el registro gratuito para «Soy Guardián y Corro por el Agua» (29 de noviembre, San Juan del Río; 3, 6 y 12 km). Lleva INE con domicilio en SJR y tu último recibo de JAPAM pagado; 175 lugares por jornada.",
+      "nivel": "ok"
+    },
+    {
       "titulo": "Buen Fin: del 13 al 17 de noviembre",
-      "texto": "Profeco recomienda comparar precios antes de comprar con su herramienta Quién es Quién en los Precios, en elbuenfin.profeco.gob.mx.",
+      "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). La policía municipal de Querétaro desplegará a todo su personal operativo del 13 al 16 de noviembre.",
       "nivel": "ok"
     },
     {
@@ -90,20 +95,20 @@
   ],
   "agenda": [
     {
-      "hora": "18:00",
-      "texto": "Gallos Blancos recibe al Puebla en el Estadio Corregidora (Jornada 16 del Apertura 2026)"
+      "hora": "10:00 a 13:00",
+      "texto": "Registro gratuito para la carrera «Soy Guardián y Corro por el Agua» en la Unidad Deportiva La Maquío, San Juan del Río"
     },
     {
       "hora": "Todo el día",
-      "texto": "Último día de “Cerámica y Joyería para Llevar”: 54 expositores en el CEART, José María Arteaga 89, Centro Histórico"
+      "texto": "Arranca la primera Art Week Querétaro (9 al 15 de noviembre); programa en artweekqro.mx"
     },
     {
       "hora": "Todo el día",
       "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
     },
     {
-      "hora": "10:00 a 19:45",
-      "texto": "Exposiciones «Julio Castillo: hombre y obra» y «Ecos de la Bodega 2.0» en la Galería Libertad (hasta el 6 de diciembre)"
+      "hora": "Hasta el 6 de diciembre",
+      "texto": "Exposiciones «Julio Castillo: hombre y obra» y «Ecos de la Bodega 2.0» en la Galería Libertad"
     }
   ]
 }
