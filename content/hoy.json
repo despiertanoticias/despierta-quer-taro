@@ -1,28 +1,20 @@
 {
-  "fecha": "Lunes 9 de noviembre de 2026",
-  "actualizado": "18:59 h",
+  "fecha": "Martes 10 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
-    "max": 28,
-    "min": 13,
-    "texto": "Cielo parcialmente nublado en Santiago de Querétaro, con mañana fresca y posibles chubascos con tormenta por la tarde.",
-    "lluvia": "80 %",
-    "viento": "Del suroeste, de 11 a 29 km/h",
-    "fuente": "Meteored (9 de noviembre)"
+    "max": 27,
+    "min": 15,
+    "texto": "Cielo mayormente nublado y ambiente templado en Santiago de Querétaro; la mínima, en la madrugada, y la máxima, por la tarde.",
+    "lluvia": "Sin lluvia significativa",
+    "viento": "Ligero, alrededor de 11 km/h",
+    "fuente": "Panorama (10 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#1d4ed8",
-      "estado": "Capufe reportó este lunes cierre a la circulación en el km 72, dirección Querétaro, por un choque entre dos tractocamiones, y reducción de carriles en el km 82, dirección CDMX, por retiro de una unidad siniestrada. Consulta a Capufe antes de viajar.",
-      "nivel": "warn"
-    }
-  ],
+  "vialidades": [],
   "avisos": [
     {
-      "titulo": "INE: módulos vuelven a la normalidad el martes",
-      "texto": "El paro de este lunes detuvo 544 de 841 módulos del INE en el país, y Querétaro fue de los estados con más módulos parados. Tras pactar un aumento de 6 %, el INE prevé atención normal desde el martes 10; si tenías cita hoy, reprográmala.",
+      "titulo": "INE: módulos reanudan atención",
+      "texto": "Tras el acuerdo de aumento salarial con su personal, el INE prevé que los módulos de atención operen con normalidad desde este martes 10. Si tu cita se canceló por el paro del lunes, reprográmala.",
       "nivel": "warn"
     },
     {
@@ -104,11 +96,15 @@
   "agenda": [
     {
       "hora": "Todo el día",
-      "texto": "Arranca la primera Art Week Querétaro (9 al 15 de noviembre); programa en artweekqro.mx"
+      "texto": "Art Week Querétaro (9 al 15 de noviembre); programa en artweekqro.mx"
     },
     {
       "hora": "Todo el día",
       "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
+    },
+    {
+      "hora": "Hasta el 30 de noviembre",
+      "texto": "Exposición fotográfica «Una economía entrelazada con la naturaleza» en la Galería Perimetral de la Alameda Hidalgo"
     },
     {
       "hora": "Hasta el 6 de diciembre",
