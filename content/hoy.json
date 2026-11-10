@@ -1,6 +1,6 @@
 {
   "fecha": "Lunes 9 de noviembre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:59 h",
   "clima": {
     "max": 28,
     "min": 13,
@@ -10,16 +10,24 @@
     "fuente": "Meteored (9 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [],
+  "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#1d4ed8",
+      "estado": "Capufe reportó este lunes cierre a la circulación en el km 72, dirección Querétaro, por un choque entre dos tractocamiones, y reducción de carriles en el km 82, dirección CDMX, por retiro de una unidad siniestrada. Consulta a Capufe antes de viajar.",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
     {
-      "titulo": "INE: paro nacional en módulos",
-      "texto": "Trabajadores de los módulos del INE rechazaron el aumento de 6 % y mantienen el paro de este lunes 9. En Querétaro, el INE no tiene reporte de convocatoria local ni cierres confirmados en sus 17 módulos; si tienes cita, confirma antes de acudir.",
+      "titulo": "INE: módulos vuelven a la normalidad el martes",
+      "texto": "El paro de este lunes detuvo 544 de 841 módulos del INE en el país, y Querétaro fue de los estados con más módulos parados. Tras pactar un aumento de 6 %, el INE prevé atención normal desde el martes 10; si tenías cita hoy, reprográmala.",
       "nivel": "warn"
     },
     {
-      "titulo": "Registro para la carrera de JAPAM",
-      "texto": "Hoy, de 10:00 a 13:00 en la Unidad Deportiva La Maquío, inicia el registro gratuito para «Soy Guardián y Corro por el Agua» (29 de noviembre, San Juan del Río; 3, 6 y 12 km). Lleva INE con domicilio en SJR y tu último recibo de JAPAM pagado; 175 lugares por jornada.",
+      "titulo": "Colecta de cobijas en Huimilpan",
+      "texto": "Hasta el 13 de noviembre, la Presidencia Municipal de Huimilpan recibe cobijas y frazadas para la campaña «Abrigando Sonrisas» del DIF; la meta es reunir 3 mil 500 piezas.",
       "nivel": "ok"
     },
     {
@@ -94,10 +102,6 @@
     }
   ],
   "agenda": [
-    {
-      "hora": "10:00 a 13:00",
-      "texto": "Registro gratuito para la carrera «Soy Guardián y Corro por el Agua» en la Unidad Deportiva La Maquío, San Juan del Río"
-    },
     {
       "hora": "Todo el día",
       "texto": "Arranca la primera Art Week Querétaro (9 al 15 de noviembre); programa en artweekqro.mx"

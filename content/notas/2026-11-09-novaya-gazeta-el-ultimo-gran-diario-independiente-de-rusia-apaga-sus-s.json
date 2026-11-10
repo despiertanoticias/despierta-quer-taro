@@ -1,0 +1,22 @@
+{
+  "titulo": "Nóvaya Gazeta, el último gran diario independiente de Rusia, apaga sus servidores",
+  "seccion": "internacional",
+  "fecha": "2026-11-09T18:40",
+  "resumen": "El periódico ruso Nóvaya Gazeta tenía previsto cerrar este 9 de noviembre, tras anunciar el 30 de octubre que las autoridades y los servicios de seguridad lo obligaron a dejar de operar después de más de 30 años. Un archivo abierto en GitHub conserva 93,933 de sus artículos publicados entre 2000 y 2026.",
+  "cuerpo": "",
+  "imagen_tema": "paris",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Novaya Gazeta Europe",
+      "enlace": "https://novayagazeta.eu/articles/2026/11/02/novaya-gazeta-articles-archived-on-github-after-newspaper-announces-closure-en-news"
+    },
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/internacional/han-matado-a-novaya-gazeta-historico-diario-independiente-de-rusia-anuncia-su-cierre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
