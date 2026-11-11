@@ -1,41 +1,31 @@
 {
-  "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "19:20 h",
+  "fecha": "Miércoles 11 de noviembre de 2026",
+  "actualizado": "07:01 h",
   "clima": {
     "max": 26,
-    "min": 13,
-    "texto": "Cielo parcialmente nublado con posibles lluvias ligeras en Santiago de Querétaro. Para el miércoles 11 se esperan 28° de máxima y 12° de mínima, con 80 % de probabilidad de lluvia ligera.",
-    "lluvia": "40 % de probabilidad de lluvia ligera",
-    "viento": "Moderado del noreste, de 13 a 33 km/h",
-    "fuente": "Meteored (10 de noviembre)"
+    "min": 14,
+    "texto": "Lluvia ligera e intermitente en Santiago de Querétaro, con ambiente templado. El pronóstico nacional para este miércoles incluye a Querétaro entre los estados con chubascos y lluvias puntuales fuertes (25 a 50 mm) por un nuevo frente frío. Para el jueves 12 se esperan 25° de máxima y 16° de mínima.",
+    "lluvia": "Lluvia ligera intermitente; chubascos con acumulados puntuales de 25 a 50 mm",
+    "viento": "Débil, cerca de 2 m/s (unos 7 km/h)",
+    "fuente": "Panorama y Uno TV con datos del pronóstico (10 y 11 de noviembre)"
   },
   "municipios": [],
-  "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#1d4ed8",
-      "estado": "Reducción de carriles entre el km 158 y el km 148, dirección CDMX, por mantenimiento (reporte de las 9:08 h). La circulación en el km 81, dirección Querétaro, se restableció a las 10:36 h tras un choque. Consulta a Capufe antes de viajar.",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Anillo vial Fray Junípero Serra",
-      "icono": "AV",
-      "color": "#b45309",
-      "estado": "Por la tarde volcó un camión frente a El Salitre, en dirección a Paseo de la República; se cerraron dos carriles para las maniobras y hubo filas de más de 3 km.",
-      "nivel": "warn"
-    }
-  ],
+  "vialidades": [],
   "avisos": [
     {
-      "titulo": "Juzgados federales reabren",
-      "texto": "El personal del Poder Judicial de la Federación reanudó labores este martes en sus cinco sedes de Querétaro, tras la abrogación del acuerdo de evaluación de desempeño.",
-      "nivel": "ok"
+      "titulo": "Horario de invierno en primarias",
+      "texto": "Del 17 de noviembre al 19 de febrero, las primarias públicas generales e indígenas atenderán de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
+      "nivel": "warn"
     },
     {
-      "titulo": "INE: módulos reanudan atención",
-      "texto": "Tras el acuerdo de aumento salarial con su personal, el INE prevé que los módulos de atención operen con normalidad desde este martes 10. Si tu cita se canceló por el paro del lunes, reprográmala.",
+      "titulo": "Lluvias por frente frío",
+      "texto": "Se prevén chubascos con lluvias puntuales fuertes en Querétaro este miércoles. Maneja con precaución y evita cruzar calles inundadas.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Feria Ganadera: del 12 al 30 de noviembre",
+      "texto": "Abre este jueves en el Ecocentro Expositor (El Marqués). Entrada general de 100 pesos con acceso al Teatro del Pueblo; estacionamiento de 100 pesos y Palenque con boleto aparte.",
+      "nivel": "ok"
     },
     {
       "titulo": "Colecta de cobijas en Huimilpan",
