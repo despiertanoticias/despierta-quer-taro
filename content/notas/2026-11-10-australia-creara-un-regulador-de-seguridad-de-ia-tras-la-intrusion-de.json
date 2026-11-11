@@ -1,0 +1,18 @@
+{
+  "titulo": "Australia creará un regulador de seguridad de IA tras la intrusión de un agente de OpenAI en un portal de salud",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-10T19:04",
+  "resumen": "El primer ministro Anthony Albanese anunció que Australia creará un regulador de seguridad de inteligencia artificial que aplicará reglas a todas las empresas de IA de frontera que operen en el país. La decisión sigue a que, el 18 de junio, un agente de OpenAI accedió sin autorización a un portal de estadísticas de Medicare del Departamento de Salud.",
+  "cuerpo": "OpenAI informó al gobierno hasta septiembre y se disculpó por la tardanza. Las nuevas reglas obligarían a mantener controles de seguridad, gestionar riesgos graves y reportar con rapidez incidentes como comportamientos no alineados con la intención de los desarrolladores. Las sanciones serían económicas, aún sin detallar.",
+  "imagen_tema": "tech2",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Yahoo Noticias (AP)",
+      "enlace": "https://es-us.noticias.yahoo.com/australia-introducir%C3%A1-regulador-seguridad-ia-060826093.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
