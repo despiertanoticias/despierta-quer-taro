@@ -1,13 +1,13 @@
 {
-  "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "07:01 h",
+  "fecha": "Jueves 12 de noviembre de 2026",
+  "actualizado": "07:05 h",
   "clima": {
-    "max": 26,
-    "min": 14,
-    "texto": "Lluvia ligera e intermitente en Santiago de Querétaro, con ambiente templado. El pronóstico nacional para este miércoles incluye a Querétaro entre los estados con chubascos y lluvias puntuales fuertes (25 a 50 mm) por un nuevo frente frío. Para el jueves 12 se esperan 25° de máxima y 16° de mínima.",
-    "lluvia": "Lluvia ligera intermitente; chubascos con acumulados puntuales de 25 a 50 mm",
+    "max": 24,
+    "min": 15,
+    "texto": "Lluvia ligera en Santiago de Querétaro, con ambiente templado y humedad cercana al 76 %. Por el frente frío 5, el pronóstico nacional ubica al norte del estado en la zona de lluvias puntuales muy fuertes (50 a 75 mm). El viernes seguiría la lluvia ligera (23° y 15°) y para el fin de semana se esperan cielos despejados.",
+    "lluvia": "Lluvia ligera; puntuales muy fuertes (50 a 75 mm) en el norte del estado",
     "viento": "Débil, cerca de 2 m/s (unos 7 km/h)",
-    "fuente": "Panorama y Uno TV con datos del pronóstico (10 y 11 de noviembre)"
+    "fuente": "Panorama y López-Dóriga Digital con datos del pronóstico (11 y 12 de noviembre)"
   },
   "municipios": [],
   "vialidades": [],
@@ -18,13 +18,18 @@
       "nivel": "warn"
     },
     {
-      "titulo": "Lluvias por frente frío",
-      "texto": "Se prevén chubascos con lluvias puntuales fuertes en Querétaro este miércoles. Maneja con precaución y evita cruzar calles inundadas.",
+      "titulo": "Lluvias por el frente frío 5",
+      "texto": "Se prevé lluvia ligera en la capital y lluvias puntuales muy fuertes en el norte del estado este jueves. Maneja con precaución y evita cruzar calles inundadas.",
       "nivel": "warn"
     },
     {
-      "titulo": "Feria Ganadera: del 12 al 30 de noviembre",
-      "texto": "Abre este jueves en el Ecocentro Expositor (El Marqués). Entrada general de 100 pesos con acceso al Teatro del Pueblo; estacionamiento de 100 pesos y Palenque con boleto aparte.",
+      "titulo": "Feria Ganadera: abre hoy, hasta el 30 de noviembre",
+      "texto": "En el Ecocentro Expositor (El Marqués). Entrada general de 100 pesos con acceso al Teatro del Pueblo; estacionamiento de 100 pesos y Palenque con boleto aparte.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Llegada del nuevo obispo: 24 y 25 de noviembre",
+      "texto": "Procesión el lunes 24 a las 17:00 de la plazuela Mariano de las Casas a la Catedral, y ceremonia el martes 25 a las 11:00 en la Basílica de Soriano (Colón), con unos 14 mil asistentes previstos. Lleva agua, desayuno y gorra.",
       "nivel": "ok"
     },
     {
@@ -104,6 +109,10 @@
     }
   ],
   "agenda": [
+    {
+      "hora": "Todo el día",
+      "texto": "Inicia la Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
+    },
     {
       "hora": "Todo el día",
       "texto": "Art Week Querétaro (9 al 15 de noviembre); programa en artweekqro.mx"
