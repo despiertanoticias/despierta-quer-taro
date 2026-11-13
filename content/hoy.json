@@ -1,34 +1,59 @@
 {
-  "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Viernes 13 de noviembre de 2026",
+  "actualizado": "07:20 h",
   "clima": {
-    "max": 24,
-    "min": 14,
-    "ahora": 16,
-    "texto": "Tarde nublada con lluvia débil en Santiago de Querétaro: 16 °C a las 18:00. El pronóstico del jueves marcaba chubascos con tormenta y 90 % de probabilidad de lluvia. Para el viernes 13 se espera lluvia débil con cielo parcialmente nublado, máxima de 22° y mínima de 13°.",
-    "lluvia": "90 % (unos 16 mm); viernes, 90 % (unos 6 mm)",
-    "viento": "Del noroeste, de 11 a 32 km/h",
-    "fuente": "Meteored (12 de noviembre, 18:00 h)"
+    "max": 22,
+    "min": 13,
+    "ahora": null,
+    "texto": "Viernes con lluvia débil y cielo parcialmente nublado en Santiago de Querétaro, con máxima de 22° y mínima de 13°. Por la tarde podrían darse chubascos con tormenta.",
+    "lluvia": "90 % (unos 6 mm)",
+    "viento": "Del suroeste, de 13 a 30 km/h",
+    "fuente": "Meteored (pronóstico del 13 de noviembre)"
   },
-  "municipios": [],
+  "municipios": [
+    {
+      "nombre": "San Juan del Río",
+      "max": 20,
+      "min": 12,
+      "lluvia": "90 %, lluvia débil"
+    },
+    {
+      "nombre": "Tequisquiapan",
+      "max": 21,
+      "min": 12,
+      "lluvia": "80 %, lluvia débil"
+    },
+    {
+      "nombre": "Amealco",
+      "max": 17,
+      "min": 8,
+      "lluvia": "90 %, lluvia débil"
+    },
+    {
+      "nombre": "Jalpan de Serra",
+      "max": 24,
+      "min": 16,
+      "lluvia": "80 %, lluvia débil"
+    }
+  ],
   "vialidades": [
     {
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#1d4ed8",
-      "estado": "Por la mañana, un tráiler chocó contra tres autobuses con estudiantes en el km 48, en Coyotepec (Edomex), con 27 lesionados; la circulación hacia la CDMX estuvo cerrada más de tres horas, con filas de unos 12 km, y Capufe ya la reabrió.",
+      "estado": "A las 4:51 h, la Guardia Nacional reportó un carril reducido en el km 61 (dirección Querétaro) por un tráiler descompuesto, con carga vehicular. En el km 87 ya se atendió un choque de la noche del jueves y se circula con normalidad.",
       "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "Horario de invierno en primarias",
-      "texto": "Del 17 de noviembre al 19 de febrero, las primarias públicas generales e indígenas atenderán de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
+      "titulo": "Lluvia débil este viernes",
+      "texto": "Se pronostica lluvia débil en la capital (90 % de probabilidad) y posibles chubascos por la tarde. La AMEQ pide salir con anticipación porque con lluvia los recorridos del Qrobús se alargan.",
       "nivel": "warn"
     },
     {
-      "titulo": "Lluvias por el frente frío 5",
-      "texto": "Sigue la lluvia débil en la capital esta noche y el viernes (90 % de probabilidad). Maneja con precaución y evita cruzar calles inundadas.",
+      "titulo": "Horario de invierno en primarias",
+      "texto": "Del 17 de noviembre al 19 de febrero, las primarias públicas generales e indígenas atenderán de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
       "nivel": "warn"
     },
     {
@@ -43,7 +68,7 @@
     },
     {
       "titulo": "Colecta de cobijas en Huimilpan",
-      "texto": "Hasta el 13 de noviembre, la Presidencia Municipal de Huimilpan recibe cobijas y frazadas para la campaña «Abrigando Sonrisas» del DIF; la meta es reunir 3 mil 500 piezas.",
+      "texto": "Hoy, 13 de noviembre, es el último día: la Presidencia Municipal de Huimilpan recibe cobijas y frazadas para la campaña «Abrigando Sonrisas» del DIF; la meta es reunir 3 mil 500 piezas.",
       "nivel": "ok"
     },
     {
@@ -123,6 +148,10 @@
     }
   ],
   "agenda": [
+    {
+      "hora": "Todo el día",
+      "texto": "Arranca el Buen Fin (13 al 17 de noviembre); la capital espera hasta 155 millones de pesos de derrama turística en el puente del 13 al 16"
+    },
     {
       "hora": "Todo el día",
       "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"

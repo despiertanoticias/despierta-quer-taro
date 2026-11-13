@@ -1,0 +1,22 @@
+{
+  "titulo": "Microsoft restablece servicios tras una caída global de Outlook, Teams y Microsoft 365",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-13T07:10",
+  "resumen": "Microsoft sufrió el jueves una interrupción global que afectó Outlook, Teams, las aplicaciones de Microsoft 365 y Copilot; el pico de reportes en DownDetector fue hacia las 18:00 GMT. La empresa atribuyó la falla a una carga elevada en parte de su infraestructura en varias regiones.",
+  "cuerpo": "Microsoft explicó que un problema hacía que servidores fallaran las verificaciones automáticas de estado y quedaran fuera de servicio; aplicó un cambio de configuración y reinició los equipos afectados. De acuerdo con la agencia EFE, este viernes busca recuperar la normalidad y descarta un ciberataque.",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Swissinfo / EFE",
+      "enlace": "https://www.swissinfo.ch/spa/microsoft-sufre-una-ca%C3%ADda-global-de-sus-servicios,-entre-ellos-outlook-y-teams/92373782"
+    },
+    {
+      "medio": "Infobae / EFE",
+      "enlace": "https://www.infobae.com/america/agencias/2026/11/13/temas-del-dia-de-efe-internacional-del-viernes-13-de-noviembre-de-2026-1200-gmt/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
