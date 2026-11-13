@@ -1,16 +1,25 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "07:05 h",
+  "actualizado": "18:50 h",
   "clima": {
     "max": 24,
-    "min": 15,
-    "texto": "Lluvia ligera en Santiago de Querétaro, con ambiente templado y humedad cercana al 76 %. Por el frente frío 5, el pronóstico nacional ubica al norte del estado en la zona de lluvias puntuales muy fuertes (50 a 75 mm). El viernes seguiría la lluvia ligera (23° y 15°) y para el fin de semana se esperan cielos despejados.",
-    "lluvia": "Lluvia ligera; puntuales muy fuertes (50 a 75 mm) en el norte del estado",
-    "viento": "Débil, cerca de 2 m/s (unos 7 km/h)",
-    "fuente": "Panorama y López-Dóriga Digital con datos del pronóstico (11 y 12 de noviembre)"
+    "min": 14,
+    "ahora": 16,
+    "texto": "Tarde nublada con lluvia débil en Santiago de Querétaro: 16 °C a las 18:00. El pronóstico del jueves marcaba chubascos con tormenta y 90 % de probabilidad de lluvia. Para el viernes 13 se espera lluvia débil con cielo parcialmente nublado, máxima de 22° y mínima de 13°.",
+    "lluvia": "90 % (unos 16 mm); viernes, 90 % (unos 6 mm)",
+    "viento": "Del noroeste, de 11 a 32 km/h",
+    "fuente": "Meteored (12 de noviembre, 18:00 h)"
   },
   "municipios": [],
-  "vialidades": [],
+  "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#1d4ed8",
+      "estado": "Por la mañana, un tráiler chocó contra tres autobuses con estudiantes en el km 48, en Coyotepec (Edomex), con 27 lesionados; la circulación hacia la CDMX estuvo cerrada más de tres horas, con filas de unos 12 km, y Capufe ya la reabrió.",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
     {
       "titulo": "Horario de invierno en primarias",
@@ -19,12 +28,12 @@
     },
     {
       "titulo": "Lluvias por el frente frío 5",
-      "texto": "Se prevé lluvia ligera en la capital y lluvias puntuales muy fuertes en el norte del estado este jueves. Maneja con precaución y evita cruzar calles inundadas.",
+      "texto": "Sigue la lluvia débil en la capital esta noche y el viernes (90 % de probabilidad). Maneja con precaución y evita cruzar calles inundadas.",
       "nivel": "warn"
     },
     {
-      "titulo": "Feria Ganadera: abre hoy, hasta el 30 de noviembre",
-      "texto": "En el Ecocentro Expositor (El Marqués). Entrada general de 100 pesos con acceso al Teatro del Pueblo; estacionamiento de 100 pesos y Palenque con boleto aparte.",
+      "titulo": "Feria Ganadera: hasta el 30 de noviembre",
+      "texto": "En el Ecocentro Expositor (El Marqués). Entrada general de 100 pesos con acceso al Teatro del Pueblo; estacionamiento de 100 pesos y Palenque con boleto aparte. Operativo de seguridad con 1,669 elementos, siete ambulancias y 30 paramédicos.",
       "nivel": "ok"
     },
     {
@@ -38,8 +47,13 @@
       "nivel": "ok"
     },
     {
+      "titulo": "Congreso Nacional de Energías: 19 y 20 de noviembre",
+      "texto": "En el Querétaro Centro de Congresos, con más de 20 conferencias y talleres. Entrada gratuita con registro en línea.",
+      "nivel": "ok"
+    },
+    {
       "titulo": "Buen Fin: del 13 al 17 de noviembre",
-      "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). La policía municipal de Querétaro desplegará a todo su personal operativo del 13 al 16 de noviembre.",
+      "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). La policía municipal de Querétaro desplegará a todo su personal operativo del 13 al 16 de noviembre. Corregidora despliega más de 150 policías del 12 al 17 de noviembre en plazas, corredores comerciales y tianguis.",
       "nivel": "ok"
     },
     {
@@ -64,7 +78,7 @@
     },
     {
       "titulo": "Credencial del INE: plazo al 25 de enero",
-      "texto": "El INE en Querétaro atiende la Campaña Anual Intensa en sus 17 módulos; después del 25 de enero de 2027 se suspenden las actualizaciones al padrón. Unas 90 mil 774 credenciales vencen este año.",
+      "texto": "El INE en Querétaro atiende la Campaña Anual Intensa en sus 17 módulos; después del 25 de enero de 2027 se suspenden las actualizaciones al padrón. Unas 90 mil 774 credenciales vencen este año. El INE analiza extender hasta el 6 de junio de 2027 la vigencia de las credenciales que vencen el 31 de diciembre; aún falta la aprobación del Consejo General.",
       "nivel": "warn"
     },
     {
@@ -111,7 +125,7 @@
   "agenda": [
     {
       "hora": "Todo el día",
-      "texto": "Inicia la Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
+      "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
     },
     {
       "hora": "Todo el día",
