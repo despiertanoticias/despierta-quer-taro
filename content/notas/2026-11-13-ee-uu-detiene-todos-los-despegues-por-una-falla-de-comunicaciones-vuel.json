@@ -1,0 +1,26 @@
+{
+  "titulo": "EE. UU. detiene todos los despegues por una falla de comunicaciones; vuelos de México hacia ese país, en tierra",
+  "seccion": "internacional",
+  "fecha": "2026-11-13T18:59",
+  "resumen": "La Administración Federal de Aviación (FAA) de Estados Unidos ordenó este viernes, a las 15:54 hora del Este, suspender todas las salidas de sus aeropuertos por una falla de comunicaciones que afectó a todos los centros de control de tránsito aéreo en ruta. La AFAC informó que, a petición de las autoridades estadounidenses, las aeronaves en aeropuertos mexicanos con vuelos programados a EE. UU. deben permanecer en tierra hasta que se autorice la reanudación.",
+  "cuerpo": "El secretario de Transporte, Sean Duffy, dijo que técnicos de la FAA investigan el origen de la falla; el secretario de Seguridad Nacional, Markwayne Mullin, afirmó que no hay indicios de un ataque. Los aviones en vuelo pudieron aterrizar y los vuelos internacionales con destino a EE. UU. se revisan caso por caso. Al cierre de la tarde, FlightAware contabilizaba al menos 8 mil retrasos y 400 cancelaciones, y no se había anunciado la hora de reanudación. Es la tercera orden nacional de este tipo, después del 11 de septiembre de 2001 y de la falla del sistema NOTAM en enero de 2023. El AICM recomendó a los pasajeros consultar con su aerolínea el estado de su vuelo.",
+  "imagen_tema": "aeropuerto",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/13/estados-unidos-ordeno-un-ground-stop-en-todos-sus-aeropuertos-como-funciona-esta-medida-extrema-de-seguridad-aerea/"
+    },
+    {
+      "medio": "Expreso Querétaro",
+      "enlace": "https://expresoqueretaro.com/2026/11/13/afac-informa-sobre-restricciones-temporales-en-operaciones-aereas-hacia-estados-unidos/"
+    },
+    {
+      "medio": "Plaza de Armas",
+      "enlace": "https://plazadearmas.com.mx/dejan-en-tierra-todos-los-vuelos-de-mexico-a-eu/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

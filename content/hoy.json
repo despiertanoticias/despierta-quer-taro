@@ -1,14 +1,14 @@
 {
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:55 h",
   "clima": {
-    "max": 22,
-    "min": 13,
-    "ahora": null,
-    "texto": "Viernes con lluvia débil y cielo parcialmente nublado en Santiago de Querétaro, con máxima de 22° y mínima de 13°. Por la tarde podrían darse chubascos con tormenta.",
+    "max": 23,
+    "min": 12,
+    "ahora": 18,
+    "texto": "Tarde fresca en Santiago de Querétaro tras la lluvia débil de la mañana: 18° a las 18:00, con máxima de 23° y mínima de 12°. Para el sábado 14 se esperan 23° de máxima y 11° de mínima, sin lluvia prevista por la tarde.",
     "lluvia": "90 % (unos 6 mm)",
-    "viento": "Del suroeste, de 13 a 30 km/h",
-    "fuente": "Meteored (pronóstico del 13 de noviembre)"
+    "viento": "Del oeste, de 13 a 32 km/h",
+    "fuente": "Meteored (actualización de las 18:00 del 13 de noviembre)"
   },
   "municipios": [
     {
@@ -43,9 +43,26 @@
       "color": "#1d4ed8",
       "estado": "A las 4:51 h, la Guardia Nacional reportó un carril reducido en el km 61 (dirección Querétaro) por un tráiler descompuesto, con carga vehicular. En el km 87 ya se atendió un choque de la noche del jueves y se circula con normalidad.",
       "nivel": "warn"
+    },
+    {
+      "nombre": "Carretera 57 (Querétaro-San Luis Potosí)",
+      "icono": "57",
+      "color": "#b45309",
+      "estado": "Por la mañana, un choque en el km 24.5, a la altura de Santa Catarina (Santa Rosa Jáuregui), provocó cierres parciales y momentáneos en dirección norte; la Guardia Nacional abanderó la zona.",
+      "nivel": "warn"
     }
   ],
   "avisos": [
+    {
+      "titulo": "Vuelos a EE. UU. detenidos",
+      "texto": "La FAA suspendió todos los despegues en Estados Unidos por una falla de comunicaciones y la AFAC pidió que los aviones con destino a ese país permanezcan en tierra en aeropuertos mexicanos hasta nuevo aviso. Si viajas, confirma el estado de tu vuelo con tu aerolínea.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Vacunación contra influenza: módulo en Plaza de Armas",
+      "texto": "La Secretaría de Salud estatal vacuna en centros de salud, en un módulo en Plaza de Armas de 8:30 a 14:00 y en jornadas itinerantes los fines de semana. La campaña lleva 22 % de avance.",
+      "nivel": "ok"
+    },
     {
       "titulo": "Lluvia débil este viernes",
       "texto": "Se pronostica lluvia débil en la capital (90 % de probabilidad) y posibles chubascos por la tarde. La AMEQ pide salir con anticipación porque con lluvia los recorridos del Qrobús se alargan.",
@@ -137,17 +154,20 @@
       "nivel": "warn"
     },
     {
-      "titulo": "Vacunación de invierno",
-      "texto": "El IMSS aplica vacunas contra influenza y covid en sus unidades de lunes a viernes de 8:00 a 20:00, para derechohabientes y público en general. La meta estatal es de 669 mil 980 dosis contra la influenza; van 68 mil 591.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Obras de JAPAM en San Juan del Río",
       "texto": "Hasta el 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
       "nivel": "warn"
     }
   ],
   "agenda": [
+    {
+      "hora": "Noche",
+      "texto": "Gabito Ballesteros en el Teatro del Pueblo de la Feria Ganadera (incluido en el acceso general de 100 pesos)"
+    },
+    {
+      "hora": "Fin de semana",
+      "texto": "Torneo México Challenge Fundación Real Madrid en el club deportivo La Loma, con más de 350 niñas y niños"
+    },
     {
       "hora": "Todo el día",
       "texto": "Arranca el Buen Fin (13 al 17 de noviembre); la capital espera hasta 155 millones de pesos de derrama turística en el puente del 13 al 16"
