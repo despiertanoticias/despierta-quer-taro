@@ -1,72 +1,43 @@
 {
-  "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Sábado 14 de noviembre de 2026",
+  "actualizado": "07:25 h",
   "clima": {
-    "max": 23,
+    "max": 24,
     "min": 12,
-    "ahora": 18,
-    "texto": "Tarde fresca en Santiago de Querétaro tras la lluvia débil de la mañana: 18° a las 18:00, con máxima de 23° y mínima de 12°. Para el sábado 14 se esperan 23° de máxima y 11° de mínima, sin lluvia prevista por la tarde.",
-    "lluvia": "90 % (unos 6 mm)",
-    "viento": "Del oeste, de 13 a 32 km/h",
-    "fuente": "Meteored (actualización de las 18:00 del 13 de noviembre)"
+    "texto": "Sábado de cielo despejado en Santiago de Querétaro, con máxima de 24° y mínima de 12°. Mañana fresca; abrígate si sales temprano.",
+    "lluvia": "Sin lluvia prevista",
+    "viento": "Muy ligero (alrededor de 4 km/h)",
+    "fuente": "Panorama (pronóstico para el 14 de noviembre); San Juan del Río: Meteored"
   },
   "municipios": [
     {
       "nombre": "San Juan del Río",
-      "max": 20,
-      "min": 12,
-      "lluvia": "90 %, lluvia débil"
-    },
-    {
-      "nombre": "Tequisquiapan",
-      "max": 21,
-      "min": 12,
-      "lluvia": "80 %, lluvia débil"
-    },
-    {
-      "nombre": "Amealco",
-      "max": 17,
-      "min": 8,
-      "lluvia": "90 %, lluvia débil"
-    },
-    {
-      "nombre": "Jalpan de Serra",
       "max": 24,
-      "min": 16,
-      "lluvia": "80 %, lluvia débil"
+      "min": 10,
+      "lluvia": "0 a 10 %, soleado"
     }
   ],
-  "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#1d4ed8",
-      "estado": "A las 4:51 h, la Guardia Nacional reportó un carril reducido en el km 61 (dirección Querétaro) por un tráiler descompuesto, con carga vehicular. En el km 87 ya se atendió un choque de la noche del jueves y se circula con normalidad.",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Carretera 57 (Querétaro-San Luis Potosí)",
-      "icono": "57",
-      "color": "#b45309",
-      "estado": "Por la mañana, un choque en el km 24.5, a la altura de Santa Catarina (Santa Rosa Jáuregui), provocó cierres parciales y momentáneos en dirección norte; la Guardia Nacional abanderó la zona.",
-      "nivel": "warn"
-    }
-  ],
+  "vialidades": [],
   "avisos": [
     {
-      "titulo": "Vuelos a EE. UU. detenidos",
-      "texto": "La FAA suspendió todos los despegues en Estados Unidos por una falla de comunicaciones y la AFAC pidió que los aviones con destino a ese país permanezcan en tierra en aeropuertos mexicanos hasta nuevo aviso. Si viajas, confirma el estado de tu vuelo con tu aerolínea.",
+      "titulo": "Vuelos a EE. UU.: se reanudan con retrasos",
+      "texto": "La FAA levantó el viernes a las 19:44 h la suspensión de despegues; la AFAC prevé una normalización gradual tras 193 vuelos afectados en México. Confirma tu vuelo con la aerolínea antes de ir al aeropuerto.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "IMSS: lunes 16 solo urgencias",
+      "texto": "El lunes 16 de noviembre el IMSS Querétaro atenderá urgencias y hospitalización en los HGR 1 y 2 y el HGZ 3, y Atención Médica Continua en las UMF 4, 6, 7, 8, 9, 12, 15 y 17. Las actividades normales regresan el martes 17.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Primer caso de influenza de la temporada",
+      "texto": "La Secretaría de Salud estatal confirmó el primer contagio de influenza de la temporada invernal. Vacúnate en centros de salud y unidades de medicina familiar.",
       "nivel": "warn"
     },
     {
       "titulo": "Vacunación contra influenza: módulo en Plaza de Armas",
       "texto": "La Secretaría de Salud estatal vacuna en centros de salud, en un módulo en Plaza de Armas de 8:30 a 14:00 y en jornadas itinerantes los fines de semana. La campaña lleva 22 % de avance.",
       "nivel": "ok"
-    },
-    {
-      "titulo": "Lluvia débil este viernes",
-      "texto": "Se pronostica lluvia débil en la capital (90 % de probabilidad) y posibles chubascos por la tarde. La AMEQ pide salir con anticipación porque con lluvia los recorridos del Qrobús se alargan.",
-      "nivel": "warn"
     },
     {
       "titulo": "Horario de invierno en primarias",
@@ -81,11 +52,6 @@
     {
       "titulo": "Llegada del nuevo obispo: 24 y 25 de noviembre",
       "texto": "Procesión el lunes 24 a las 17:00 de la plazuela Mariano de las Casas a la Catedral, y ceremonia el martes 25 a las 11:00 en la Basílica de Soriano (Colón), con unos 14 mil asistentes previstos. Lleva agua, desayuno y gorra.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Colecta de cobijas en Huimilpan",
-      "texto": "Hoy, 13 de noviembre, es el último día: la Presidencia Municipal de Huimilpan recibe cobijas y frazadas para la campaña «Abrigando Sonrisas» del DIF; la meta es reunir 3 mil 500 piezas.",
       "nivel": "ok"
     },
     {
@@ -161,8 +127,16 @@
   ],
   "agenda": [
     {
-      "hora": "Noche",
-      "texto": "Gabito Ballesteros en el Teatro del Pueblo de la Feria Ganadera (incluido en el acceso general de 100 pesos)"
+      "hora": "17:00",
+      "texto": "Gallos Blancos recibe a Monterrey en el Estadio Corregidora (partido pendiente del Apertura 2026)"
+    },
+    {
+      "hora": "19:00",
+      "texto": "Jamaica vs. México, ida de cuartos de final de la Liga de Naciones de la Concacaf"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Buen Fin (13 al 17 de noviembre) con operativos de seguridad en la capital y Corregidora"
     },
     {
       "hora": "Fin de semana",
@@ -170,18 +144,14 @@
     },
     {
       "hora": "Todo el día",
-      "texto": "Arranca el Buen Fin (13 al 17 de noviembre); la capital espera hasta 155 millones de pesos de derrama turística en el puente del 13 al 16"
-    },
-    {
-      "hora": "Todo el día",
       "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
     },
     {
       "hora": "Todo el día",
-      "texto": "Art Week Querétaro (9 al 15 de noviembre); programa en artweekqro.mx"
+      "texto": "Art Week Querétaro (hasta el 15 de noviembre); programa en artweekqro.mx"
     },
     {
-      "hora": "Todo el día",
+      "hora": "Último día",
       "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
     },
     {

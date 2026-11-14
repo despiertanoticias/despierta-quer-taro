@@ -1,0 +1,22 @@
+{
+  "titulo": "Falla aérea en EE. UU. afectó 193 vuelos y a 18 mil pasajeros en México",
+  "seccion": "nacional",
+  "fecha": "2026-11-14T07:19",
+  "resumen": "La Agencia Federal de Aviación Civil (AFAC) contabilizó 193 vuelos con cambios de itinerario y 18,002 pasajeros afectados en aeropuertos mexicanos el viernes, luego de que la FAA detuviera por más de cuatro horas todos los despegues en Estados Unidos por una falla de comunicaciones. La restricción se levantó a las 19:44 horas (centro de México).",
+  "cuerpo": "En el AICM, hasta las 22:00 horas había 73 vuelos afectados (44 cancelados y 29 retrasados) y 10,293 pasajeros impactados. La AFAC prevé que la recuperación sea gradual, porque las aerolíneas deben reacomodar aviones, tripulaciones y horarios. De acuerdo con El Financiero, el FBI no cree que haya sido un ciberataque; se revisa si una actualización de software provocó la falla. Si viajas a EE. UU., confirma el estado de tu vuelo con tu aerolínea.",
+  "imagen_tema": "aeropuerto",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Razón",
+      "enlace": "https://www.razon.com.mx/mexico/2026/11/14/suspension-de-vuelos-deja-18-mil-afectados-en-mexico/"
+    },
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/mundo/2026/11/13/permiso-para-despegar-eu-reanuda-despegues-tras-falla-que-afecto-centros-de-control-de-trafico-aereo/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
