@@ -1,13 +1,13 @@
 {
   "fecha": "Sábado 14 de noviembre de 2026",
-  "actualizado": "07:25 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 24,
     "min": 12,
-    "texto": "Sábado de cielo despejado en Santiago de Querétaro, con máxima de 24° y mínima de 12°. Mañana fresca; abrígate si sales temprano.",
+    "texto": "Sábado de cielo despejado en Santiago de Querétaro, con máxima de 24° y mínima de 12°. El domingo sigue despejado (25°/11°); en la sierra del sur se esperan madrugadas de 0 a 5 °C.",
     "lluvia": "Sin lluvia prevista",
     "viento": "Muy ligero (alrededor de 4 km/h)",
-    "fuente": "Panorama (pronóstico para el 14 de noviembre); San Juan del Río: Meteored"
+    "fuente": "Panorama (pronóstico para el 14 y 15 de noviembre); Conagua vía Rotativo; San Juan del Río: Meteored"
   },
   "municipios": [
     {
@@ -20,8 +20,13 @@
   "vialidades": [],
   "avisos": [
     {
-      "titulo": "Vuelos a EE. UU.: se reanudan con retrasos",
-      "texto": "La FAA levantó el viernes a las 19:44 h la suspensión de despegues; la AFAC prevé una normalización gradual tras 193 vuelos afectados en México. Confirma tu vuelo con la aerolínea antes de ir al aeropuerto.",
+      "titulo": "Vuelos a EE. UU.: siguen las cancelaciones",
+      "texto": "El sábado se contaban más de 4 mil cancelaciones en Estados Unidos tras la falla del viernes, que Washington atribuye a un router defectuoso o a la contratista L3Harris. La FAA prevé retrasos hasta el domingo. Confirma tu vuelo con la aerolínea antes de ir al aeropuerto.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Frío en la sierra: 15 y 16 de noviembre",
+      "texto": "Conagua prevé mínimas de 0 a 5 °C en las madrugadas del domingo y el lunes en las sierras del sur de Querétaro. Abrígate si sales temprano.",
       "nivel": "warn"
     },
     {
@@ -127,12 +132,16 @@
   ],
   "agenda": [
     {
-      "hora": "17:00",
-      "texto": "Gallos Blancos recibe a Monterrey en el Estadio Corregidora (partido pendiente del Apertura 2026)"
-    },
-    {
       "hora": "19:00",
       "texto": "Jamaica vs. México, ida de cuartos de final de la Liga de Naciones de la Concacaf"
+    },
+    {
+      "hora": "Noche",
+      "texto": "Alfredo Olivas en el Palenque de la Feria Ganadera (el Palenque confirma que el concierto sigue en pie)"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "México Motor Show en el Querétaro Centro de Congresos (14 y 15 de noviembre)"
     },
     {
       "hora": "Todo el día",

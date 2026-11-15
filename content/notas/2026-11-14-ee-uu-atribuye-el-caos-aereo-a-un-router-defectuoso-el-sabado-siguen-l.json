@@ -1,0 +1,22 @@
+{
+  "titulo": "EE. UU. atribuye el caos aéreo a un router defectuoso; el sábado siguen las cancelaciones",
+  "seccion": "internacional",
+  "fecha": "2026-11-14T18:53",
+  "resumen": "El secretario de Transporte, Sean Duffy, dijo que la paralización del tráfico aéreo del viernes pudo deberse a una falla de la contratista L3Harris o a un router defectuoso que saturó la red de comunicaciones del control aéreo. Hasta el sábado se contaban 4,363 cancelaciones, después de más de 9,000 el viernes.",
+  "cuerpo": "El titular de la FAA, Bryan Bedford, explicó que el equipo responsable se aisló unos 45 minutos después de detectarse las primeras anomalías y que no hay indicios de un ataque informático. La contratista hacía mantenimiento en un sitio remoto para cambiar líneas de cobre por fibra óptica. Bedford anticipó retrasos hasta el domingo, aunque afirmó que lo peor ya pasó. Quien tenga vuelo a Estados Unidos debe confirmar con su aerolínea.",
+  "imagen_tema": "aeropuerto",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Proceso",
+      "enlace": "https://www.proceso.com.mx/internacional/2026/11/14/un-router-defectuoso-habria-provocado-el-caos-aereo-en-eu-383725.html"
+    },
+    {
+      "medio": "La Razón",
+      "enlace": "https://www.razon.com.mx/negocios/2026/11/14/cancelan-miles-de-vuelos-en-eu-este-sabado-pese-a-normalizacion-de-actividades-aereas/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
