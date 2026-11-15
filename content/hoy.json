@@ -1,33 +1,44 @@
 {
-  "fecha": "Sábado 14 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Domingo 15 de noviembre de 2026",
+  "actualizado": "07:15 h",
   "clima": {
-    "max": 24,
-    "min": 12,
-    "texto": "Sábado de cielo despejado en Santiago de Querétaro, con máxima de 24° y mínima de 12°. El domingo sigue despejado (25°/11°); en la sierra del sur se esperan madrugadas de 0 a 5 °C.",
-    "lluvia": "Sin lluvia prevista",
-    "viento": "Muy ligero (alrededor de 4 km/h)",
-    "fuente": "Panorama (pronóstico para el 14 y 15 de noviembre); Conagua vía Rotativo; San Juan del Río: Meteored"
+    "max": 25,
+    "min": 11,
+    "ahora": 9,
+    "texto": "Domingo de cielo despejado en Santiago de Querétaro, con máxima de 25° y mínima de 11°. El lunes se esperan 25°/13° con algunas nubes; en la sierra del sur, madrugadas de 0 a 5 °C.",
+    "lluvia": "Prácticamente nula",
+    "viento": "Ligero",
+    "fuente": "Panorama (pronóstico del 15 y 16 de noviembre); temperatura de las 6:00 y San Juan del Río: Meteored; Conagua vía Rotativo"
   },
   "municipios": [
     {
       "nombre": "San Juan del Río",
       "max": 24,
-      "min": 10,
-      "lluvia": "0 a 10 %, soleado"
+      "min": 8,
+      "lluvia": "0 %, soleado"
     }
   ],
   "vialidades": [],
   "avisos": [
     {
-      "titulo": "Vuelos a EE. UU.: siguen las cancelaciones",
-      "texto": "El sábado se contaban más de 4 mil cancelaciones en Estados Unidos tras la falla del viernes, que Washington atribuye a un router defectuoso o a la contratista L3Harris. La FAA prevé retrasos hasta el domingo. Confirma tu vuelo con la aerolínea antes de ir al aeropuerto.",
+      "titulo": "Vuelos a EE. UU.: confirma antes de salir",
+      "texto": "La falla en el sistema de comunicaciones del control aéreo de Estados Unidos provocó más de 10 mil cancelaciones en dos días. Se prevé que el tráfico se normalice este domingo; confirma tu vuelo con la aerolínea.",
       "nivel": "warn"
     },
     {
       "titulo": "Frío en la sierra: 15 y 16 de noviembre",
       "texto": "Conagua prevé mínimas de 0 a 5 °C en las madrugadas del domingo y el lunes en las sierras del sur de Querétaro. Abrígate si sales temprano.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Refugios temporales por frío",
+      "texto": "El DIF estatal prepara refugios temporales con unas 2 mil cobijas, 60 colchonetas y kits de primeros auxilios, en coordinación con Protección Civil, ante las bajas temperaturas.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Ruta eléctrica gratuita CH3: desde el 23 de noviembre",
+      "texto": "Conectará Alameda Hidalgo, Mercado de La Cruz, Mercado Escobedo y avenida Constituyentes, con paso cada 12 minutos y transbordos gratuitos.",
+      "nivel": "ok"
     },
     {
       "titulo": "IMSS: lunes 16 solo urgencias",
@@ -132,36 +143,28 @@
   ],
   "agenda": [
     {
-      "hora": "19:00",
-      "texto": "Jamaica vs. México, ida de cuartos de final de la Liga de Naciones de la Concacaf"
+      "hora": "Noche",
+      "texto": "Remmy Valenzuela en el Teatro del Pueblo de la Feria Ganadera (incluido con la entrada general)"
     },
     {
       "hora": "Noche",
-      "texto": "Alfredo Olivas en el Palenque de la Feria Ganadera (el Palenque confirma que el concierto sigue en pie)"
+      "texto": "Emmanuel y Mijares en el Palenque de la Feria Ganadera"
+    },
+    {
+      "hora": "Último día",
+      "texto": "México Motor Show en el Querétaro Centro de Congresos"
+    },
+    {
+      "hora": "Último día",
+      "texto": "Art Week Querétaro; programa en artweekqro.mx"
     },
     {
       "hora": "Todo el día",
-      "texto": "México Motor Show en el Querétaro Centro de Congresos (14 y 15 de noviembre)"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Buen Fin (13 al 17 de noviembre) con operativos de seguridad en la capital y Corregidora"
-    },
-    {
-      "hora": "Fin de semana",
-      "texto": "Torneo México Challenge Fundación Real Madrid en el club deportivo La Loma, con más de 350 niñas y niños"
+      "texto": "Buen Fin (13 al 17 de noviembre) con operativos de seguridad en la capital, Corregidora y San Juan del Río"
     },
     {
       "hora": "Todo el día",
       "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Art Week Querétaro (hasta el 15 de noviembre); programa en artweekqro.mx"
-    },
-    {
-      "hora": "Último día",
-      "texto": "46 Muestra Nacional de Teatro (5 al 14 de noviembre) en Querétaro, Amealco, Corregidora, Pinal de Amoles y Jalpan de Serra"
     },
     {
       "hora": "Hasta el 30 de noviembre",

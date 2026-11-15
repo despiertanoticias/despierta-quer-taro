@@ -1,0 +1,22 @@
+{
+  "titulo": "Domingo despejado en Querétaro, con máxima de 25 °C y sin lluvia",
+  "seccion": "queretaro",
+  "fecha": "2026-11-15T07:12",
+  "resumen": "Santiago de Querétaro tendrá este domingo cielo despejado, máxima de 25 °C, mínima de 11 °C y probabilidad de lluvia prácticamente nula, con viento ligero. En San Juan del Río se esperan 24 °C de máxima y 8 °C de mínima.",
+  "cuerpo": "Para el lunes 16 se prevé una máxima de 25 °C y mínima de 13 °C, con algunas nubes. Conagua anticipó madrugadas de 0 a 5 °C en las sierras del sur del estado el domingo y el lunes.",
+  "imagen_tema": "acueducto",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Panorama",
+      "enlace": "https://www.panoramaweb.com.mx/tendencias/2026/11/14/clima-hoy-en-queretaro-pronostico-para-este-domingo-15-de-noviembre-54387.html"
+    },
+    {
+      "medio": "Meteored",
+      "enlace": "https://www.meteored.cl/tiempo-en_San+Juan+Del+Rio-America+Norte-Mexico-Queretaro--1-21721.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
