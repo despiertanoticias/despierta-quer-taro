@@ -1,14 +1,13 @@
 {
   "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "07:15 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 25,
-    "min": 11,
-    "ahora": 9,
-    "texto": "Domingo de cielo despejado en Santiago de Querétaro, con máxima de 25° y mínima de 11°. El lunes se esperan 25°/13° con algunas nubes; en la sierra del sur, madrugadas de 0 a 5 °C.",
-    "lluvia": "Prácticamente nula",
-    "viento": "Ligero",
-    "fuente": "Panorama (pronóstico del 15 y 16 de noviembre); temperatura de las 6:00 y San Juan del Río: Meteored; Conagua vía Rotativo"
+    "min": 9,
+    "texto": "Domingo soleado en Santiago de Querétaro, con máxima de 25° y mínima de 9°. Para el lunes 16 se esperan 25°/11°, cielo parcialmente nublado, 30 % de probabilidad de lluvia débil y viento del noreste de 18 a 40 km/h.",
+    "lluvia": "0 % hoy; 30 % el lunes",
+    "viento": "Del oeste, 9 a 27 km/h",
+    "fuente": "Meteored (pronóstico del 15 y 16 de noviembre)"
   },
   "municipios": [
     {
@@ -16,15 +15,31 @@
       "max": 24,
       "min": 8,
       "lluvia": "0 %, soleado"
+    },
+    {
+      "nombre": "Tequisquiapan (lunes)",
+      "max": 23,
+      "min": 11,
+      "lluvia": "30 %, lluvia débil"
     }
   ],
-  "vialidades": [],
-  "avisos": [
+  "vialidades": [
     {
-      "titulo": "Vuelos a EE. UU.: confirma antes de salir",
-      "texto": "La falla en el sistema de comunicaciones del control aéreo de Estados Unidos provocó más de 10 mil cancelaciones en dos días. Se prevé que el tráfico se normalice este domingo; confirma tu vuelo con la aerolínea.",
+      "nombre": "Autopista 57 / México-Querétaro (dirección San Juan del Río)",
+      "icono": "57D",
+      "color": "#1d4ed8",
+      "estado": "Por la tarde, un tráiler quedó incrustado en el camellón a la altura de Prolongación Corregidora Sur; los carriles centrales se cerraron hasta la altura del Estadio Corregidora, con tráfico pesado. Usa rutas alternas.",
       "nivel": "warn"
     },
+    {
+      "nombre": "Autopista México-Querétaro (dirección CDMX)",
+      "icono": "57D",
+      "color": "#1d4ed8",
+      "estado": "Un percance cerró los carriles centrales entre Lomas de Casa Blanca y Plazas del Sol; se reportaron dos choques cerca de la caseta y obras con reducción de carriles en San Juan del Río y Palmillas.",
+      "nivel": "warn"
+    }
+  ],
+  "avisos": [
     {
       "titulo": "Frío en la sierra: 15 y 16 de noviembre",
       "texto": "Conagua prevé mínimas de 0 a 5 °C en las madrugadas del domingo y el lunes en las sierras del sur de Querétaro. Abrígate si sales temprano.",
