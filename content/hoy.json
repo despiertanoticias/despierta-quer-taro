@@ -1,49 +1,26 @@
 {
-  "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "actualizado": "07:15 h",
   "clima": {
-    "max": 25,
-    "min": 9,
-    "texto": "Domingo soleado en Santiago de Querétaro, con máxima de 25° y mínima de 9°. Para el lunes 16 se esperan 25°/11°, cielo parcialmente nublado, 30 % de probabilidad de lluvia débil y viento del noreste de 18 a 40 km/h.",
-    "lluvia": "0 % hoy; 30 % el lunes",
-    "viento": "Del oeste, 9 a 27 km/h",
-    "fuente": "Meteored (pronóstico del 15 y 16 de noviembre)"
+    "max": 24,
+    "min": 11,
+    "texto": "Lunes parcialmente nublado en Santiago de Querétaro, con máxima de 24° y mínima de 11° y posible lluvia débil. El SMN prevé chubascos fuertes (25 a 50 mm) en el norte del estado por el frente frío 6. Para el martes 17 se esperan 24°/12° con nubes y claros.",
+    "lluvia": "30 %, lluvia débil",
+    "viento": "Del este, 18 a 39 km/h",
+    "fuente": "Meteored y SMN (pronóstico del 16 de noviembre)"
   },
-  "municipios": [
-    {
-      "nombre": "San Juan del Río",
-      "max": 24,
-      "min": 8,
-      "lluvia": "0 %, soleado"
-    },
-    {
-      "nombre": "Tequisquiapan (lunes)",
-      "max": 23,
-      "min": 11,
-      "lluvia": "30 %, lluvia débil"
-    }
-  ],
-  "vialidades": [
-    {
-      "nombre": "Autopista 57 / México-Querétaro (dirección San Juan del Río)",
-      "icono": "57D",
-      "color": "#1d4ed8",
-      "estado": "Por la tarde, un tráiler quedó incrustado en el camellón a la altura de Prolongación Corregidora Sur; los carriles centrales se cerraron hasta la altura del Estadio Corregidora, con tráfico pesado. Usa rutas alternas.",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Autopista México-Querétaro (dirección CDMX)",
-      "icono": "57D",
-      "color": "#1d4ed8",
-      "estado": "Un percance cerró los carriles centrales entre Lomas de Casa Blanca y Plazas del Sol; se reportaron dos choques cerca de la caseta y obras con reducción de carriles en San Juan del Río y Palmillas.",
-      "nivel": "warn"
-    }
-  ],
+  "municipios": [],
+  "vialidades": [],
   "avisos": [
     {
-      "titulo": "Frío en la sierra: 15 y 16 de noviembre",
-      "texto": "Conagua prevé mínimas de 0 a 5 °C en las madrugadas del domingo y el lunes en las sierras del sur de Querétaro. Abrígate si sales temprano.",
+      "titulo": "Lluvias en el norte y frío en la sierra: 16 de noviembre",
+      "texto": "El SMN prevé chubascos fuertes (25 a 50 mm) en el norte de Querétaro por el frente frío 6, y mínimas de 0 a 5 °C en zonas serranas. Precaución en carreteras de la Sierra Gorda.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Hoy es día de descanso obligatorio",
+      "texto": "Por el aniversario de la Revolución, los bancos cierran sucursales (cajeros, banca en línea y SPEI funcionan), no hay clases en educación básica y quien trabaje tiene derecho a pago triple. El SAT no amplía plazos de declaraciones.",
+      "nivel": "ok"
     },
     {
       "titulo": "Refugios temporales por frío",
@@ -158,20 +135,8 @@
   ],
   "agenda": [
     {
-      "hora": "Noche",
-      "texto": "Remmy Valenzuela en el Teatro del Pueblo de la Feria Ganadera (incluido con la entrada general)"
-    },
-    {
-      "hora": "Noche",
-      "texto": "Emmanuel y Mijares en el Palenque de la Feria Ganadera"
-    },
-    {
-      "hora": "Último día",
-      "texto": "México Motor Show en el Querétaro Centro de Congresos"
-    },
-    {
-      "hora": "Último día",
-      "texto": "Art Week Querétaro; programa en artweekqro.mx"
+      "hora": "Todo el día",
+      "texto": "Día festivo por el aniversario de la Revolución Mexicana (descanso obligatorio)"
     },
     {
       "hora": "Todo el día",
