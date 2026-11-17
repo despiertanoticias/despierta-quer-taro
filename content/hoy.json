@@ -1,20 +1,41 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "07:15 h",
+  "actualizado": "18:50 h",
   "clima": {
     "max": 24,
     "min": 11,
-    "texto": "Lunes parcialmente nublado en Santiago de Querétaro, con máxima de 24° y mínima de 11° y posible lluvia débil. El SMN prevé chubascos fuertes (25 a 50 mm) en el norte del estado por el frente frío 6. Para el martes 17 se esperan 24°/12° con nubes y claros.",
-    "lluvia": "30 %, lluvia débil",
+    "texto": "Lunes con nubes y claros en Santiago de Querétaro, máxima de 24° y mínima de 11°, con posible lluvia débil. Para el martes 17 se esperan 24°/12°, nubes y claros y lluvia poco probable. Por el aire frío del frente 6, el SMN prevé mínimas de 0 a 5 °C en zonas serranas del estado el martes y el miércoles.",
+    "lluvia": "30 %, lluvia débil; martes poco probable",
     "viento": "Del este, 18 a 39 km/h",
-    "fuente": "Meteored y SMN (pronóstico del 16 de noviembre)"
+    "fuente": "Meteored y SMN vía El Financiero (pronóstico del 16 de noviembre)"
   },
-  "municipios": [],
-  "vialidades": [],
+  "municipios": [
+    {
+      "nombre": "Tequisquiapan",
+      "max": 23,
+      "min": 11,
+      "lluvia": "30 %, lluvia débil"
+    },
+    {
+      "nombre": "Bernal, Ezequiel Montes",
+      "max": 20,
+      "min": 9,
+      "lluvia": "50 %, lluvia débil"
+    }
+  ],
+  "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro (dirección CDMX)",
+      "icono": "57D",
+      "color": "#1d4ed8",
+      "estado": "Guardia Nacional y Capufe reportaron este lunes un cierre parcial en el km 37 (Cuautitlán Izcalli) en la madrugada y otro por choque en el km 70, dirección CDMX, a las 10:42. Se espera alto aforo por el regreso del puente.",
+      "nivel": "warn"
+    }
+  ],
   "avisos": [
     {
-      "titulo": "Lluvias en el norte y frío en la sierra: 16 de noviembre",
-      "texto": "El SMN prevé chubascos fuertes (25 a 50 mm) en el norte de Querétaro por el frente frío 6, y mínimas de 0 a 5 °C en zonas serranas. Precaución en carreteras de la Sierra Gorda.",
+      "titulo": "Frío en la sierra: martes y miércoles",
+      "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro el martes 17 y el miércoles 18. Abrígate en las madrugadas.",
       "nivel": "warn"
     },
     {
@@ -33,9 +54,9 @@
       "nivel": "ok"
     },
     {
-      "titulo": "IMSS: lunes 16 solo urgencias",
-      "texto": "El lunes 16 de noviembre el IMSS Querétaro atenderá urgencias y hospitalización en los HGR 1 y 2 y el HGZ 3, y Atención Médica Continua en las UMF 4, 6, 7, 8, 9, 12, 15 y 17. Las actividades normales regresan el martes 17.",
-      "nivel": "warn"
+      "titulo": "IMSS: actividades normales desde el martes 17",
+      "texto": "Tras el día festivo, el IMSS Querétaro retoma consultas y servicios habituales el martes 17 de noviembre; este lunes solo operaron urgencias, hospitalización y Atención Médica Continua.",
+      "nivel": "ok"
     },
     {
       "titulo": "Primer caso de influenza de la temporada",
@@ -68,7 +89,7 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Buen Fin: del 13 al 17 de noviembre",
+      "titulo": "Buen Fin: último día el martes 17",
       "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). La policía municipal de Querétaro desplegará a todo su personal operativo del 13 al 16 de noviembre. Corregidora despliega más de 150 policías del 12 al 17 de noviembre en plazas, corredores comerciales y tianguis.",
       "nivel": "ok"
     },
@@ -79,7 +100,7 @@
     },
     {
       "titulo": "Gusano barrenador: 9 casos en 2026",
-      "texto": "La SESEQ confirmó un nuevo caso de miasis en San Juan del Río; van nueve en el estado y una defunción. Mantén las heridas limpias y cubiertas, no te automediques y acude a tu unidad de salud si notas dolor intenso, secreción, mal olor o larvas.",
+      "texto": "La SESEQ suma nueve casos de miasis por gusano barrenador en 2026 y una defunción confirmada; investiga si una segunda muerte, en Pinal de Amoles, se debió a esta causa. Mantén las heridas limpias y cubiertas, no te automediques y acude a tu unidad de salud si notas dolor intenso, secreción, mal olor o larvas.",
       "nivel": "warn"
     },
     {
@@ -153,6 +174,10 @@
     {
       "hora": "Hasta el 6 de diciembre",
       "texto": "Exposiciones «Julio Castillo: hombre y obra» y «Ecos de la Bodega 2.0» en la Galería Libertad"
+    },
+    {
+      "hora": "22:00",
+      "texto": "Sheinbaum presenta el Plan México en la APEC CEO Summit, en Shenzhen (hora de México)"
     }
   ]
 }
