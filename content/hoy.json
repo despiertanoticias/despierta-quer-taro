@@ -1,47 +1,42 @@
 {
-  "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Martes 17 de noviembre de 2026",
+  "actualizado": "07:15 h",
   "clima": {
     "max": 24,
     "min": 11,
-    "texto": "Lunes con nubes y claros en Santiago de Querétaro, máxima de 24° y mínima de 11°, con posible lluvia débil. Para el martes 17 se esperan 24°/12°, nubes y claros y lluvia poco probable. Por el aire frío del frente 6, el SMN prevé mínimas de 0 a 5 °C en zonas serranas del estado el martes y el miércoles.",
-    "lluvia": "30 %, lluvia débil; martes poco probable",
-    "viento": "Del este, 18 a 39 km/h",
-    "fuente": "Meteored y SMN vía El Financiero (pronóstico del 16 de noviembre)"
+    "ahora": 11,
+    "texto": "Martes con nubes y claros en Santiago de Querétaro: amaneció con 11° y se espera una máxima de 24° sin lluvia. Para el miércoles 18 se pronostican 25°/10°, con nubes y claros.",
+    "lluvia": "0 %",
+    "viento": "Del este, 16 a 33 km/h",
+    "fuente": "Meteored (pronóstico del 17 de noviembre, 06:00 h)"
   },
-  "municipios": [
-    {
-      "nombre": "Tequisquiapan",
-      "max": 23,
-      "min": 11,
-      "lluvia": "30 %, lluvia débil"
-    },
-    {
-      "nombre": "Bernal, Ezequiel Montes",
-      "max": 20,
-      "min": 9,
-      "lluvia": "50 %, lluvia débil"
-    }
-  ],
+  "municipios": [],
   "vialidades": [
     {
-      "nombre": "Autopista México-Querétaro (dirección CDMX)",
-      "icono": "57D",
+      "nombre": "Carretera 57, caseta de Palmillas",
+      "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Guardia Nacional y Capufe reportaron este lunes un cierre parcial en el km 37 (Cuautitlán Izcalli) en la madrugada y otro por choque en el km 70, dirección CDMX, a las 10:42. Se espera alto aforo por el regreso del puente.",
+      "estado": "Productores agrícolas anunciaron un bloqueo en ambos sentidos desde las 8:00 en la caseta de Palmillas (San Juan del Río). No han precisado si será total o parcial; anticipa tus traslados y consulta a Capufe.",
       "nivel": "warn"
+    },
+    {
+      "nombre": "Qrobús",
+      "icono": "QB",
+      "color": "#b45309",
+      "estado": "Ruta gratuita a la Feria Ganadera desde el Centro Educativo y Cultural Manuel Gómez Morín, de 11:00 a 00:30 (AMEQ).",
+      "nivel": "ok"
     }
   ],
   "avisos": [
     {
-      "titulo": "Frío en la sierra: martes y miércoles",
-      "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro el martes 17 y el miércoles 18. Abrígate en las madrugadas.",
+      "titulo": "Bloqueo en Palmillas desde las 8:00",
+      "texto": "Agricultores anunciaron concentrarse en la caseta de Palmillas, carretera 57, en ambos sentidos, como parte de una jornada nacional de protesta. Anticipa tus traslados hacia San Juan del Río y la Ciudad de México.",
       "nivel": "warn"
     },
     {
-      "titulo": "Hoy es día de descanso obligatorio",
-      "texto": "Por el aniversario de la Revolución, los bancos cierran sucursales (cajeros, banca en línea y SPEI funcionan), no hay clases en educación básica y quien trabaje tiene derecho a pago triple. El SAT no amplía plazos de declaraciones.",
-      "nivel": "ok"
+      "titulo": "Frío en la sierra: martes y miércoles",
+      "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro el martes 17 y el miércoles 18. Abrígate en las madrugadas.",
+      "nivel": "warn"
     },
     {
       "titulo": "Refugios temporales por frío",
@@ -49,13 +44,13 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Ruta eléctrica gratuita CH3: desde el 23 de noviembre",
-      "texto": "Conectará Alameda Hidalgo, Mercado de La Cruz, Mercado Escobedo y avenida Constituyentes, con paso cada 12 minutos y transbordos gratuitos.",
-      "nivel": "ok"
+      "titulo": "Dengue: 2 casos y 1 muerte en 2026",
+      "texto": "La Secretaría de Salud estatal reporta dos casos locales y una defunción, todos en el municipio de Querétaro. Tapa recipientes con agua, elimina cacharros y acude al médico si tienes fiebre alta.",
+      "nivel": "warn"
     },
     {
-      "titulo": "IMSS: actividades normales desde el martes 17",
-      "texto": "Tras el día festivo, el IMSS Querétaro retoma consultas y servicios habituales el martes 17 de noviembre; este lunes solo operaron urgencias, hospitalización y Atención Médica Continua.",
+      "titulo": "Ruta eléctrica gratuita CH3: desde el 23 de noviembre",
+      "texto": "Conectará Alameda Hidalgo, Mercado de La Cruz, Mercado Escobedo y avenida Constituyentes, con paso cada 12 minutos y transbordos gratuitos.",
       "nivel": "ok"
     },
     {
@@ -69,8 +64,8 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Horario de invierno en primarias",
-      "texto": "Del 17 de noviembre al 19 de febrero, las primarias públicas generales e indígenas atenderán de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
+      "titulo": "Horario de invierno en primarias: desde hoy",
+      "texto": "Del 17 de noviembre al 19 de febrero, 228 primarias públicas generales e indígenas atienden de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
       "nivel": "warn"
     },
     {
@@ -89,8 +84,8 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Buen Fin: último día el martes 17",
-      "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). La policía municipal de Querétaro desplegará a todo su personal operativo del 13 al 16 de noviembre. Corregidora despliega más de 150 policías del 12 al 17 de noviembre en plazas, corredores comerciales y tianguis.",
+      "titulo": "Buen Fin: hoy es el último día",
+      "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). Corregidora mantiene más de 150 policías en plazas, corredores comerciales y tianguis hasta hoy 17 de noviembre.",
       "nivel": "ok"
     },
     {
@@ -156,16 +151,24 @@
   ],
   "agenda": [
     {
-      "hora": "Todo el día",
-      "texto": "Día festivo por el aniversario de la Revolución Mexicana (descanso obligatorio)"
+      "hora": "08:00",
+      "texto": "Bloqueo anunciado por productores agrícolas en la caseta de Palmillas, carretera 57 (San Juan del Río)"
     },
     {
       "hora": "Todo el día",
-      "texto": "Buen Fin (13 al 17 de noviembre) con operativos de seguridad en la capital, Corregidora y San Juan del Río"
+      "texto": "Último día del Buen Fin"
     },
     {
       "hora": "Todo el día",
       "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
+    },
+    {
+      "hora": "20:30",
+      "texto": "México vs. Jamaica, vuelta de cuartos de final de la Liga de Naciones, en el Estadio Monterrey"
+    },
+    {
+      "hora": "21:00",
+      "texto": "Lucha libre con Místico, Neón y Soberano Jr. en el Teatro del Pueblo de la Feria (incluida en la entrada general)"
     },
     {
       "hora": "Hasta el 30 de noviembre",
@@ -174,10 +177,6 @@
     {
       "hora": "Hasta el 6 de diciembre",
       "texto": "Exposiciones «Julio Castillo: hombre y obra» y «Ecos de la Bodega 2.0» en la Galería Libertad"
-    },
-    {
-      "hora": "22:00",
-      "texto": "Sheinbaum presenta el Plan México en la APEC CEO Summit, en Shenzhen (hora de México)"
     }
   ]
 }
