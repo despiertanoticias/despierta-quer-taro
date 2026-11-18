@@ -1,23 +1,17 @@
 {
-  "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Miércoles 18 de noviembre de 2026",
+  "actualizado": "07:05 h",
   "clima": {
-    "max": 24,
-    "min": 11,
-    "texto": "Martes con nubes y claros en Santiago de Querétaro, máxima de 24° y mínima de 11°, sin lluvia. Para el miércoles 18 se pronostican 25°/10°, cielo parcialmente nublado, sin lluvia y viento del noreste de 15 a 34 km/h.",
+    "max": 25,
+    "min": 10,
+    "ahora": 10,
+    "texto": "Miércoles parcialmente nublado en Santiago de Querétaro, con máxima de 25° y mínima de 10°, sin lluvia. A las 6:00 se registraban 10° con sensación de 9°. Para el jueves 19 se esperan 23°/12°, también sin lluvia.",
     "lluvia": "0 %",
-    "viento": "Del este, 16 a 33 km/h",
-    "fuente": "Meteored (pronóstico del 17 de noviembre)"
+    "viento": "Del noreste, 15 a 34 km/h",
+    "fuente": "Meteored (18 de noviembre, 6:00 h)"
   },
   "municipios": [],
   "vialidades": [
-    {
-      "nombre": "Carretera 57, caseta de Palmillas",
-      "icono": "57",
-      "color": "#1d4ed8",
-      "estado": "Agricultores se concentraron en la caseta desde las 8:00, pero levantaron las plumas y dejaron pasar a los vehículos sin bloquear la circulación (reporte de las 12:20). Consulta a Capufe antes de viajar.",
-      "nivel": "warn"
-    },
     {
       "nombre": "Qrobús",
       "icono": "QB",
@@ -28,9 +22,9 @@
   ],
   "avisos": [
     {
-      "titulo": "Palmillas: protesta sin bloqueo",
-      "texto": "Los productores agrícolas concentrados en la caseta de Palmillas (San Juan del Río) abrieron las plumas y aseguraron que no cerrarían la carretera 57. Anticipa posibles demoras en la zona.",
-      "nivel": "warn"
+      "titulo": "Recolección de tiliches en Casa Blanca",
+      "texto": "Del 25 al 27 de noviembre, el Municipio de Querétaro recogerá objetos en desuso en la colonia Casa Blanca. El escombro no forma parte de la recolección domiciliaria; reportes de basura al 070.",
+      "nivel": "ok"
     },
     {
       "titulo": "Mototaxis de aplicación, sin regulación",
@@ -38,8 +32,18 @@
       "nivel": "warn"
     },
     {
-      "titulo": "Frío en la sierra: martes y miércoles",
+      "titulo": "Frío en la sierra: hoy miércoles",
       "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro el martes 17 y el miércoles 18. Abrígate en las madrugadas.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "«The Pyramid» en Corregidora, sin permisos",
+      "texto": "El Municipio de Corregidora advierte que el evento «The Pyramid (Chapter One)», anunciado para el 5 de diciembre, no tiene autorización.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Carretera 300 en San Juan del Río: precaución",
+      "texto": "El paso bajo las vías del tren cerca de Vista Hermosa opera a un carril con banderilleros por las obras del tren; el martes un camión volcó junto a la rampa de frenado.",
       "nivel": "warn"
     },
     {
@@ -68,8 +72,8 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Horario de invierno en primarias: desde hoy",
-      "texto": "Del 17 de noviembre al 19 de febrero, 228 primarias públicas generales e indígenas atienden de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
+      "titulo": "Horario de invierno en primarias",
+      "texto": "Desde el 17 de noviembre y hasta el 19 de febrero, 228 primarias públicas generales e indígenas atienden de 8:30 a 12:30 (matutino) y de 14:00 a 18:00 (vespertino). Habrá personal de guardia en el horario habitual y se permite ropa abrigadora.",
       "nivel": "warn"
     },
     {
@@ -85,11 +89,6 @@
     {
       "titulo": "Congreso Nacional de Energías: 19 y 20 de noviembre",
       "texto": "En el Querétaro Centro de Congresos, con más de 20 conferencias y talleres. Entrada gratuita con registro en línea.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Buen Fin: hoy es el último día",
-      "texto": "Profeco recomienda fijar un presupuesto y comparar precios con su herramienta Quién es Quién en los Precios (elbuenfin.profeco.gob.mx). Corregidora mantiene más de 150 policías en plazas, corredores comerciales y tianguis hasta hoy 17 de noviembre.",
       "nivel": "ok"
     },
     {
@@ -155,24 +154,16 @@
   ],
   "agenda": [
     {
-      "hora": "08:00",
-      "texto": "Concentración de productores agrícolas en la caseta de Palmillas, carretera 57 (San Juan del Río); levantaron plumas sin bloquear el paso"
+      "hora": "Todo el día",
+      "texto": "Cumbre de líderes de APEC en Shenzhen, China, con la participación de la presidenta Claudia Sheinbaum (concluye el jueves 19)"
     },
     {
-      "hora": "Todo el día",
-      "texto": "Último día del Buen Fin"
+      "hora": "13:00",
+      "texto": "La Reserva Federal de EE. UU. publica las minutas de su reunión de octubre"
     },
     {
       "hora": "Todo el día",
       "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
-    },
-    {
-      "hora": "20:30",
-      "texto": "México vs. Jamaica, vuelta de cuartos de final de la Liga de Naciones, en el Estadio Monterrey"
-    },
-    {
-      "hora": "21:00",
-      "texto": "Lucha libre con Místico, Neón y Soberano Jr. en el Teatro del Pueblo de la Feria (incluida en la entrada general)"
     },
     {
       "hora": "Hasta el 30 de noviembre",
