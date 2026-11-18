@@ -1,14 +1,13 @@
 {
   "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "07:15 h",
+  "actualizado": "18:40 h",
   "clima": {
     "max": 24,
     "min": 11,
-    "ahora": 11,
-    "texto": "Martes con nubes y claros en Santiago de Querétaro: amaneció con 11° y se espera una máxima de 24° sin lluvia. Para el miércoles 18 se pronostican 25°/10°, con nubes y claros.",
+    "texto": "Martes con nubes y claros en Santiago de Querétaro, máxima de 24° y mínima de 11°, sin lluvia. Para el miércoles 18 se pronostican 25°/10°, cielo parcialmente nublado, sin lluvia y viento del noreste de 15 a 34 km/h.",
     "lluvia": "0 %",
     "viento": "Del este, 16 a 33 km/h",
-    "fuente": "Meteored (pronóstico del 17 de noviembre, 06:00 h)"
+    "fuente": "Meteored (pronóstico del 17 de noviembre)"
   },
   "municipios": [],
   "vialidades": [
@@ -16,7 +15,7 @@
       "nombre": "Carretera 57, caseta de Palmillas",
       "icono": "57",
       "color": "#1d4ed8",
-      "estado": "Productores agrícolas anunciaron un bloqueo en ambos sentidos desde las 8:00 en la caseta de Palmillas (San Juan del Río). No han precisado si será total o parcial; anticipa tus traslados y consulta a Capufe.",
+      "estado": "Agricultores se concentraron en la caseta desde las 8:00, pero levantaron las plumas y dejaron pasar a los vehículos sin bloquear la circulación (reporte de las 12:20). Consulta a Capufe antes de viajar.",
       "nivel": "warn"
     },
     {
@@ -29,8 +28,13 @@
   ],
   "avisos": [
     {
-      "titulo": "Bloqueo en Palmillas desde las 8:00",
-      "texto": "Agricultores anunciaron concentrarse en la caseta de Palmillas, carretera 57, en ambos sentidos, como parte de una jornada nacional de protesta. Anticipa tus traslados hacia San Juan del Río y la Ciudad de México.",
+      "titulo": "Palmillas: protesta sin bloqueo",
+      "texto": "Los productores agrícolas concentrados en la caseta de Palmillas (San Juan del Río) abrieron las plumas y aseguraron que no cerrarían la carretera 57. Anticipa posibles demoras en la zona.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Mototaxis de aplicación, sin regulación",
+      "texto": "La AMEQ pide no usar el servicio de mototaxi de aplicaciones: no tiene permiso en Querétaro y la agencia no puede intervenir ante incidentes.",
       "nivel": "warn"
     },
     {
@@ -152,7 +156,7 @@
   "agenda": [
     {
       "hora": "08:00",
-      "texto": "Bloqueo anunciado por productores agrícolas en la caseta de Palmillas, carretera 57 (San Juan del Río)"
+      "texto": "Concentración de productores agrícolas en la caseta de Palmillas, carretera 57 (San Juan del Río); levantaron plumas sin bloquear el paso"
     },
     {
       "hora": "Todo el día",
