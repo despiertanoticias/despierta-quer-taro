@@ -1,14 +1,14 @@
 {
-  "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "07:05 h",
+  "fecha": "Jueves 19 de noviembre de 2026",
+  "actualizado": "07:20 h",
   "clima": {
-    "max": 25,
-    "min": 10,
-    "ahora": 10,
-    "texto": "Miércoles parcialmente nublado en Santiago de Querétaro, con máxima de 25° y mínima de 10°, sin lluvia. A las 6:00 se registraban 10° con sensación de 9°. Para el jueves 19 se esperan 23°/12°, también sin lluvia.",
+    "max": 23,
+    "min": 12,
+    "ahora": null,
+    "texto": "Jueves de nubes y claros en Santiago de Querétaro, con máxima de 23° y mínima de 12°, sin lluvia prevista durante el día. El SMN prevé mínimas de 0 a 5 °C en las zonas serranas del estado.",
     "lluvia": "0 %",
-    "viento": "Del noreste, 15 a 34 km/h",
-    "fuente": "Meteored (18 de noviembre, 6:00 h)"
+    "viento": "Del este, 11 a 31 km/h, rachas de 37 km/h",
+    "fuente": "Meteored (19 de noviembre) · SMN"
   },
   "municipios": [],
   "vialidades": [
@@ -22,6 +22,16 @@
   ],
   "avisos": [
     {
+      "titulo": "Operativo invernal: evita calentones en casa",
+      "texto": "Protección Civil estatal pide no usar calentones dentro de los hogares por el riesgo de monóxido de carbono y usar calefactores eléctricos certificados. Las personas en situación de calle pueden acudir de forma voluntaria a los refugios; se entregan cobijas a quien las pida.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Frío en la sierra: hoy jueves",
+      "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro. Abrígate en las madrugadas.",
+      "nivel": "warn"
+    },
+    {
       "titulo": "Recolección de tiliches en Casa Blanca",
       "texto": "Del 25 al 27 de noviembre, el Municipio de Querétaro recogerá objetos en desuso en la colonia Casa Blanca. El escombro no forma parte de la recolección domiciliaria; reportes de basura al 070.",
       "nivel": "ok"
@@ -29,11 +39,6 @@
     {
       "titulo": "Mototaxis de aplicación, sin regulación",
       "texto": "La AMEQ pide no usar el servicio de mototaxi de aplicaciones: no tiene permiso en Querétaro y la agencia no puede intervenir ante incidentes.",
-      "nivel": "warn"
-    },
-    {
-      "titulo": "Frío en la sierra: hoy miércoles",
-      "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro el martes 17 y el miércoles 18. Abrígate en las madrugadas.",
       "nivel": "warn"
     },
     {
@@ -150,16 +155,25 @@
       "titulo": "Obras de JAPAM en San Juan del Río",
       "texto": "Hasta el 10 de diciembre habrá trabajos y cierres en la calle Netzahualcóyotl, colonia Arboledas. JAPAM publicará las rutas alternas.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Festival Alegría en San Juan del Río: desde el 28 de noviembre",
+      "texto": "Pista de hielo gratuita en Independencia esquina Vicente Guerrero del 28 de noviembre al 12 de diciembre (se pide CURP impresa), encendido del pino el 29 a las 20:00 y desfile navideño el 9 de diciembre a las 19:00, con cierres viales en el centro.",
+      "nivel": "ok"
     }
   ],
   "agenda": [
     {
       "hora": "Todo el día",
-      "texto": "Cumbre de líderes de APEC en Shenzhen, China, con la participación de la presidenta Claudia Sheinbaum (concluye el jueves 19)"
+      "texto": "Último día de la cumbre de APEC en Shenzhen, China; reunión trilateral de Donald Trump, Xi Jinping y Vladimir Putin"
     },
     {
-      "hora": "13:00",
-      "texto": "La Reserva Federal de EE. UU. publica las minutas de su reunión de octubre"
+      "hora": "Todo el día",
+      "texto": "Feria de Empleo en San Juan del Río: unas 35 empresas con más de mil vacantes"
+    },
+    {
+      "hora": "19 y 20 de noviembre",
+      "texto": "Congreso Nacional de Energías en el Querétaro Centro de Congresos, entrada gratuita con registro"
     },
     {
       "hora": "Todo el día",
