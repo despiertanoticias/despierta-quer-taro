@@ -1,0 +1,18 @@
+{
+  "titulo": "Municipio de Querétaro refuerza su ciberseguridad tras intentos de hackeo",
+  "seccion": "queretaro",
+  "fecha": "2026-11-19T18:26",
+  "resumen": "El secretario de Finanzas municipal, Carlos León González, informó que hubo intentos de ataque contra el sistema de infracciones y multas de tránsito, y contra una clave catastral vinculada a 87 tarjetas de crédito.",
+  "cuerpo": "Servicios como los cobros en línea tuvieron intermitencias; parte de las fallas se atribuyó a caídas globales de AWS y Microsoft. León dijo que el servicio se restablece en un lapso de 20 minutos a una hora.",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Código Qro",
+      "enlace": "https://codigoqro.mx/nota/local/2026/11/19/ante-intentos-de-hackeo-municipio-de-queretaro-refuerza-ciberseguridad"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

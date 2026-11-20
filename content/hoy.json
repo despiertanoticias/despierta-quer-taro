@@ -1,17 +1,24 @@
 {
   "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:50 h",
   "clima": {
-    "max": 23,
+    "max": 24,
     "min": 12,
-    "ahora": null,
-    "texto": "Jueves de nubes y claros en Santiago de Querétaro, con máxima de 23° y mínima de 12°, sin lluvia prevista durante el día. El SMN prevé mínimas de 0 a 5 °C en las zonas serranas del estado.",
+    "ahora": 17,
+    "texto": "Jueves de nubes y claros en Santiago de Querétaro, con máxima de 24° y mínima de 12°; a las 18:00 el termómetro marcaba 17° con cielo despejado. Para el viernes 20 se esperan nubes y claros, con máxima de 26°, mínima de 10° y sin lluvia.",
     "lluvia": "0 %",
-    "viento": "Del este, 11 a 31 km/h, rachas de 37 km/h",
-    "fuente": "Meteored (19 de noviembre) · SMN"
+    "viento": "Del este, 16 a 37 km/h",
+    "fuente": "Meteored (19 de noviembre)"
   },
   "municipios": [],
   "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b91c1c",
+      "estado": "Jueves con carga vehicular: accidentes por la mañana rumbo a Querétaro en el tramo del Edomex (km 42 y plaza de Tepotzotlán), tráfico intenso en el tramo urbano de Jurica a Lomas de Casa Blanca rumbo a CDMX y obras con congestión cerca de San Juan del Río (Heraldo de México, N+).",
+      "nivel": "warn"
+    },
     {
       "nombre": "Qrobús",
       "icono": "QB",
@@ -97,11 +104,6 @@
       "nivel": "ok"
     },
     {
-      "titulo": "Feria de Empleo en San Juan del Río",
-      "texto": "El 19 de noviembre, unas 35 empresas ofrecerán más de mil vacantes operativas y para profesionistas en la última Feria de Empleo del año.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Gusano barrenador: 9 casos en 2026",
       "texto": "La SESEQ suma nueve casos de miasis por gusano barrenador en 2026 y una defunción confirmada; investiga si una segunda muerte, en Pinal de Amoles, se debió a esta causa. Mantén las heridas limpias y cubiertas, no te automediques y acude a tu unidad de salud si notas dolor intenso, secreción, mal olor o larvas.",
       "nivel": "warn"
@@ -164,20 +166,24 @@
   ],
   "agenda": [
     {
-      "hora": "Todo el día",
-      "texto": "Último día de la cumbre de APEC en Shenzhen, China; reunión trilateral de Donald Trump, Xi Jinping y Vladimir Putin"
+      "hora": "Jueves 19",
+      "texto": "Feria Ganadera: Matute en el Teatro del Pueblo y Moy Bobadilla en el Palenque (Ecocentro Expositor, El Marqués)"
     },
     {
-      "hora": "Todo el día",
-      "texto": "Feria de Empleo en San Juan del Río: unas 35 empresas con más de mil vacantes"
+      "hora": "Viernes 20",
+      "texto": "Feria Ganadera: Polymarch en el Teatro del Pueblo; Alejandro Fernández en el Palenque el 20 y 21 de noviembre"
+    },
+    {
+      "hora": "Viernes 20, 10:00",
+      "texto": "Claudia Sheinbaum encabeza en el Zócalo de la CDMX el desfile por el aniversario de la Revolución Mexicana"
     },
     {
       "hora": "19 y 20 de noviembre",
       "texto": "Congreso Nacional de Energías en el Querétaro Centro de Congresos, entrada gratuita con registro"
     },
     {
-      "hora": "Todo el día",
-      "texto": "Feria Ganadera de Querétaro en el Ecocentro Expositor, El Marqués (hasta el 30 de noviembre)"
+      "hora": "Domingo 22, 19:00",
+      "texto": "Gallos Blancos recibe a Necaxa en el Estadio Corregidora, última jornada del Apertura 2026"
     },
     {
       "hora": "Hasta el 30 de noviembre",
