@@ -1,41 +1,59 @@
 {
-  "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Viernes 20 de noviembre de 2026",
+  "actualizado": "07:25 h",
   "clima": {
-    "max": 24,
-    "min": 12,
-    "ahora": 17,
-    "texto": "Jueves de nubes y claros en Santiago de Querétaro, con máxima de 24° y mínima de 12°; a las 18:00 el termómetro marcaba 17° con cielo despejado. Para el viernes 20 se esperan nubes y claros, con máxima de 26°, mínima de 10° y sin lluvia.",
+    "max": 26,
+    "min": 10,
+    "texto": "Viernes de nubes y claros en Santiago de Querétaro, con máxima de 26° y mínima de 10°, sin lluvia. Para el fin de semana se esperan nubes y claros: sábado con 26° y 11°, domingo con 27° y 13°.",
     "lluvia": "0 %",
-    "viento": "Del este, 16 a 37 km/h",
-    "fuente": "Meteored (19 de noviembre)"
+    "viento": "Del este, 11 a 27 km/h, rachas de hasta 35 km/h",
+    "fuente": "Meteored (20 de noviembre)"
   },
-  "municipios": [],
+  "municipios": [
+    {
+      "nombre": "Tequisquiapan",
+      "max": 24,
+      "min": 11,
+      "lluvia": "Parcialmente nublado, sin lluvia"
+    }
+  ],
   "vialidades": [
     {
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#b91c1c",
-      "estado": "Jueves con carga vehicular: accidentes por la mañana rumbo a Querétaro en el tramo del Edomex (km 42 y plaza de Tepotzotlán), tráfico intenso en el tramo urbano de Jurica a Lomas de Casa Blanca rumbo a CDMX y obras con congestión cerca de San Juan del Río (Heraldo de México, N+).",
+      "estado": "Madrugada con reducción de carriles por un accidente a la altura de San Juan del Río (Guardia Nacional) y, a las 5:44, carga vehicular en el km 42, salida a Teoloyucan, en el Edomex (N+).",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "5 de Febrero",
+      "icono": "5F",
+      "color": "#b45309",
+      "estado": "Carriles centrales cerrados por mantenimiento en la zona de Michelin, con desvío a la lateral; anoche hubo un choque por alcance de cuatro autos en sentido norte-sur, sin lesionados (Noticias de Querétaro).",
       "nivel": "warn"
     },
     {
       "nombre": "Qrobús",
       "icono": "QB",
       "color": "#b45309",
-      "estado": "Ruta gratuita a la Feria Ganadera desde el Centro Educativo y Cultural Manuel Gómez Morín, de 11:00 a 00:30 (AMEQ).",
+      "estado": "Ruta gratuita a la Feria Ganadera desde el Centro Educativo y Cultural Manuel Gómez Morín, de jueves a domingo de 11:00 a 01:30; dos unidades de regreso a las 02:30 tras el Palenque (ADN40).",
       "nivel": "ok"
     }
   ],
   "avisos": [
     {
-      "titulo": "Operativo invernal: evita calentones en casa",
-      "texto": "Protección Civil estatal pide no usar calentones dentro de los hogares por el riesgo de monóxido de carbono y usar calefactores eléctricos certificados. Las personas en situación de calle pueden acudir de forma voluntaria a los refugios; se entregan cobijas a quien las pida.",
-      "nivel": "warn"
+      "titulo": "Simulacro en el AIQ hoy",
+      "texto": "El Aeropuerto Intercontinental de Querétaro realiza un simulacro de emergencia a escala real de 10:30 a 11:30 en el patio de maniobras de Red Wings. Es un ejercicio preventivo; vuelos y terminal operan con normalidad.",
+      "nivel": "ok"
     },
     {
-      "titulo": "Frío en la sierra: hoy jueves",
-      "texto": "El SMN prevé mínimas de 0 a 5 °C en zonas serranas de Querétaro. Abrígate en las madrugadas.",
+      "titulo": "Agua: 100 % de descuento en multas y recargos",
+      "texto": "La CEA descuenta el 100 % de multas y recargos en adeudos de agua durante noviembre y diciembre.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Operativo invernal: evita calentones en casa",
+      "texto": "Protección Civil estatal pide no usar calentones dentro de los hogares por el riesgo de monóxido de carbono y usar calefactores eléctricos certificados. Las personas en situación de calle pueden acudir de forma voluntaria a los refugios; se entregan cobijas a quien las pida.",
       "nivel": "warn"
     },
     {
@@ -96,11 +114,6 @@
     {
       "titulo": "Llegada del nuevo obispo: 24 y 25 de noviembre",
       "texto": "Procesión el lunes 24 a las 17:00 de la plazuela Mariano de las Casas a la Catedral, y ceremonia el martes 25 a las 11:00 en la Basílica de Soriano (Colón), con unos 14 mil asistentes previstos. Lleva agua, desayuno y gorra.",
-      "nivel": "ok"
-    },
-    {
-      "titulo": "Congreso Nacional de Energías: 19 y 20 de noviembre",
-      "texto": "En el Querétaro Centro de Congresos, con más de 20 conferencias y talleres. Entrada gratuita con registro en línea.",
       "nivel": "ok"
     },
     {
@@ -166,24 +179,32 @@
   ],
   "agenda": [
     {
-      "hora": "Jueves 19",
-      "texto": "Feria Ganadera: Matute en el Teatro del Pueblo y Moy Bobadilla en el Palenque (Ecocentro Expositor, El Marqués)"
+      "hora": "Viernes 20, 10:00",
+      "texto": "Claudia Sheinbaum encabeza en el Zócalo de la CDMX el desfile por el 116 aniversario de la Revolución Mexicana"
+    },
+    {
+      "hora": "Viernes 20, 18:00",
+      "texto": "Arranca «Viernes en el Jardín» en el Jardín del Arte, con entrada libre, de 18:00 a 22:00"
     },
     {
       "hora": "Viernes 20",
-      "texto": "Feria Ganadera: Polymarch en el Teatro del Pueblo; Alejandro Fernández en el Palenque el 20 y 21 de noviembre"
+      "texto": "Feria Ganadera: Polymarch en el Teatro del Pueblo y Alejandro Fernández en el Palenque (Ecocentro Expositor, El Marqués)"
     },
     {
-      "hora": "Viernes 20, 10:00",
-      "texto": "Claudia Sheinbaum encabeza en el Zócalo de la CDMX el desfile por el aniversario de la Revolución Mexicana"
+      "hora": "Sábado 21",
+      "texto": "Feria Ganadera: Gloria Trevi en el Teatro del Pueblo y Alejandro Fernández en el Palenque"
     },
     {
-      "hora": "19 y 20 de noviembre",
-      "texto": "Congreso Nacional de Energías en el Querétaro Centro de Congresos, entrada gratuita con registro"
+      "hora": "Domingo 22",
+      "texto": "Feria Ganadera: Conjunto Primavera en el Teatro del Pueblo; El Mimoso y El Yaki en el Palenque"
     },
     {
       "hora": "Domingo 22, 19:00",
       "texto": "Gallos Blancos recibe a Necaxa en el Estadio Corregidora, última jornada del Apertura 2026"
+    },
+    {
+      "hora": "25 de noviembre al 3 de diciembre",
+      "texto": "Décima edición del Festival Oxímoron en el Centro de las Artes y el Museo Anbanica"
     },
     {
       "hora": "Hasta el 30 de noviembre",
