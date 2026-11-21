@@ -1,13 +1,13 @@
 {
   "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "07:25 h",
+  "actualizado": "18:55 h",
   "clima": {
-    "max": 26,
-    "min": 10,
-    "texto": "Viernes de nubes y claros en Santiago de Querétaro, con máxima de 26° y mínima de 10°, sin lluvia. Para el fin de semana se esperan nubes y claros: sábado con 26° y 11°, domingo con 27° y 13°.",
+    "max": 27,
+    "min": 9,
+    "texto": "Viernes de nubes y claros en Santiago de Querétaro, con máxima de 27° y mínima de 9°. Para el fin de semana: sábado parcialmente nublado con posible lluvia débil (30 %), 26° y 12°; domingo con 50 % de probabilidad de lluvia débil, 26° y 15°.",
     "lluvia": "0 %",
-    "viento": "Del este, 11 a 27 km/h, rachas de hasta 35 km/h",
-    "fuente": "Meteored (20 de noviembre)"
+    "viento": "Del este, 12 a 26 km/h",
+    "fuente": "Meteored (actualizado el 19 de noviembre)"
   },
   "municipios": [
     {
@@ -23,6 +23,20 @@
       "icono": "57D",
       "color": "#b91c1c",
       "estado": "Madrugada con reducción de carriles por un accidente a la altura de San Juan del Río (Guardia Nacional) y, a las 5:44, carga vehicular en el km 42, salida a Teoloyucan, en el Edomex (N+).",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Autopista Querétaro-Celaya",
+      "icono": "45D",
+      "color": "#b91c1c",
+      "estado": "A las 8:00, un choque entre tres tráileres cerca de Apaseo el Grande obligó a cerrar la vía por más de una hora; sin lesionados (Periódico AM).",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Bernardo Quintana",
+      "icono": "BQ",
+      "color": "#b45309",
+      "estado": "Por la mañana, un auto derribó una luminaria a la altura de la colonia Vista Hermosa; el conductor resultó con lesiones leves (Expreso Querétaro).",
       "nivel": "warn"
     },
     {
@@ -179,10 +193,6 @@
   ],
   "agenda": [
     {
-      "hora": "Viernes 20, 10:00",
-      "texto": "Claudia Sheinbaum encabeza en el Zócalo de la CDMX el desfile por el 116 aniversario de la Revolución Mexicana"
-    },
-    {
       "hora": "Viernes 20, 18:00",
       "texto": "Arranca «Viernes en el Jardín» en el Jardín del Arte, con entrada libre, de 18:00 a 22:00"
     },
@@ -193,6 +203,10 @@
     {
       "hora": "Sábado 21",
       "texto": "Feria Ganadera: Gloria Trevi en el Teatro del Pueblo y Alejandro Fernández en el Palenque"
+    },
+    {
+      "hora": "Domingo 22, 18:00",
+      "texto": "Recorrido del Carro del Anuncio por el Centro Histórico, desde la calle Corregidora frente al Árbol de la Amistad"
     },
     {
       "hora": "Domingo 22",
