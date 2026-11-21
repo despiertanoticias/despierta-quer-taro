@@ -1,51 +1,23 @@
 {
-  "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Sábado 21 de noviembre de 2026",
+  "actualizado": "07:45 h",
   "clima": {
-    "max": 27,
-    "min": 9,
-    "texto": "Viernes de nubes y claros en Santiago de Querétaro, con máxima de 27° y mínima de 9°. Para el fin de semana: sábado parcialmente nublado con posible lluvia débil (30 %), 26° y 12°; domingo con 50 % de probabilidad de lluvia débil, 26° y 15°.",
+    "max": 26,
+    "min": 11,
+    "texto": "Sábado de nubes y claros en Santiago de Querétaro, con máxima de 26° y mínima de 11°, sin lluvia prevista. Para el domingo se esperan 26° y 15°, con posibilidad de lluvia débil.",
     "lluvia": "0 %",
-    "viento": "Del este, 12 a 26 km/h",
-    "fuente": "Meteored (actualizado el 19 de noviembre)"
+    "viento": "Del oeste, 14 a 35 km/h",
+    "fuente": "Meteored y La Opinión de Santiago"
   },
   "municipios": [
     {
-      "nombre": "Tequisquiapan",
-      "max": 24,
-      "min": 11,
-      "lluvia": "Parcialmente nublado, sin lluvia"
+      "nombre": "San Juan del Río",
+      "max": 27,
+      "min": 12,
+      "lluvia": "Nublado, posible chubasco (55 %)"
     }
   ],
   "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#b91c1c",
-      "estado": "Madrugada con reducción de carriles por un accidente a la altura de San Juan del Río (Guardia Nacional) y, a las 5:44, carga vehicular en el km 42, salida a Teoloyucan, en el Edomex (N+).",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Autopista Querétaro-Celaya",
-      "icono": "45D",
-      "color": "#b91c1c",
-      "estado": "A las 8:00, un choque entre tres tráileres cerca de Apaseo el Grande obligó a cerrar la vía por más de una hora; sin lesionados (Periódico AM).",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Bernardo Quintana",
-      "icono": "BQ",
-      "color": "#b45309",
-      "estado": "Por la mañana, un auto derribó una luminaria a la altura de la colonia Vista Hermosa; el conductor resultó con lesiones leves (Expreso Querétaro).",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "5 de Febrero",
-      "icono": "5F",
-      "color": "#b45309",
-      "estado": "Carriles centrales cerrados por mantenimiento en la zona de Michelin, con desvío a la lateral; anoche hubo un choque por alcance de cuatro autos en sentido norte-sur, sin lesionados (Noticias de Querétaro).",
-      "nivel": "warn"
-    },
     {
       "nombre": "Qrobús",
       "icono": "QB",
@@ -55,11 +27,6 @@
     }
   ],
   "avisos": [
-    {
-      "titulo": "Simulacro en el AIQ hoy",
-      "texto": "El Aeropuerto Intercontinental de Querétaro realiza un simulacro de emergencia a escala real de 10:30 a 11:30 en el patio de maniobras de Red Wings. Es un ejercicio preventivo; vuelos y terminal operan con normalidad.",
-      "nivel": "ok"
-    },
     {
       "titulo": "Agua: 100 % de descuento en multas y recargos",
       "texto": "La CEA descuenta el 100 % de multas y recargos en adeudos de agua durante noviembre y diciembre.",
@@ -193,16 +160,16 @@
   ],
   "agenda": [
     {
-      "hora": "Viernes 20, 18:00",
-      "texto": "Arranca «Viernes en el Jardín» en el Jardín del Arte, con entrada libre, de 18:00 a 22:00"
-    },
-    {
-      "hora": "Viernes 20",
-      "texto": "Feria Ganadera: Polymarch en el Teatro del Pueblo y Alejandro Fernández en el Palenque (Ecocentro Expositor, El Marqués)"
-    },
-    {
       "hora": "Sábado 21",
       "texto": "Feria Ganadera: Gloria Trevi en el Teatro del Pueblo y Alejandro Fernández en el Palenque"
+    },
+    {
+      "hora": "Sábado 21, 19:00",
+      "texto": "Concierto navideño solidario «Ilumina el Mundo» en el Teatro Metropolitano de Querétaro"
+    },
+    {
+      "hora": "22 de noviembre, 8:00",
+      "texto": "Vía Recreativa gratuita en el circuito del Cerro de las Campanas, de 8:00 a 12:00, con talleres y préstamo de bicicletas"
     },
     {
       "hora": "Domingo 22, 18:00",
