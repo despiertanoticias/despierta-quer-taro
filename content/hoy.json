@@ -1,28 +1,21 @@
 {
-  "fecha": "Sábado 21 de noviembre de 2026",
-  "actualizado": "18:49 h",
+  "fecha": "Domingo 22 de noviembre de 2026",
+  "actualizado": "07:20 h",
   "clima": {
-    "max": 26,
-    "min": 11,
-    "texto": "Noche de nubes y claros en Santiago de Querétaro tras una máxima de 26° y mínima de 11°, sin lluvia. Para el domingo se esperan 26° y 15°, con posibilidad de lluvia débil (50 %) y viento del suroeste de 8 a 23 km/h.",
-    "lluvia": "0 %",
-    "viento": "Del oeste, 14 a 35 km/h",
-    "fuente": "Meteored"
+    "max": 28,
+    "min": 17,
+    "texto": "Domingo templado en Santiago de Querétaro, con máxima de 28° y mínima de 17° y lluvia ligera durante buena parte del día. Por el frente frío 8, las zonas serranas del estado amanecen entre 0 y 5 °C (SMN).",
+    "lluvia": "Lluvia ligera",
+    "viento": "Del suroeste, 8 a 23 km/h",
+    "fuente": "Panorama / SMN / Meteored"
   },
-  "municipios": [
-    {
-      "nombre": "San Juan del Río",
-      "max": 27,
-      "min": 12,
-      "lluvia": "Nublado, posible chubasco (55 %)"
-    }
-  ],
+  "municipios": [],
   "vialidades": [
     {
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
-      "color": "#b91c1c",
-      "estado": "A las 12:20, choque múltiple (camión de carga, vagoneta y auto) en el km 81 con dirección a Querétaro redujo carriles y causó carga vehicular; a las 12:21 se reportó otro cierre parcial en el km 80+100 hacia San Juan del Río por accidente (N+).",
+      "color": "#b45309",
+      "estado": "Cuautitlán Izcalli refuerza el operativo vial por las filas de tráileres que esperan entrar a centros de distribución, que han frenado la circulación; los camiones hacia El Peral deberán formarse en el carril derecho o serán multados (El Universal).",
       "nivel": "warn"
     },
     {
@@ -34,6 +27,11 @@
     }
   ],
   "avisos": [
+    {
+      "titulo": "Frente frío 8: madrugada helada en la sierra",
+      "texto": "El SMN prevé mínimas de 0 a 5 °C en las zonas serranas de Querétaro este domingo. Protección Civil pide abrigarse y no usar calentones de combustión dentro de casa; emergencias al 911.",
+      "nivel": "warn"
+    },
     {
       "titulo": "Nuevo puente peatonal en Santa Fe",
       "texto": "Ya opera el puente peatonal del km 20+500 del Anillo Vial Fray Junípero Serra, entre Santa Fe y Valle de Juriquilla. Quedan pendientes obras de banqueta y jardinería.",
@@ -172,14 +170,6 @@
   ],
   "agenda": [
     {
-      "hora": "Sábado 21",
-      "texto": "Feria Ganadera: Gloria Trevi en el Teatro del Pueblo y Alejandro Fernández en el Palenque"
-    },
-    {
-      "hora": "Sábado 21, 19:00",
-      "texto": "Concierto navideño solidario «Ilumina el Mundo» en el Teatro Metropolitano de Querétaro"
-    },
-    {
       "hora": "Domingo 22 y lunes 23",
       "texto": "Evento Canino Navideño en la Feria Ganadera (carpa junto al Palenque); entrada incluida en el boleto general y acceso con mascotas"
     },
@@ -200,8 +190,8 @@
       "texto": "Feria Ganadera: Conjunto Primavera en el Teatro del Pueblo; El Mimoso y El Yaki en el Palenque"
     },
     {
-      "hora": "Domingo 22, 19:00",
-      "texto": "Gallos Blancos recibe a Necaxa en el Estadio Corregidora, última jornada del Apertura 2026"
+      "hora": "Domingo 22, 19:10",
+      "texto": "Gallos Blancos recibe a Necaxa en el Estadio Corregidora, cierre del Apertura 2026"
     },
     {
       "hora": "25 de noviembre al 3 de diciembre",
@@ -214,6 +204,10 @@
     {
       "hora": "Hasta el 6 de diciembre",
       "texto": "Exposiciones «Julio Castillo: hombre y obra» y «Ecos de la Bodega 2.0» en la Galería Libertad"
+    },
+    {
+      "hora": "Hasta el 10 de enero",
+      "texto": "Exposición «Abelardo Ávila y sus contemporáneos» en el Museo de la Restauración de la República, entrada libre"
     }
   ]
 }
