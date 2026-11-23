@@ -1,13 +1,13 @@
 {
-  "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Lunes 23 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
-    "max": 28,
-    "min": 17,
-    "texto": "Domingo templado en Santiago de Querétaro, con máxima de 28° y mínima de 17° y lluvia ligera durante buena parte del día. Por el frente frío 8, las zonas serranas del estado amanecen entre 0 y 5 °C (SMN).",
+    "max": 24,
+    "min": 16,
+    "texto": "Lunes templado y nublado en Santiago de Querétaro, con máxima de 24° y mínima de 16° y lluvia ligera. Para los próximos días se esperan temperaturas más bajas, con mínimas de 13° el miércoles y 11° el jueves.",
     "lluvia": "Lluvia ligera",
-    "viento": "Del suroeste, 8 a 23 km/h",
-    "fuente": "Panorama / SMN / Meteored"
+    "viento": "Ligero, alrededor de 7 km/h",
+    "fuente": "Panorama / Meteored"
   },
   "municipios": [],
   "vialidades": [
@@ -15,14 +15,7 @@
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#b45309",
-      "estado": "Choque por alcance en el km 203, dirección Querétaro, con cierre parcial de carriles y circulación lenta desde la mañana (N+). En Cuautitlán Izcalli sigue el operativo por las filas de tráileres hacia los centros de distribución (El Universal).",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Carretera 57 (San Isidro Miranda)",
-      "icono": "57",
-      "color": "#b91c1c",
-      "estado": "Accidente este domingo a la altura de San Isidro Miranda; murió el copiloto y el conductor resultó con heridas leves (N+).",
+      "estado": "Sin incidentes reportados a primera hora; tramo de alta demanda con tráfico pesado típico de lunes, circula con precaución (Transporte.mx).",
       "nivel": "warn"
     },
     {
@@ -35,9 +28,9 @@
   ],
   "avisos": [
     {
-      "titulo": "Frente frío 8: madrugada helada en la sierra",
-      "texto": "El SMN prevé mínimas de 0 a 5 °C en las zonas serranas de Querétaro este domingo. Protección Civil pide abrigarse y no usar calentones de combustión dentro de casa; emergencias al 911.",
-      "nivel": "warn"
+      "titulo": "eQrobús: arranca la ruta eléctrica gratuita CH3",
+      "texto": "Desde hoy está previsto que opere la CH3 por Constituyentes, Corregidora, Universidad y Ezequiel Montes, con paso cada 10 a 12 minutos y transbordo gratuito en las estaciones de Ezequiel Montes, Escobedo y Alameda. Se requiere tarjeta Qrobús.",
+      "nivel": "ok"
     },
     {
       "titulo": "Nuevo puente peatonal en Santa Fe",
@@ -85,11 +78,6 @@
       "nivel": "warn"
     },
     {
-      "titulo": "Ruta eléctrica gratuita CH3: desde el 23 de noviembre",
-      "texto": "Conectará Alameda Hidalgo, Mercado de La Cruz, Mercado Escobedo y avenida Constituyentes, con paso cada 12 minutos y transbordos gratuitos.",
-      "nivel": "ok"
-    },
-    {
       "titulo": "Primer caso de influenza de la temporada",
       "texto": "La Secretaría de Salud estatal confirmó el primer contagio de influenza de la temporada invernal. Vacúnate en centros de salud y unidades de medicina familiar.",
       "nivel": "warn"
@@ -111,7 +99,7 @@
     },
     {
       "titulo": "Llegada del nuevo obispo: 24 y 25 de noviembre",
-      "texto": "Procesión el lunes 24 a las 17:00 de la plazuela Mariano de las Casas a la Catedral, y ceremonia el martes 25 a las 11:00 en la Basílica de Soriano (Colón), con unos 14 mil asistentes previstos. Lleva agua, desayuno y gorra.",
+      "texto": "Procesión el 24 a las 17:00 de la plazuela Mariano de las Casas a la Catedral, y ceremonia el 25 a las 11:00 en la Basílica de Soriano (Colón), con unos 14 mil asistentes previstos. Lleva agua, desayuno y gorra.",
       "nivel": "ok"
     },
     {
@@ -177,24 +165,12 @@
   ],
   "agenda": [
     {
-      "hora": "Domingo 22 y lunes 23",
-      "texto": "Evento Canino Navideño en la Feria Ganadera (carpa junto al Palenque); entrada incluida en el boleto general y acceso con mascotas"
+      "hora": "Lunes 23",
+      "texto": "Último día del Evento Canino Navideño en la Feria Ganadera (carpa junto al Palenque); entrada incluida en el boleto general y acceso con mascotas"
     },
     {
-      "hora": "Domingo 22",
-      "texto": "Apertura del Año Jubilar por el centenario cristero con misa en la Catedral de Querétaro"
-    },
-    {
-      "hora": "Domingo 22, 18:00",
-      "texto": "Recorrido del Carro del Anuncio por el Centro Histórico, desde la calle Corregidora frente al Árbol de la Amistad"
-    },
-    {
-      "hora": "Domingo 22",
-      "texto": "Feria Ganadera: Conjunto Primavera en el Teatro del Pueblo; El Mimoso y El Yaki en el Palenque"
-    },
-    {
-      "hora": "Domingo 22, 19:10",
-      "texto": "Gallos Blancos recibe a Necaxa en el Estadio Corregidora, cierre del Apertura 2026"
+      "hora": "Lunes 23",
+      "texto": "Inicio previsto de la ruta eléctrica gratuita CH3 de eQrobús en el Centro Histórico"
     },
     {
       "hora": "25 de noviembre al 3 de diciembre",
