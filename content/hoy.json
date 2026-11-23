@@ -1,6 +1,6 @@
 {
   "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "07:20 h",
+  "actualizado": "18:50 h",
   "clima": {
     "max": 28,
     "min": 17,
@@ -15,7 +15,14 @@
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#b45309",
-      "estado": "Cuautitlán Izcalli refuerza el operativo vial por las filas de tráileres que esperan entrar a centros de distribución, que han frenado la circulación; los camiones hacia El Peral deberán formarse en el carril derecho o serán multados (El Universal).",
+      "estado": "Choque por alcance en el km 203, dirección Querétaro, con cierre parcial de carriles y circulación lenta desde la mañana (N+). En Cuautitlán Izcalli sigue el operativo por las filas de tráileres hacia los centros de distribución (El Universal).",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Carretera 57 (San Isidro Miranda)",
+      "icono": "57",
+      "color": "#b91c1c",
+      "estado": "Accidente este domingo a la altura de San Isidro Miranda; murió el copiloto y el conductor resultó con heridas leves (N+).",
       "nivel": "warn"
     },
     {
@@ -178,10 +185,6 @@
       "texto": "Apertura del Año Jubilar por el centenario cristero con misa en la Catedral de Querétaro"
     },
     {
-      "hora": "22 de noviembre, 8:00",
-      "texto": "Vía Recreativa gratuita en el circuito del Cerro de las Campanas, de 8:00 a 12:00, con talleres y préstamo de bicicletas"
-    },
-    {
       "hora": "Domingo 22, 18:00",
       "texto": "Recorrido del Carro del Anuncio por el Centro Histórico, desde la calle Corregidora frente al Árbol de la Amistad"
     },
@@ -196,6 +199,10 @@
     {
       "hora": "25 de noviembre al 3 de diciembre",
       "texto": "Décima edición del Festival Oxímoron en el Centro de las Artes y el Museo Anbanica"
+    },
+    {
+      "hora": "Jueves 26, 20:00",
+      "texto": "Filarmónica de Querétaro: «Noche de Violines y Caprichos» en el Teatro Metropolitano, con Adrián Justus; a las 19:00, presentación del libro «Stradivarius Straordinarius»"
     },
     {
       "hora": "Hasta el 30 de noviembre",
