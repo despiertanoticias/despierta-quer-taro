@@ -1,13 +1,13 @@
 {
-  "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "18:55 h",
+  "fecha": "Martes 24 de noviembre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
-    "max": 24,
-    "min": 16,
-    "texto": "Lunes templado y nublado en Santiago de Querétaro, con máxima de 24° y mínima de 16° y lluvia ligera. Para los próximos días se esperan temperaturas más bajas, con mínimas de 13° el miércoles y 11° el jueves. El SMN prevé lluvias fuertes, de 25 a 50 mm, en el norte del estado por el frente frío 8.",
-    "lluvia": "Lluvia ligera",
+    "max": 25,
+    "min": 14,
+    "texto": "Martes nublado en Santiago de Querétaro, con máxima de 25° y mínima de 14° y lluvia ligera. El SMN prevé chubascos de 5 a 25 mm en el estado por el frente frío 8. Se esperan días más fríos: miércoles con 22° y 13°, y jueves con 18° y 10°.",
+    "lluvia": "Lluvia ligera; chubascos de 5 a 25 mm",
     "viento": "Ligero, alrededor de 7 km/h",
-    "fuente": "Panorama / Meteored"
+    "fuente": "Panorama / SMN (vía Infobae)"
   },
   "municipios": [],
   "vialidades": [
@@ -15,7 +15,7 @@
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#b45309",
-      "estado": "Sin incidentes reportados a primera hora; tramo de alta demanda con tráfico pesado típico de lunes, circula con precaución (Transporte.mx).",
+      "estado": "Este martes se reportó el incendio de un automóvil sobre la autopista (Noticias de Querétaro); circula con precaución.",
       "nivel": "warn"
     },
     {
@@ -29,7 +29,7 @@
       "nombre": "Bernardo Quintana",
       "icono": "BQ",
       "color": "#b45309",
-      "estado": "Por la mañana, un choque en la subida al Centro Cívico (Prolongación Bernardo Quintana) obstruyó carriles. Las noches del 23, 24 y 25 se cierra la lateral entre Calzada de los Arcos y Universidad, de 22:00 a 05:00.",
+      "estado": "Esta noche y la del 25 sigue el cierre de la lateral entre Calzada de los Arcos y Universidad, de 22:00 a 05:00.",
       "nivel": "warn"
     },
     {
@@ -43,12 +43,12 @@
   "avisos": [
     {
       "titulo": "Cierre nocturno en lateral de Bernardo Quintana",
-      "texto": "23, 24 y 25 de noviembre, de 22:00 a 05:00, entre Calzada de los Arcos y avenida Universidad. Ruta alterna: Calzada de los Arcos, Hércules Poniente, Juan Caballero y Osio, Real y Del Río Poniente.",
+      "texto": "Noches del 24 y 25 de noviembre, de 22:00 a 05:00, entre Calzada de los Arcos y avenida Universidad. Ruta alterna: Calzada de los Arcos, Hércules Poniente, Juan Caballero y Osio, Real y Del Río Poniente.",
       "nivel": "warn"
     },
     {
-      "titulo": "Lluvias fuertes en el norte del estado",
-      "texto": "El SMN prevé de 25 a 50 mm en el norte de Querétaro por el frente frío 8. Evita cruzar arroyos crecidos y maneja con precaución en la Sierra Gorda.",
+      "titulo": "Chubascos por el frente frío 8",
+      "texto": "El SMN prevé chubascos de 5 a 25 mm en Querétaro este martes y temperaturas a la baja en los próximos días. Abrígate y maneja con precaución en la Sierra Gorda.",
       "nivel": "warn"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "titulo": "Colecta Invernal Corregidora",
-      "texto": "El DIF de Corregidora recibe cobijas y ropa de abrigo hasta el 4 de diciembre en sus oficinas de El Pueblito, los CAM El Pueblito y Candiles y los centros culturales de Tejeda y Pirámides.",
+      "texto": "El DIF de Corregidora recibe cobijas y ropa de abrigo hasta el 4 de diciembre en sus oficinas de El Pueblito, los CAM El Pueblito y Candiles y los centros culturales de Tejeda y Pirámides. Al 23 de noviembre llevaba 1,512 cobijas; la meta es superar las 6,800 del año pasado.",
       "nivel": "ok"
     },
     {
@@ -189,8 +189,8 @@
   ],
   "agenda": [
     {
-      "hora": "Lunes 23",
-      "texto": "Último día del Evento Canino Navideño en la Feria Ganadera (carpa junto al Palenque); entrada incluida en el boleto general y acceso con mascotas"
+      "hora": "Martes 24, 17:00",
+      "texto": "Procesión de llegada del nuevo obispo, de la plazuela Mariano de las Casas a la Catedral"
     },
     {
       "hora": "Miércoles 25, 11:00",
@@ -203,6 +203,10 @@
     {
       "hora": "25 de noviembre al 3 de diciembre",
       "texto": "Décima edición del Festival Oxímoron en el Centro de las Artes y el Museo Anbanica"
+    },
+    {
+      "hora": "Jueves 27, 18:30",
+      "texto": "Encendido del árbol e inauguración del Bazar Navideño (27 al 29) en el Jardín Principal de El Pueblito, Corregidora"
     },
     {
       "hora": "Jueves 26, 20:00",
