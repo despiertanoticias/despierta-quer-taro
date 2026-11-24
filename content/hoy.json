@@ -1,10 +1,10 @@
 {
   "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:55 h",
   "clima": {
     "max": 24,
     "min": 16,
-    "texto": "Lunes templado y nublado en Santiago de Querétaro, con máxima de 24° y mínima de 16° y lluvia ligera. Para los próximos días se esperan temperaturas más bajas, con mínimas de 13° el miércoles y 11° el jueves.",
+    "texto": "Lunes templado y nublado en Santiago de Querétaro, con máxima de 24° y mínima de 16° y lluvia ligera. Para los próximos días se esperan temperaturas más bajas, con mínimas de 13° el miércoles y 11° el jueves. El SMN prevé lluvias fuertes, de 25 a 50 mm, en el norte del estado por el frente frío 8.",
     "lluvia": "Lluvia ligera",
     "viento": "Ligero, alrededor de 7 km/h",
     "fuente": "Panorama / Meteored"
@@ -22,14 +22,38 @@
       "nombre": "Qrobús",
       "icono": "QB",
       "color": "#b45309",
-      "estado": "Ruta gratuita a la Feria Ganadera desde el Centro Educativo y Cultural Manuel Gómez Morín, de jueves a domingo de 11:00 a 01:30; dos unidades de regreso a las 02:30 tras el Palenque (ADN40).",
+      "estado": "Ya opera la ruta eléctrica gratuita CH3 de eQrobús (Constituyentes–Centro Histórico), de lunes a viernes de 6:00 a 21:00 y fines de semana de 7:00 a 21:00; se aborda con tarjeta Qrobús. Sigue la ruta gratuita a la Feria Ganadera de jueves a domingo.",
       "nivel": "ok"
+    },
+    {
+      "nombre": "Bernardo Quintana",
+      "icono": "BQ",
+      "color": "#b45309",
+      "estado": "Por la mañana, un choque en la subida al Centro Cívico (Prolongación Bernardo Quintana) obstruyó carriles. Las noches del 23, 24 y 25 se cierra la lateral entre Calzada de los Arcos y Universidad, de 22:00 a 05:00.",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Circuito Universidades",
+      "icono": "41",
+      "color": "#b45309",
+      "estado": "Fresado y repavimentación en la carretera estatal 41; la CEI prevé terminar en unos 10 días.",
+      "nivel": "warn"
     }
   ],
   "avisos": [
     {
-      "titulo": "eQrobús: arranca la ruta eléctrica gratuita CH3",
-      "texto": "Desde hoy está previsto que opere la CH3 por Constituyentes, Corregidora, Universidad y Ezequiel Montes, con paso cada 10 a 12 minutos y transbordo gratuito en las estaciones de Ezequiel Montes, Escobedo y Alameda. Se requiere tarjeta Qrobús.",
+      "titulo": "Cierre nocturno en lateral de Bernardo Quintana",
+      "texto": "23, 24 y 25 de noviembre, de 22:00 a 05:00, entre Calzada de los Arcos y avenida Universidad. Ruta alterna: Calzada de los Arcos, Hércules Poniente, Juan Caballero y Osio, Real y Del Río Poniente.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "Lluvias fuertes en el norte del estado",
+      "texto": "El SMN prevé de 25 a 50 mm en el norte de Querétaro por el frente frío 8. Evita cruzar arroyos crecidos y maneja con precaución en la Sierra Gorda.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "eQrobús: ya circula la ruta eléctrica gratuita CH3",
+      "texto": "Cuatro unidades eléctricas recorren Constituyentes, Corregidora, Universidad y Ezequiel Montes, de lunes a viernes de 6:00 a 21:00 y sábados y domingos de 7:00 a 21:00. Se requiere tarjeta Qrobús; la app Qrobús muestra las unidades en tiempo real.",
       "nivel": "ok"
     },
     {
@@ -169,8 +193,12 @@
       "texto": "Último día del Evento Canino Navideño en la Feria Ganadera (carpa junto al Palenque); entrada incluida en el boleto general y acceso con mascotas"
     },
     {
-      "hora": "Lunes 23",
-      "texto": "Inicio previsto de la ruta eléctrica gratuita CH3 de eQrobús en el Centro Histórico"
+      "hora": "Miércoles 25, 11:00",
+      "texto": "Banderazo del operativo «Heroínas y Héroes Paisanos» en el Jardín de la Familia, San Juan del Río"
+    },
+    {
+      "hora": "Miércoles 25, 16:00",
+      "texto": "Concentración del 25N en Plaza Constitución; a las 17:00 actividades y marcha por Corregidora, 16 de Septiembre y Juárez"
     },
     {
       "hora": "25 de noviembre al 3 de diciembre",
@@ -183,6 +211,10 @@
     {
       "hora": "Hasta el 30 de noviembre",
       "texto": "Exposición fotográfica «Una economía entrelazada con la naturaleza» en la Galería Perimetral de la Alameda Hidalgo"
+    },
+    {
+      "hora": "Hasta el 30 de noviembre",
+      "texto": "Exposición itinerante de Santiago Carbonell en el Museo de la Muñeca Artesanal de Amealco"
     },
     {
       "hora": "Hasta el 6 de diciembre",
