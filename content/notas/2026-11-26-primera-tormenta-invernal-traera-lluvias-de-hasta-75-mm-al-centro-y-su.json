@@ -1,0 +1,26 @@
+{
+  "titulo": "Primera tormenta invernal traerá lluvias de hasta 75 mm al centro y sur de Querétaro",
+  "seccion": "queretaro",
+  "fecha": "2026-11-26T06:59",
+  "resumen": "El Servicio Meteorológico Nacional ubica a Querétaro entre los estados con lluvias fuertes y puntuales muy fuertes, de 50 a 75 milímetros, este jueves 26 de noviembre, por la primera tormenta invernal de la temporada. En las zonas serranas se esperan mínimas de 0 a 5 grados, con posibles heladas.",
+  "cuerpo": "La tormenta se forma por una vaguada polar junto con las corrientes en chorro polar y subtropical, mientras la masa de aire ártico del frente frío 8 mantiene el ambiente frío en el centro del país. Para el viernes 27 se prevé un descenso marcado de temperatura en la Mesa Central y la posibilidad de nieve o aguanieve por la noche en zonas por encima de unos 2,800 metros. En la capital, el pronóstico de Panorama indica una máxima cercana a 15 grados y una mínima de 10, con lluvia ligera persistente. El SMN recomienda abrigarse y cuidar a niñas, niños, personas mayores y enfermos crónicos.",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "UnoTV",
+      "enlace": "https://www.unotv.com/clima/clima-mexico-hoy-26-de-noviembre-2026-jueves-de-lluvias-en-todo-el-pais-posible-caida-de-nieve-y-aguanieve-en-algunas-regiones/"
+    },
+    {
+      "medio": "López-Dóriga Digital",
+      "enlace": "https://lopezdoriga.com/nacional/llega-la-primera-tormenta-invernal-a-mexico-dejara-lluvias-intensas-y-posible-nieve-en-estos-estados/"
+    },
+    {
+      "medio": "Panorama",
+      "enlace": "https://www.panoramaweb.com.mx/tendencias/2026/11/25/pronostico-del-clima-en-queretaro-para-este-jueves-26-de-noviembre-lluvia-y-ambiente-frio-55083.html"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
