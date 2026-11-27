@@ -1,45 +1,26 @@
 {
-  "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Viernes 27 de noviembre de 2026",
+  "actualizado": "06:49 h",
   "clima": {
-    "max": 18,
-    "min": 8,
-    "ahora": 12,
-    "texto": "Jueves frío y lluvioso en Santiago de Querétaro: Protección Civil prevé de 8 a 18° en la zona metropolitana y noche fría de 10 a 12°. La primera tormenta invernal sigue trayendo lluvias fuertes a muy fuertes (50 a 75 mm) al centro y sur del estado. El viernes 27 será el día más frío y lluvioso, con máxima cercana a 12° y mínima de 9°, viento de 20 a 30 km/h con rachas de 40 a 60 km/h, y heladas de 0 a 5° en la sierra.",
-    "lluvia": "80 a 90 % de probabilidad; viernes con lluvia moderada a fuerte",
-    "viento": "Del este, 15 a 35 km/h; viernes con rachas de 40 a 60 km/h",
-    "fuente": "Protección Civil (vía Expreso Querétaro) / SMN (vía Rotativo) / Meteored"
+    "max": 12,
+    "min": 9,
+    "texto": "Viernes frío y lluvioso en Santiago de Querétaro, el día más frío de la semana según Protección Civil, con máxima cercana a 12° y mínima de 9°. El SMN prevé lluvias fuertes con puntuales muy fuertes (50 a 75 mm) en el estado por la primera tormenta invernal, posible nieve o aguanieve por encima de 2,800 metros durante la noche y heladas de 0 a 5° en la sierra en la madrugada del sábado.",
+    "lluvia": "Lluvia moderada a fuerte durante el día",
+    "viento": "20 a 30 km/h con rachas de 40 a 60 km/h",
+    "fuente": "Protección Civil (vía Expreso Querétaro) / SMN (vía La Silla Rota)"
   },
   "municipios": [
     {
-      "nombre": "San Juan del Río",
-      "max": 17,
-      "min": 8,
-      "lluvia": "90 %"
-    },
-    {
-      "nombre": "Corregidora",
-      "max": 15,
-      "min": 7,
-      "lluvia": "90 %"
-    },
-    {
-      "nombre": "El Marqués",
-      "max": 18,
-      "min": 8,
-      "lluvia": "90 %"
-    },
-    {
       "nombre": "Tequisquiapan",
-      "max": 16,
-      "min": 7,
-      "lluvia": "80 %"
+      "max": 11,
+      "min": 9,
+      "lluvia": "Lluvia ligera"
     },
     {
-      "nombre": "Amealco",
-      "max": 14,
+      "nombre": "Bernal (Ezequiel Montes)",
+      "max": 10,
       "min": 7,
-      "lluvia": "90 %"
+      "lluvia": "Lluvia moderada"
     }
   ],
   "vialidades": [
@@ -47,7 +28,14 @@
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#b45309",
-      "estado": "Este jueves hubo reducción de carriles por mantenimiento del km 158 al 148 con dirección a la CDMX, y manifestantes en la caseta de Tepotzotlán en ambos sentidos, sin cierre a la circulación (Guardia Nacional / Capufe vía N+). Con el pavimento mojado, maneja con precaución.",
+      "estado": "Sin afectaciones reportadas por la Guardia Nacional y Capufe en las primeras horas del viernes. A las 4:39 h se reportó carga vehicular por un accidente en el Libramiento Noreste (Chichimequillas), km 37, dirección San Luis Potosí (N+). Con lluvia y pavimento mojado, maneja con precaución.",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "5 de Febrero",
+      "icono": "5F",
+      "color": "#b45309",
+      "estado": "Se prepara un bacheo en la avenida tras los daños que dejaron las lluvias (Diario de Querétaro).",
       "nivel": "warn"
     },
     {
@@ -67,13 +55,18 @@
   ],
   "avisos": [
     {
-      "titulo": "Tormenta invernal: viernes con más lluvia, viento y heladas",
-      "texto": "El SMN prevé lluvias de 50 a 75 mm en el centro y sur de Querétaro, viento de 20 a 30 km/h con rachas de 40 a 60 km/h el viernes 27 y heladas de 0 a 5° en la sierra el viernes, sábado y lunes. Podría haber nieve o aguanieve por encima de 2,800 metros de la noche del viernes al sábado. Protección Civil monitorea los 18 municipios; emergencias al 911.",
+      "titulo": "Tormenta invernal: hoy, el día más frío y lluvioso",
+      "texto": "El SMN prevé lluvias de 50 a 75 mm en Querétaro, viento con rachas de 40 a 60 km/h, posible nieve o aguanieve por encima de 2,800 metros esta noche y heladas de 0 a 5° en la sierra en la madrugada del sábado. Protección Civil monitorea los 18 municipios; emergencias al 911.",
       "nivel": "warn"
     },
     {
-      "titulo": "Viernes 27 sin clases en educación básica",
+      "titulo": "Hoy sin clases en educación básica",
       "texto": "Preescolar, primaria y secundaria no tendrán clases este viernes por la sesión del Consejo Técnico Escolar de la SEP. Las clases se reanudan el lunes 30 de noviembre.",
+      "nivel": "ok"
+    },
+    {
+      "titulo": "Pasaporte: citas gratuitas y de un día para otro",
+      "texto": "La SRE en Querétaro tiene citas para el mismo día o el siguiente. Solo se agendan, sin costo, en el 55 8932 4827 (llamada o WhatsApp, de 8:00 a 20:00) o en citas.sre.gob.mx. Las oficinas cierran únicamente el 25 de diciembre y el 1 de enero.",
       "nivel": "ok"
     },
     {
@@ -103,7 +96,7 @@
     },
     {
       "titulo": "Recolección de tiliches en Casa Blanca",
-      "texto": "Del 25 al 27 de noviembre, el Municipio de Querétaro recogerá objetos en desuso en la colonia Casa Blanca. El escombro no forma parte de la recolección domiciliaria; reportes de basura al 070.",
+      "texto": "Hoy es el último día en que el Municipio de Querétaro recogerá objetos en desuso en la colonia Casa Blanca. El escombro no forma parte de la recolección domiciliaria; reportes de basura al 070.",
       "nivel": "ok"
     },
     {
@@ -213,10 +206,6 @@
     }
   ],
   "agenda": [
-    {
-      "hora": "Jueves 26, 20:00",
-      "texto": "Filarmónica de Querétaro: «Noche de Violines y Caprichos» en el Teatro Metropolitano, con Adrián Justus; a las 19:00, presentación del libro «Stradivarius Straordinarius»"
-    },
     {
       "hora": "25 de noviembre al 3 de diciembre",
       "texto": "Décima edición del Festival Oxímoron en el Centro de las Artes y el Museo Anbanica"
