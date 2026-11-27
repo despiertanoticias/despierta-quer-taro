@@ -1,16 +1,55 @@
 {
   "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "07:00 h",
+  "actualizado": "18:45 h",
   "clima": {
-    "max": 15,
-    "min": 10,
-    "texto": "Jueves frío y lluvioso en Santiago de Querétaro, con máxima cercana a 15° y mínima de 10°. Por la primera tormenta invernal, el SMN prevé lluvias fuertes con puntuales muy fuertes (50 a 75 mm) en el centro y sur del estado, y mínimas de 0 a 5° con posibles heladas en la sierra. Viernes con 13° y 11° y lluvia ligera.",
-    "lluvia": "Lluvia ligera persistente en la capital; 50 a 75 mm en el centro y sur del estado",
-    "viento": "Ligero, alrededor de 11 km/h",
-    "fuente": "SMN (vía UnoTV) / Panorama"
+    "max": 18,
+    "min": 8,
+    "ahora": 12,
+    "texto": "Jueves frío y lluvioso en Santiago de Querétaro: Protección Civil prevé de 8 a 18° en la zona metropolitana y noche fría de 10 a 12°. La primera tormenta invernal sigue trayendo lluvias fuertes a muy fuertes (50 a 75 mm) al centro y sur del estado. El viernes 27 será el día más frío y lluvioso, con máxima cercana a 12° y mínima de 9°, viento de 20 a 30 km/h con rachas de 40 a 60 km/h, y heladas de 0 a 5° en la sierra.",
+    "lluvia": "80 a 90 % de probabilidad; viernes con lluvia moderada a fuerte",
+    "viento": "Del este, 15 a 35 km/h; viernes con rachas de 40 a 60 km/h",
+    "fuente": "Protección Civil (vía Expreso Querétaro) / SMN (vía Rotativo) / Meteored"
   },
-  "municipios": [],
+  "municipios": [
+    {
+      "nombre": "San Juan del Río",
+      "max": 17,
+      "min": 8,
+      "lluvia": "90 %"
+    },
+    {
+      "nombre": "Corregidora",
+      "max": 15,
+      "min": 7,
+      "lluvia": "90 %"
+    },
+    {
+      "nombre": "El Marqués",
+      "max": 18,
+      "min": 8,
+      "lluvia": "90 %"
+    },
+    {
+      "nombre": "Tequisquiapan",
+      "max": 16,
+      "min": 7,
+      "lluvia": "80 %"
+    },
+    {
+      "nombre": "Amealco",
+      "max": 14,
+      "min": 7,
+      "lluvia": "90 %"
+    }
+  ],
   "vialidades": [
+    {
+      "nombre": "Autopista México-Querétaro",
+      "icono": "57D",
+      "color": "#b45309",
+      "estado": "Este jueves hubo reducción de carriles por mantenimiento del km 158 al 148 con dirección a la CDMX, y manifestantes en la caseta de Tepotzotlán en ambos sentidos, sin cierre a la circulación (Guardia Nacional / Capufe vía N+). Con el pavimento mojado, maneja con precaución.",
+      "nivel": "warn"
+    },
     {
       "nombre": "Qrobús",
       "icono": "QB",
@@ -28,9 +67,14 @@
   ],
   "avisos": [
     {
-      "titulo": "Primera tormenta invernal: lluvias fuertes y heladas",
-      "texto": "El SMN prevé este jueves lluvias de 50 a 75 mm en el centro y sur de Querétaro y mínimas de 0 a 5° con heladas en la sierra. El viernes 27 bajará más la temperatura y podría haber nieve o aguanieve por la noche en zonas altas del centro del país. Abrígate y maneja con precaución.",
+      "titulo": "Tormenta invernal: viernes con más lluvia, viento y heladas",
+      "texto": "El SMN prevé lluvias de 50 a 75 mm en el centro y sur de Querétaro, viento de 20 a 30 km/h con rachas de 40 a 60 km/h el viernes 27 y heladas de 0 a 5° en la sierra el viernes, sábado y lunes. Podría haber nieve o aguanieve por encima de 2,800 metros de la noche del viernes al sábado. Protección Civil monitorea los 18 municipios; emergencias al 911.",
       "nivel": "warn"
+    },
+    {
+      "titulo": "Viernes 27 sin clases en educación básica",
+      "texto": "Preescolar, primaria y secundaria no tendrán clases este viernes por la sesión del Consejo Técnico Escolar de la SEP. Las clases se reanudan el lunes 30 de noviembre.",
+      "nivel": "ok"
     },
     {
       "titulo": "eQrobús: ya circula la ruta eléctrica gratuita CH3",
@@ -176,6 +220,26 @@
     {
       "hora": "25 de noviembre al 3 de diciembre",
       "texto": "Décima edición del Festival Oxímoron en el Centro de las Artes y el Museo Anbanica"
+    },
+    {
+      "hora": "Viernes 27",
+      "texto": "Feria Ganadera (Ecocentro Expositor, El Marqués): El Trono de México en el Teatro del Pueblo y Grupo Firme en el Palenque"
+    },
+    {
+      "hora": "Sábado 28",
+      "texto": "Feria Ganadera: Ha*Ash en el Teatro del Pueblo (entrada general de 100 pesos)"
+    },
+    {
+      "hora": "Sábado 28, 9:00",
+      "texto": "Abre la pista de hielo gratuita del Festival Alegría en San Juan del Río (Independencia esq. Vicente Guerrero), de 9:00 a 14:00 y de 16:00 a 21:00; se pide CURP impresa"
+    },
+    {
+      "hora": "Domingo 29",
+      "texto": "Feria Ganadera: Alameños de la Sierra en el Teatro del Pueblo y María José en el Palenque"
+    },
+    {
+      "hora": "Domingo 29, 17:00",
+      "texto": "Encendido del árbol navideño en Patio Querétaro, con espectáculo de Plaza Sésamo"
     },
     {
       "hora": "Viernes 27, 18:30",
