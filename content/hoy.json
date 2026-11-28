@@ -1,43 +1,29 @@
 {
-  "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "18:43 h",
+  "fecha": "Sábado 28 de noviembre de 2026",
+  "actualizado": "07:45 h",
   "clima": {
-    "max": 14,
-    "min": 8,
-    "texto": "Viernes nublado y frío en Santiago de Querétaro, con temperaturas entre 8 y 14° por una masa de aire frío y la corriente en chorro subtropical. Protección Civil municipal prevé lluvias ligeras a moderadas, con episodios más intensos de forma intermitente durante el día y parte de la noche, y acumulados de 10 a 25 mm en 24 horas.",
-    "lluvia": "90 % de probabilidad; lluvia ligera a moderada",
-    "viento": "Del este-sureste de 5 a 15 km/h, rachas de hasta 30 km/h",
-    "fuente": "Protección Civil del Municipio de Querétaro (vía Código Qro)"
+    "max": 12,
+    "min": 7,
+    "texto": "Sábado frío y nublado en Santiago de Querétaro, con lluvias ligeras a moderadas por la primera tormenta invernal. Protección Civil estatal prevé máximas cercanas a 12° y mínimas de 7° en la zona metropolitana; el SMN anticipa heladas de 0 a 5° en la sierra y posible nieve o aguanieve por encima de 2,800 metros. Desde el domingo las temperaturas subirían y bajaría la probabilidad de lluvia.",
+    "lluvia": "Lluvia ligera a moderada; chubascos de 5 a 25 mm en el estado",
+    "viento": "Rachas de 30 a 50 km/h en el estado",
+    "fuente": "Protección Civil estatal (vía Amanecer Querétaro) y SMN (vía Rotativo y Uno TV)"
   },
   "municipios": [
     {
-      "nombre": "Tequisquiapan",
-      "max": 11,
-      "min": 9,
-      "lluvia": "Lluvia ligera"
+      "nombre": "San Juan del Río",
+      "max": 12.6,
+      "min": 5.7,
+      "lluvia": "75 % de probabilidad de lluvia"
     },
     {
-      "nombre": "Bernal (Ezequiel Montes)",
-      "max": 10,
-      "min": 7,
-      "lluvia": "Lluvia moderada"
+      "nombre": "Sierra (San Joaquín y Pinal de Amoles)",
+      "max": 11,
+      "min": 4,
+      "lluvia": "Lluvia ligera a moderada; heladas"
     }
   ],
   "vialidades": [
-    {
-      "nombre": "Autopista México-Querétaro",
-      "icono": "57D",
-      "color": "#b45309",
-      "estado": "Capufe reportó este viernes cierre total en el km 154 y reducción de carriles en el km 158, ambos en dirección a Querétaro, para retirar unidades siniestradas. Cerca de las 11:00 un tráiler chocó contra el muro de contención en el km 160 (San Juan del Río) por el pavimento mojado. Ruta alterna: Libramiento Palmillas–Apaseo el Grande; reportes al 074.",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "5 de Febrero",
-      "icono": "5F",
-      "color": "#b45309",
-      "estado": "Por la mañana, un choque por alcance entre un camión de personal y un auto en los laterales con dirección al Centro, a la altura del Parque Industrial Benito Juárez, afectó la circulación; sin lesionados (Quadratín). Sigue pendiente el bacheo por daños de las lluvias.",
-      "nivel": "warn"
-    },
     {
       "nombre": "Qrobús",
       "icono": "QB",
@@ -55,19 +41,24 @@
   ],
   "avisos": [
     {
-      "titulo": "Tormenta invernal: hoy, el día más frío y lluvioso",
-      "texto": "El SMN prevé lluvias de 50 a 75 mm en Querétaro, viento con rachas de 40 a 60 km/h, posible nieve o aguanieve por encima de 2,800 metros esta noche y heladas de 0 a 5° en la sierra en la madrugada del sábado. Protección Civil monitorea los 18 municipios; emergencias al 911.",
+      "titulo": "Tormenta invernal: frío, lluvia y heladas en la sierra",
+      "texto": "El SMN prevé chubascos de 5 a 25 mm, rachas de viento de 30 a 50 km/h, heladas de 0 a 5° en la sierra y posible nieve o aguanieve por encima de 2,800 metros este sábado. Protección Civil estatal mantiene vigilancia con las unidades municipales; maneja con precaución en pavimento mojado y no tires basura en las coladeras. Emergencias al 911.",
       "nivel": "warn"
     },
     {
-      "titulo": "San Juan del Río: parques cerrados hoy y mañana",
-      "texto": "Los parques municipales de San Juan del Río permanecen cerrados el 27 y 28 de noviembre y se cancelan las actividades deportivas al aire libre por el clima.",
+      "titulo": "Personas en situación de calle: avisa al 911",
+      "texto": "San Juan del Río pide reportar al 911 a quien vea durmiendo en la calle por el frío; el municipio ofrece alimento, albergue temporal y atención del DIF a quien lo acepte.",
       "nivel": "warn"
     },
     {
-      "titulo": "Hoy sin clases en educación básica",
-      "texto": "Preescolar, primaria y secundaria no tendrán clases este viernes por la sesión del Consejo Técnico Escolar de la SEP. Las clases se reanudan el lunes 30 de noviembre.",
+      "titulo": "Costales gratis en La Cañada",
+      "texto": "El Marqués entrega costales sin costo a vecinos de La Cañada en la Unidad Deportiva, de lunes a viernes de 8:30 a 16:00, con solicitud y comprobante de domicilio. Lleva tu propio transporte.",
       "nivel": "ok"
+    },
+    {
+      "titulo": "San Juan del Río: parques cerrados hoy",
+      "texto": "Los parques municipales de San Juan del Río siguen cerrados este sábado 28 de noviembre y se cancelan las actividades deportivas al aire libre por el clima.",
+      "nivel": "warn"
     },
     {
       "titulo": "Pasaporte: citas gratuitas y de un día para otro",
@@ -98,11 +89,6 @@
       "titulo": "Operativo invernal: evita calentones en casa",
       "texto": "Protección Civil estatal pide no usar calentones dentro de los hogares por el riesgo de monóxido de carbono y usar calefactores eléctricos certificados. Las personas en situación de calle pueden acudir de forma voluntaria a los refugios; se entregan cobijas a quien las pida.",
       "nivel": "warn"
-    },
-    {
-      "titulo": "Recolección de tiliches en Casa Blanca",
-      "texto": "Hoy es el último día en que el Municipio de Querétaro recogerá objetos en desuso en la colonia Casa Blanca. El escombro no forma parte de la recolección domiciliaria; reportes de basura al 070.",
-      "nivel": "ok"
     },
     {
       "titulo": "Mototaxis de aplicación, sin regulación",
@@ -216,8 +202,12 @@
       "texto": "Décima edición del Festival Oxímoron en el Centro de las Artes y el Museo Anbanica"
     },
     {
-      "hora": "Viernes 27",
-      "texto": "Feria Ganadera (Ecocentro Expositor, El Marqués): El Trono de México en el Teatro del Pueblo y Grupo Firme en el Palenque"
+      "hora": "Sábado 28, 19:00 y 21:10",
+      "texto": "Liguilla, vuelta de cuartos de final: Atlas vs. Toluca (Estadio Jalisco) y América vs. Monterrey (Estadio Azteca)"
+    },
+    {
+      "hora": "Pendiente",
+      "texto": "Feria Ganadera: El Trono de México pospuso su presentación del viernes por el clima; nueva fecha por anunciar en sus redes"
     },
     {
       "hora": "Sábado 28",
@@ -234,10 +224,6 @@
     {
       "hora": "Domingo 29, 17:00",
       "texto": "Encendido del árbol navideño en Patio Querétaro, con espectáculo de Plaza Sésamo"
-    },
-    {
-      "hora": "Viernes 27, 18:30",
-      "texto": "Encendido del árbol e inauguración del Bazar Navideño (27 al 29) en el Jardín Principal de El Pueblito, Corregidora"
     },
     {
       "hora": "Hasta el 30 de noviembre",
