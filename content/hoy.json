@@ -1,13 +1,13 @@
 {
   "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "06:49 h",
+  "actualizado": "18:43 h",
   "clima": {
-    "max": 12,
-    "min": 9,
-    "texto": "Viernes frío y lluvioso en Santiago de Querétaro, el día más frío de la semana según Protección Civil, con máxima cercana a 12° y mínima de 9°. El SMN prevé lluvias fuertes con puntuales muy fuertes (50 a 75 mm) en el estado por la primera tormenta invernal, posible nieve o aguanieve por encima de 2,800 metros durante la noche y heladas de 0 a 5° en la sierra en la madrugada del sábado.",
-    "lluvia": "Lluvia moderada a fuerte durante el día",
-    "viento": "20 a 30 km/h con rachas de 40 a 60 km/h",
-    "fuente": "Protección Civil (vía Expreso Querétaro) / SMN (vía La Silla Rota)"
+    "max": 14,
+    "min": 8,
+    "texto": "Viernes nublado y frío en Santiago de Querétaro, con temperaturas entre 8 y 14° por una masa de aire frío y la corriente en chorro subtropical. Protección Civil municipal prevé lluvias ligeras a moderadas, con episodios más intensos de forma intermitente durante el día y parte de la noche, y acumulados de 10 a 25 mm en 24 horas.",
+    "lluvia": "90 % de probabilidad; lluvia ligera a moderada",
+    "viento": "Del este-sureste de 5 a 15 km/h, rachas de hasta 30 km/h",
+    "fuente": "Protección Civil del Municipio de Querétaro (vía Código Qro)"
   },
   "municipios": [
     {
@@ -28,14 +28,14 @@
       "nombre": "Autopista México-Querétaro",
       "icono": "57D",
       "color": "#b45309",
-      "estado": "Sin afectaciones reportadas por la Guardia Nacional y Capufe en las primeras horas del viernes. A las 4:39 h se reportó carga vehicular por un accidente en el Libramiento Noreste (Chichimequillas), km 37, dirección San Luis Potosí (N+). Con lluvia y pavimento mojado, maneja con precaución.",
+      "estado": "Capufe reportó este viernes cierre total en el km 154 y reducción de carriles en el km 158, ambos en dirección a Querétaro, para retirar unidades siniestradas. Cerca de las 11:00 un tráiler chocó contra el muro de contención en el km 160 (San Juan del Río) por el pavimento mojado. Ruta alterna: Libramiento Palmillas–Apaseo el Grande; reportes al 074.",
       "nivel": "warn"
     },
     {
       "nombre": "5 de Febrero",
       "icono": "5F",
       "color": "#b45309",
-      "estado": "Se prepara un bacheo en la avenida tras los daños que dejaron las lluvias (Diario de Querétaro).",
+      "estado": "Por la mañana, un choque por alcance entre un camión de personal y un auto en los laterales con dirección al Centro, a la altura del Parque Industrial Benito Juárez, afectó la circulación; sin lesionados (Quadratín). Sigue pendiente el bacheo por daños de las lluvias.",
       "nivel": "warn"
     },
     {
@@ -57,6 +57,11 @@
     {
       "titulo": "Tormenta invernal: hoy, el día más frío y lluvioso",
       "texto": "El SMN prevé lluvias de 50 a 75 mm en Querétaro, viento con rachas de 40 a 60 km/h, posible nieve o aguanieve por encima de 2,800 metros esta noche y heladas de 0 a 5° en la sierra en la madrugada del sábado. Protección Civil monitorea los 18 municipios; emergencias al 911.",
+      "nivel": "warn"
+    },
+    {
+      "titulo": "San Juan del Río: parques cerrados hoy y mañana",
+      "texto": "Los parques municipales de San Juan del Río permanecen cerrados el 27 y 28 de noviembre y se cancelan las actividades deportivas al aire libre por el clima.",
       "nivel": "warn"
     },
     {
@@ -249,6 +254,10 @@
     {
       "hora": "Hasta el 10 de enero",
       "texto": "Exposición «Abelardo Ávila y sus contemporáneos» en el Museo de la Restauración de la República, entrada libre"
+    },
+    {
+      "hora": "Viernes 4 de diciembre, 19:00",
+      "texto": "Encendido de la Villa Navideña de El Marqués en el Centro Municipal de Jesús María; abre fines de semana hasta el 20 de diciembre"
     }
   ]
 }
